@@ -1,0 +1,45 @@
+{
+  "title": "VIDEO MẪU – Lãi suất tiết kiệm (minh hoạ)",
+  "caption": "VIDEO MẪU để kiểm tra bộ máy dựng video – số liệu minh hoạ, không phải tin thật.",
+  "hashtags": ["#kinhte", "#taichinh", "#laisuat", "#videomau"],
+  "sources": [{ "name": "Dữ liệu minh hoạ – không phải tin thật", "title": "Kịch bản mẫu", "url": "", "date": "" }],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VIDEO MẪU – Lãi suất tiết kiệm tác động thế nào?",
+      "voice": "Đây là video mẫu. Lãi suất tiết kiệm tác động thế nào tới túi tiền của bạn?"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi suất kỳ hạn 12 tháng (minh hoạ)",
+      "value": "5,5",
+      "unit": "%/năm",
+      "change": "+0,3",
+      "note": "(số liệu minh hoạ)",
+      "voice": "Giả sử lãi suất kỳ hạn mười hai tháng là năm phẩy năm phần trăm một năm, tăng không phẩy ba điểm. Đây chỉ là số liệu minh hoạ."
+    },
+    {
+      "type": "points",
+      "heading": "Ảnh hưởng tới bạn",
+      "items": ["Tiền gửi sinh lời nhiều hơn", "Chi phí vay có thể tăng", "So sánh kỹ trước khi gửi"],
+      "voice": "Khi lãi suất tăng, tiền gửi sinh lời nhiều hơn. Ngược lại, chi phí vay có thể tăng theo. Hãy so sánh kỹ các kỳ hạn trước khi gửi."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi suất theo kỳ hạn",
+      "bars": [
+        { "label": "1 th", "value": 3.5 },
+        { "label": "3 th", "value": 4 },
+        { "label": "6 th", "value": 4.8 },
+        { "label": "12 th", "value": 5.5 }
+      ],
+      "unit": "%/năm – số liệu minh hoạ",
+      "voice": "Biểu đồ minh hoạ cho thấy kỳ hạn càng dài, lãi suất thường càng cao."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật tin kinh tế lúc mười bảy giờ mỗi ngày. Thông tin chỉ mang tính tham khảo."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channelName": "@mrthais",
+  "voice": "vi-VN-HoaiMyNeural",
+  "voiceRate": "+8%",
+  "colors": {
+    "bg": "#0B1F3A",
+    "text": "#FFFFFF",
+    "accent": "#F5B700",
+    "up": "#22C55E",
+    "down": "#EF4444"
+  },
+  "fps": 30,
+  "width": 1080,
+  "height": 1920
+}
