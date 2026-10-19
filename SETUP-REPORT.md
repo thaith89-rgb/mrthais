@@ -37,3 +37,18 @@ Sau khi mở, chạy lại `node scripts/build-day.mjs _mau` để kiểm tra; b
 - Bước `npx remotion browser ensure` trong CLAUDE.md sẽ báo lỗi chừng nào `remotion.media` còn bị chặn — **có thể bỏ qua**,
   `build-day.mjs` tự dùng Chromium có sẵn.
 - Khi TTS bị chặn, video vẫn ra nhưng không tiếng; PR nên ghi rõ điều này.
+
+## Giọng đọc – kiểm tra lại 19/10/2026 (phiên routine, ~09:18 UTC)
+
+Kết quả: ❌ **Vẫn bị chặn** – chưa render lại video mẫu (video `_mau/video/video-1.mp4` cũ, không tiếng, giữ nguyên).
+
+| Domain | Kết quả |
+|---|---|
+| `speech.platform.bing.com` | ❌ `CONNECT tunnel failed, response 403` (proxy: `connect_rejected` – policy denial) |
+| `api.msedgeservices.com` | ❌ `CONNECT tunnel failed, response 403` (proxy: `connect_rejected` – policy denial) |
+| `registry.npmjs.org` (đối chứng) | ✅ 200 |
+
+Có thể thay đổi chưa được lưu, hoặc phiên này dùng môi trường khác với môi trường đã sửa.
+Hãy kiểm tra lại: menu môi trường trên thanh tiêu đề phiên → **Edit** → **Network access** →
+**Allowed domains** có đúng `api.msedgeservices.com` và `speech.platform.bing.com` (giữ tích "Allow package managers"),
+rồi lưu. Hướng dẫn: https://code.claude.com/docs/en/cloud-environments#network-access
