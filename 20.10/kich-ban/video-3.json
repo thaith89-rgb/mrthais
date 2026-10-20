@@ -1,0 +1,89 @@
+{
+  "title": "Giá xăng giảm sau 6 kỳ tăng",
+  "caption": "Giá xăng đã giảm sau 6 kỳ tăng liên tiếp – giá mới là bao nhiêu? ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#giaxang",
+    "#xangdau",
+    "#taichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá xăng dầu mới nhất, áp dụng từ 15 giờ hôm nay 15.10",
+      "url": "https://thanhnien.vn/gia-xang-dau-moi-nhat-ap-dung-tu-15-gio-hom-nay-1510-185261015103340409.htm",
+      "date": "15/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Giá xăng quay đầu giảm, có loại giảm hơn 1.200 đồng/lít",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-quay-dau-giam-co-loai-giam-hon-1200-donglit-20261015141429397.htm",
+      "date": "15/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Petrolimex, PV Oil đua giảm giá xăng dầu thêm 300-350 đồng/lít",
+      "url": "https://tuoitre.vn/petrolimex-pv-oil-dua-giam-gia-xang-dau-them-300-350-dong-lit-100261015163659113.htm",
+      "date": "15/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Xăng E10 rẻ hơn 1.200 đồng/lít",
+      "voice": "Xăng E10 rẻ hơn hơn một nghìn hai trăm đồng một lít!"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E10 RON95-III",
+      "value": "27.029",
+      "unit": "đồng/lít",
+      "change": "-1.225",
+      "voice": "Từ ngày mười lăm tháng mười, xăng E10 còn hai mươi bảy nghìn đồng một lít. Lần giảm đầu tiên sau sáu kỳ tăng."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá điều hành từ 15/10",
+      "bars": [
+        {
+          "label": "E5",
+          "value": 26971
+        },
+        {
+          "label": "E10",
+          "value": 27029
+        },
+        {
+          "label": "Diesel",
+          "value": 29106
+        }
+      ],
+      "unit": "đồng/lít",
+      "voice": "Xăng E5 giảm bảy trăm ba mươi hai đồng. Dầu diesel chỉ giảm khoảng hai mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Giá xăng thế giới giảm",
+        "Có nơi giảm thêm 300–350 đ/lít"
+      ],
+      "voice": "Do giá xăng thế giới giảm. Một số doanh nghiệp còn giảm thêm ba trăm đến ba trăm năm mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá có thể khác giữa cửa hàng",
+        "Kỳ điều hành tới: 22/10"
+      ],
+      "voice": "Giá có thể khác giữa các cửa hàng. Kỳ điều hành tới dự kiến ngày hai mươi hai tháng mười."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

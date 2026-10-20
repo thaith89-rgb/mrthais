@@ -1,0 +1,85 @@
+{
+  "title": "VN-Index mất mốc 1.700 điểm",
+  "caption": "VN-Index thủng mốc 1.700 điểm, khối ngoại bán ròng hơn 850 tỷ – chuyện gì đang xảy ra? 📉👇",
+  "hashtags": [
+    "#kinhte",
+    "#chungkhoan",
+    "#vnindex",
+    "#taichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus (TTXVN)",
+      "title": "VN-Index mất hơn 16 điểm, cổ phiếu bất động sản giảm mạnh nhất",
+      "url": "https://www.vietnamplus.vn/vn-index-mat-hon-16-diem-co-phieu-bat-dong-san-giam-manh-nhat-post1142914.vnp",
+      "date": "19/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "VN-Index giảm 16 điểm sau khi tăng mạnh",
+      "url": "https://vnexpress.net/vn-index-giam-16-diem-sau-khi-tang-manh-5134267.html",
+      "date": "19/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Nhiều nhóm ngành tăng giá, VN-Index vẫn 'đánh rơi' 16 điểm",
+      "url": "https://tuoitre.vn/nhieu-nhom-nganh-tang-gia-vn-index-van-danh-roi-16-diem-100261019153448589.htm",
+      "date": "19/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VN-Index vừa mất mốc 1.700 điểm",
+      "voice": "VN-Index vừa mất mốc một nghìn bảy trăm điểm!"
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index đóng cửa phiên 19/10",
+      "value": "1.689,84",
+      "unit": "điểm",
+      "change": "-16,07",
+      "voice": "Phiên mười chín tháng mười, VN-Index giảm mười sáu điểm, còn một nghìn sáu trăm tám mươi chín điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Điều gì xảy ra?",
+      "items": [
+        "Bất động sản giảm mạnh nhất",
+        "Khối ngoại bán ròng khoảng 852 tỷ"
+      ],
+      "voice": "Nhóm bất động sản giảm mạnh nhất. Khối ngoại bán ròng khoảng tám trăm năm mươi hai tỷ đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "So với đỉnh lịch sử",
+      "bars": [
+        {
+          "label": "Đỉnh",
+          "value": 1927
+        },
+        {
+          "label": "19/10",
+          "value": 1689.84
+        }
+      ],
+      "unit": "điểm",
+      "voice": "Chỉ số đã thấp hơn đỉnh lịch sử hơn mười hai phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Thị trường biến động mạnh",
+        "Cân nhắc khả năng chịu rủi ro"
+      ],
+      "voice": "Thị trường biến động mạnh. Hãy cân nhắc khả năng chịu rủi ro, đừng quyết định theo tin đồn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
