@@ -1,0 +1,78 @@
+{
+  "title": "Vàng miếng thấp nhất hơn 2 tháng",
+  "caption": "Vàng miếng SJC về mức thấp nhất hơn 2 tháng – vì sao giá vàng giảm? 👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangSJC",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng mới nhất hôm nay ngày 20/10: Giá vàng miếng xuống mức thấp nhất hơn hai tháng",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-20-10-5134483.html",
+      "date": "20/10/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "Giá vàng đồng loạt giảm mạnh",
+      "url": "https://tienphong.vn/gia-vang-dong-loat-giam-manh-post1886823.tpo",
+      "date": "20/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng sáng nay 20-10: Vàng thế giới, trong nước đồng loạt giảm",
+      "url": "https://tuoitre.vn/gia-vang-sang-nay-20-10-vang-the-gioi-trong-nuoc-dong-loat-giam-100261020073658856.htm",
+      "date": "20/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng miếng rẻ nhất hơn 2 tháng!",
+      "voice": "Vàng miếng rẻ nhất hơn hai tháng!"
+    },
+    {
+      "type": "stat",
+      "label": "SJC bán ra sáng 20/10",
+      "value": "142",
+      "unit": "triệu đồng/lượng",
+      "note": "Thấp nhất kể từ 5/8",
+      "voice": "Sáng nay, vàng miếng SJC bán ra một trăm bốn mươi hai triệu đồng một lượng, thấp nhất kể từ đầu tháng tám."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Vàng thế giới khoảng 4.130 USD/ounce",
+        "USD mạnh, chờ họp Fed"
+      ],
+      "voice": "Vàng thế giới lùi về quanh bốn nghìn một trăm ba mươi đô một ounce, do đô la mạnh lên và thị trường chờ Fed họp."
+    },
+    {
+      "type": "points",
+      "heading": "Vẫn chênh lớn",
+      "items": [
+        "Cao hơn thế giới 12–13 triệu/lượng",
+        "Mua – bán chênh khoảng 3 triệu"
+      ],
+      "voice": "Giá trong nước vẫn cao hơn thế giới khoảng mười hai đến mười ba triệu đồng một lượng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá đổi nhiều lần trong ngày",
+        "Tính cả chênh mua – bán"
+      ],
+      "voice": "Giá đổi nhiều lần trong ngày. Hãy tính cả chênh lệch mua bán khoảng ba triệu đồng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
