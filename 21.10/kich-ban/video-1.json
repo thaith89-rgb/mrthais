@@ -1,0 +1,97 @@
+{
+  "title": "Đề xuất áp ngay giá điện 5 bậc",
+  "caption": "Đề xuất áp ngay giá điện 5 bậc – 94% hộ có thể giảm hoặc giữ nguyên tiền điện. Nhà bạn dùng bao nhiêu số mỗi tháng? 💡👇",
+  "hashtags": [
+    "#kinhte",
+    "#giadien",
+    "#tiendien",
+    "#taichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Bộ Công Thương đề xuất sớm áp biểu giá điện sinh hoạt 5 bậc",
+      "url": "https://vnexpress.net/bo-cong-thuong-de-xuat-som-ap-bieu-gia-dien-sinh-hoat-5-bac-5135019.html",
+      "date": "21/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Bộ Công Thương đề xuất áp dụng ngay giá điện 5 bậc, tiền điện sẽ thay đổi",
+      "url": "https://dantri.com.vn/kinh-doanh/bo-cong-thuong-de-xuat-ap-dung-ngay-gia-dien-5-bac-tien-dien-se-thay-doi-20261021131258271.htm",
+      "date": "21/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Áp dụng biểu giá điện 5 bậc: 94% khách hàng có thể giảm tiền điện?",
+      "url": "https://thanhnien.vn/ap-dung-bieu-gia-dien-5-bac-94-khach-hang-co-the-giam-tien-dien-185261021140630249.htm",
+      "date": "21/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tiền điện nhà bạn sắp đổi?",
+      "voice": "Tiền điện nhà bạn sắp thay đổi?"
+    },
+    {
+      "type": "stat",
+      "label": "Hộ có thể giảm hoặc giữ nguyên",
+      "value": "94",
+      "unit": "%",
+      "note": "Theo tính toán sơ bộ của Bộ Công Thương",
+      "voice": "Bộ Công Thương đề xuất áp dụng ngay giá điện năm bậc. Khoảng chín mươi bốn phần trăm số hộ được giảm hoặc giữ nguyên tiền điện."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá 5 bậc (đồng/kWh, chưa VAT)",
+      "bars": [
+        {
+          "label": "0–100",
+          "value": 1984
+        },
+        {
+          "label": "101–200",
+          "value": 2380
+        },
+        {
+          "label": "201–400",
+          "value": 2998
+        },
+        {
+          "label": "401–700",
+          "value": 3571
+        },
+        {
+          "label": "Trên 700",
+          "value": 3967
+        }
+      ],
+      "unit": "đồng/kWh",
+      "voice": "Giá mới từ gần hai nghìn đồng, đến gần bốn nghìn đồng mỗi số ở bậc cao nhất."
+    },
+    {
+      "type": "points",
+      "heading": "Ai giảm, ai tăng?",
+      "items": [
+        "Dưới 778 kWh/tháng: giảm hoặc giữ nguyên",
+        "Dùng 1.182 kWh: tăng gần 190.000 đồng"
+      ],
+      "voice": "Hộ dùng dưới bảy trăm bảy mươi tám số mỗi tháng được giảm hoặc giữ nguyên. Hộ dùng khoảng một nghìn hai trăm số có thể trả thêm gần một trăm chín mươi nghìn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Mới là dự thảo, đang lấy ý kiến",
+        "Giá bình quân giữ 2.204 đồng/kWh"
+      ],
+      "voice": "Đây mới là dự thảo. Giá điện bình quân giữ nguyên, không phải một lần tăng giá."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
