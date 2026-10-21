@@ -52,7 +52,7 @@
 
 ## Video 3: Ngân hàng lãi lớn 9 tháng
 
-**Caption:** Hai ngân hàng đầu tiên báo lãi 9 tháng khoảng 1 tỷ USD – mùa báo cáo quý III đang nói gì? 🏦👇
+**Caption:** Hai ngân hàng đầu tiên báo lãi 9 tháng vượt 1 tỷ USD – mùa báo cáo quý III đang nói gì? 🏦👇
 
 **Hashtag:** #kinhte #taichinh #nganhang #baocaotaichinh #tintuc
 

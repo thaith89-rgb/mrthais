@@ -69,7 +69,7 @@ Nguồn: Tuổi Trẻ, Thanh Niên, Tiền Phong. Thông tin tham khảo, không
 **Caption (dán vào TikTok):**
 
 ```
-Hai ngân hàng đầu tiên báo lãi 9 tháng khoảng 1 tỷ USD – mùa báo cáo quý III đang nói gì? 🏦👇
+Hai ngân hàng đầu tiên báo lãi 9 tháng vượt 1 tỷ USD – mùa báo cáo quý III đang nói gì? 🏦👇
 Nguồn: Dân trí, VnExpress, Tuổi Trẻ, VietnamPlus (TTXVN). Thông tin tham khảo, không phải lời khuyên đầu tư.
 #kinhte #taichinh #nganhang #baocaotaichinh #tintuc
 ```
