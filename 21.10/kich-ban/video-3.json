@@ -1,0 +1,99 @@
+{
+  "title": "Ngân hàng lãi lớn 9 tháng",
+  "caption": "Hai ngân hàng đầu tiên báo lãi 9 tháng vượt 1 tỷ USD – mùa báo cáo quý III đang nói gì? 🏦👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#nganhang",
+    "#baocaotaichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Những ngân hàng có lợi nhuận 9 tháng vượt mốc tỷ USD",
+      "url": "https://dantri.com.vn/kinh-doanh/nhung-ngan-hang-co-loi-nhuan-9-thang-vuot-moc-ty-usd-20261021000637108.htm",
+      "date": "21/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "VPBank đạt lợi nhuận 11.000 tỷ trong quý III",
+      "url": "https://vnexpress.net/vpbank-dat-loi-nhuan-11-000-ty-trong-quy-iii-5134111.html",
+      "date": "20/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Lợi nhuận quý 3 của Techcombank hơn 10,4 nghìn tỉ, cao nhất lịch sử",
+      "url": "https://tuoitre.vn/loi-nhuan-quy-3-cua-techcombank-hon-104-nghin-ti-cao-nhat-lich-su-100261020185643732.htm",
+      "date": "20/10/2026"
+    },
+    {
+      "name": "VietnamPlus (TTXVN)",
+      "title": "Lợi nhuận ngân hàng 9 tháng khởi sắc với nhiều nhà băng báo lãi lớn",
+      "url": "https://www.vietnamplus.vn/loi-nhuan-ngan-hang-9-thang-khoi-sac-nhieu-nha-bang-bao-lai-lon-post1143367.vnp",
+      "date": "21/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng lãi hơn 1 tỷ USD?",
+      "voice": "Ngân hàng lãi hơn một tỷ đô la chỉ trong chín tháng?"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi trước thuế 9 tháng cao nhất",
+      "value": "29.911",
+      "unit": "tỷ đồng",
+      "note": "Theo báo cáo vừa công bố",
+      "voice": "Mùa báo cáo quý ba mở màn. Mức lãi trước thuế chín tháng cao nhất gần ba mươi nghìn tỷ đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi trước thuế 9 tháng (nghìn tỷ đồng)",
+      "bars": [
+        {
+          "label": "VPBank",
+          "value": 29.9
+        },
+        {
+          "label": "Techcombank",
+          "value": 28.9
+        },
+        {
+          "label": "SHB (ước)",
+          "value": 14.3
+        },
+        {
+          "label": "LPBank",
+          "value": 10.4
+        }
+      ],
+      "unit": "nghìn tỷ đồng",
+      "voice": "VPBank và Techcombank là hai ngân hàng thương mại đầu tiên báo lãi chín tháng vượt một tỷ đô la, theo Dân trí."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm đáng chú ý",
+      "items": [
+        "Hai ngân hàng lập kỷ lục lãi quý III",
+        "Thu từ dịch vụ tăng mạnh"
+      ],
+      "voice": "Cả hai lập kỷ lục lợi nhuận quý. Nguồn thu từ dịch vụ tăng mạnh."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Nhiều ngân hàng chưa công bố",
+        "Lợi nhuận không phải tín hiệu mua bán"
+      ],
+      "voice": "Nhiều ngân hàng vẫn chưa công bố. Lợi nhuận cao không phải là tín hiệu mua hay bán cổ phiếu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
