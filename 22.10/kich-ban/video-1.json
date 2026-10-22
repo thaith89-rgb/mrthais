@@ -1,0 +1,90 @@
+{
+  "title": "Xăng giảm hơn 1.800 đồng/lít",
+  "caption": "Xăng giảm mạnh từ 15h hôm nay, E10 giảm hơn 1.800 đồng/lít – nhưng dầu diesel lại tăng. Bình xăng của bạn tiết kiệm được bao nhiêu? ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#giaxang",
+    "#xangdau",
+    "#taichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá xăng E10 giảm hơn 1.800 đồng một lít",
+      "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-22-10-5135593.html",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá xăng giảm, dầu tăng",
+      "url": "https://tuoitre.vn/gia-xang-giam-dau-tang-100261022145051262.htm",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng giảm trong khi dầu diesel tăng từ 15 giờ ngày 22/10",
+      "url": "https://www.vietnamplus.vn/gia-xang-giam-trong-khi-dau-diesel-tang-tu-15-gio-ngay-2210-post1143591.vnp",
+      "date": "22/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Xăng giảm hơn 1.800 đồng/lít!",
+      "voice": "Xăng vừa giảm hơn một nghìn tám trăm đồng một lít!"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E10 RON95-III",
+      "value": "25.213",
+      "unit": "đồng/lít",
+      "change": "-1.816",
+      "note": "Giá tối đa từ 15h ngày 22/10",
+      "voice": "Từ mười lăm giờ chiều nay, xăng E mười giảm một nghìn tám trăm mười sáu đồng, còn hơn hai mươi lăm nghìn đồng một lít."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá mới từ 15h",
+      "unit": "đồng/lít",
+      "bars": [
+        {
+          "label": "E10",
+          "value": 25213
+        },
+        {
+          "label": "E5",
+          "value": 25361
+        },
+        {
+          "label": "Diesel",
+          "value": 29550
+        }
+      ],
+      "voice": "Xăng E năm giảm một nghìn sáu trăm mười đồng. Riêng dầu diesel tăng bốn trăm bốn mươi bốn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao?",
+      "items": [
+        "Giá xăng thế giới giảm khoảng 7–8%",
+        "Diesel tăng do căng thẳng Trung Đông"
+      ],
+      "voice": "Giá xăng thế giới giảm bảy đến tám phần trăm, còn diesel tăng vì căng thẳng ở Trung Đông."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây là giá trần, nhiều nơi bán thấp hơn",
+        "Kỳ điều hành tới: thứ Năm 29/10"
+      ],
+      "voice": "Đây là giá tối đa, nhiều cửa hàng bán thấp hơn. Kỳ điều chỉnh tới vào thứ Năm tuần sau."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
