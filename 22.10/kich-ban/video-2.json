@@ -1,0 +1,79 @@
+{
+  "title": "Giá USD thấp nhất 1,5 năm",
+  "caption": "Giá USD tại ngân hàng về sát 26.000 đồng – thấp nhất khoảng một năm rưỡi. Chuyện gì đang xảy ra? 💵👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tygia",
+    "#USD",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá USD ngân hàng xuống thấp nhất một năm rưỡi",
+      "url": "https://vnexpress.net/gia-usd-ngan-hang-xuong-thap-nhat-mot-nam-ruoi-5135506.html",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá USD hôm nay 22.10.2026: Giảm về sát mức 26.000 đồng/USD",
+      "url": "https://thanhnien.vn/gia-usd-hom-nay-22102026-giam-ve-sat-muc-26000-dong-usd-185261022083616958.htm",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Giá vàng, USD đồng loạt giảm mạnh",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-vang-usd-dong-loat-giam-manh-20261022131122929.htm",
+      "date": "22/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá USD thấp nhất một năm rưỡi!",
+      "voice": "Giá đô la ở ngân hàng thấp nhất một năm rưỡi!"
+    },
+    {
+      "type": "stat",
+      "label": "USD bán ra tại Vietcombank",
+      "value": "26.030",
+      "unit": "đồng/USD",
+      "change": "-40",
+      "note": "Sáng 22/10, thấp nhất từ tháng 4/2025",
+      "voice": "Sáng nay, Vietcombank bán đô la hai mươi sáu nghìn không trăm ba mươi đồng, giảm bốn mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Giảm bao nhiêu?",
+      "items": [
+        "Tỷ giá trung tâm: 25.632 đồng",
+        "Giảm gần 2% so với đỉnh 3 tháng trước"
+      ],
+      "voice": "Tỷ giá trung tâm còn hai mươi lăm nghìn sáu trăm ba mươi hai đồng. So với đỉnh ba tháng trước, giá đô la giảm gần hai phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao?",
+      "items": [
+        "Tỷ giá trung tâm liên tục đi xuống",
+        "Chỉ số USD thế giới giảm nhẹ"
+      ],
+      "voice": "Giá đô la giảm theo tỷ giá trung tâm. Chỉ số đô la thế giới cũng giảm nhẹ."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Mỗi ngân hàng một giá",
+        "Tỷ giá thay đổi trong ngày"
+      ],
+      "voice": "Mỗi ngân hàng một giá và thay đổi trong ngày. Hãy xem giá mới nhất trước khi đổi tiền."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

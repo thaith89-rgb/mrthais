@@ -1,0 +1,78 @@
+{
+  "title": "Ngân hàng phải giảm lãi suất thực chất",
+  "caption": "Ngân hàng Nhà nước yêu cầu giảm lãi suất thực chất – không làm có thể bị siết chỉ tiêu tín dụng. Người gửi tiết kiệm và người đi vay cần biết gì? 🏦👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Ngân hàng Nhà nước: Không giảm lãi suất thực chất sẽ bị siết van tín dụng",
+      "url": "https://tuoitre.vn/ngan-hang-nha-nuoc-khong-giam-lai-suat-thuc-chat-se-bi-siet-van-tin-dung-100261021201334033.htm",
+      "date": "21/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Ngân hàng Nhà nước chỉ đạo các nhà băng giảm thực chất lãi suất",
+      "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-chi-dao-cac-nha-bang-giam-thuc-chat-lai-suat-20261021172211745.htm",
+      "date": "21/10/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "Xử lý nghiêm ngân hàng không giảm lãi suất",
+      "url": "https://tienphong.vn/xu-ly-nghiem-ngan-hang-khong-giam-lai-suat-post1887327.tpo",
+      "date": "22/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Không giảm lãi suất, ngân hàng bị siết tín dụng?",
+      "voice": "Không giảm lãi suất, ngân hàng có thể bị siết tín dụng?"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi tiền gửi phải giảm tối thiểu",
+      "value": "0,5",
+      "unit": "%/năm",
+      "note": "Kỳ hạn từ 6 tháng trở lên",
+      "voice": "Ngân hàng Nhà nước yêu cầu giảm thực chất lãi suất. Lãi tiền gửi từ sáu tháng giảm ít nhất không phẩy năm phần trăm một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Với người đi vay",
+      "items": [
+        "Giảm 1,5–2%/năm cho sản xuất, kinh doanh",
+        "Tập trung lĩnh vực ưu tiên"
+      ],
+      "voice": "Lãi vay sản xuất kinh doanh cần giảm từ một phẩy năm đến hai phần trăm một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Nếu không thực hiện",
+      "items": [
+        "Xem xét lại chỉ tiêu tín dụng 2026",
+        "Có thể giao chỉ tiêu thấp năm 2027"
+      ],
+      "voice": "Ngân hàng không thực hiện có thể bị xem xét lại chỉ tiêu tín dụng, hoặc giao chỉ tiêu thấp năm sau."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Hầu hết ngân hàng đã hạ lãi tiền gửi",
+        "So sánh biểu lãi suất trước khi gửi, vay"
+      ],
+      "voice": "Hầu hết ngân hàng đã hạ lãi tiền gửi. Hãy so sánh trước khi gửi hay vay."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
