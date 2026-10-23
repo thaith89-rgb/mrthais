@@ -1,0 +1,18 @@
+{
+  "title": "VN-Index: 3 phiên bù cả tháng giảm",
+  "caption": "Chứng khoán tăng 3 phiên liên tiếp, VN-Index lấy lại hơn 82 điểm – bằng mức giảm cả tháng 10. Điều gì đang diễn ra? 📈👇",
+  "hashtags": ["#kinhte", "#taichinh", "#chungkhoan", "#VNIndex", "#tintuc"],
+  "sources": [
+    { "name": "VnEconomy", "title": "Tăng ba phiên bù cả tháng giảm, VN-Index vượt 1770 điểm", "url": "https://vneconomy.vn/tang-ba-phien-bu-ca-thang-giam-vn-index-vuot-1770-diem.htm", "date": "23/10/2026" },
+    { "name": "Báo Đầu tư", "title": "Tiền chảy mạnh vào nhóm ngân hàng, VN-Index đảo chiều tăng trong phiên chiều 23/10", "url": "https://www.tinnhanhchungkhoan.vn/tien-chay-manh-vao-nhom-ngan-hang-vn-index-dao-chieu-tang-trong-phien-chieu-2310-post400097.html", "date": "23/10/2026" },
+    { "name": "VnExpress", "title": "VN-Index tăng gần 47 điểm", "url": "https://vnexpress.net/vn-index-tang-gan-47-diem-5135178.html", "date": "21/10/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "3 phiên tăng, bù cả tháng giảm!", "voice": "Chỉ ba phiên, chứng khoán lấy lại cả tháng giảm!" },
+    { "type": "stat", "label": "VN-Index đóng cửa 23/10", "value": "1.774,15", "unit": "điểm", "change": "+13,52", "note": "Tăng 0,77%, phiên tăng thứ 3 liên tiếp", "voice": "Chiều nay, VN-Index tăng mười ba phẩy năm hai điểm, lên một nghìn bảy trăm bảy mươi tư điểm." },
+    { "type": "chart", "heading": "Điểm tăng 3 phiên gần nhất", "unit": "điểm", "bars": [{ "label": "21/10", "value": 46.7 }, { "label": "22/10", "value": 22 }, { "label": "23/10", "value": 13.5 }], "voice": "Ba phiên liên tiếp, chỉ số tăng tổng cộng hơn tám mươi hai điểm, gần bằng mức giảm của cả tháng mười." },
+    { "type": "points", "heading": "Điểm đáng chú ý", "items": ["Nhóm ngân hàng kéo điểm phiên chiều", "Cả tuần tăng khoảng 4%", "Chấm dứt 4 tuần giảm liên tiếp"], "voice": "Phiên chiều nay, nhóm ngân hàng kéo chỉ số đảo chiều. Cả tuần, VN-Index tăng khoảng bốn phần trăm, chấm dứt bốn tuần giảm liên tiếp." },
+    { "type": "points", "heading": "Lưu ý", "items": ["Hồi phục nhanh, biến động còn lớn", "Không quyết định theo một phiên"], "voice": "Thị trường hồi phục nhanh nhưng biến động vẫn lớn. Đừng ra quyết định chỉ dựa vào một phiên." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày." }
+  ]
+}
