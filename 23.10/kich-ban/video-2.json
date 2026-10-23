@@ -1,0 +1,86 @@
+{
+  "title": "Lãi giảm, vay mua nhà vẫn trên 11%",
+  "caption": "Ngân hàng đồng loạt giảm lãi vay 1,5–2%/năm, nhưng nhiều khoản vay mua nhà vẫn trên 11%/năm. Bạn đang trả lãi bao nhiêu? 🏠👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#vaymuanha",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Lãi suất giảm, nhiều khoản vẫn trên 11%/năm, người vay mua nhà chật vật",
+      "url": "https://dantri.com.vn/bat-dong-san/lai-suat-giam-nhieu-khoan-van-tren-11nam-nguoi-vay-mua-nha-chat-vat-20261022151323767.htm",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Lãi suất đồng loạt giảm: Mở rộng từ doanh nghiệp sang khách hàng cá nhân",
+      "url": "https://dantri.com.vn/kinh-doanh/lai-suat-dong-loat-giam-mo-rong-tu-doanh-nghiep-sang-khach-hang-ca-nhan-20261022224729207.htm",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "Lãi suất cho vay mới nhất của các ngân hàng",
+      "url": "https://tienphong.vn/lai-suat-cho-vay-moi-nhat-cua-cac-ngan-hang-post1886928.tpo",
+      "date": "10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Hàng loạt nhà băng công bố giảm lãi suất cho vay sau chỉ đạo của Ngân hàng Nhà nước",
+      "url": "https://www.vietnamplus.vn/hang-loat-nha-bang-cong-bo-giam-lai-suat-cho-vay-sau-chi-dao-cua-ngan-hang-nha-nuoc-post1142865.vnp",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lãi giảm, sao vay mua nhà vẫn đắt?",
+      "voice": "Lãi suất đang giảm, sao vay mua nhà vẫn đắt?"
+    },
+    {
+      "type": "stat",
+      "label": "Nhiều khoản vay mua nhà",
+      "value": "Trên 11",
+      "unit": "%/năm",
+      "note": "Một số ngân hàng tư nhân, tháng 10/2026",
+      "voice": "Nhiều khoản vay mua nhà ở một số ngân hàng tư nhân vẫn trên mười một phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Chuyện gì đang xảy ra?",
+      "items": [
+        "Ngân hàng giảm lãi vay 1,5–2%/năm",
+        "Ưu tiên sản xuất, kinh doanh",
+        "Vay cá nhân giảm chậm hơn"
+      ],
+      "voice": "Ngân hàng đang giảm lãi vay một rưỡi đến hai phần trăm, nhưng ưu tiên sản xuất kinh doanh. Vay cá nhân giảm chậm hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Ai bị ảnh hưởng?",
+      "items": [
+        "Người hết thời gian lãi ưu đãi",
+        "Lãi thả nổi có thể lên 11–12%"
+      ],
+      "voice": "Người vừa hết ưu đãi chịu áp lực nhất, lãi thả nổi có thể lên mười một, mười hai phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Người đang vay nên lưu ý",
+      "items": [
+        "Đọc kỹ cách tính lãi thả nổi",
+        "Hỏi ngân hàng về gói lãi mới",
+        "Tính cả phí trả nợ trước hạn"
+      ],
+      "voice": "Hãy đọc kỹ cách tính lãi thả nổi, hỏi ngân hàng về gói lãi mới và tính cả phí trả nợ trước hạn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

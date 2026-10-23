@@ -1,0 +1,87 @@
+{
+  "title": "Vàng trong nước đắt hơn thế giới 16 triệu",
+  "caption": "Vàng thế giới mất hơn 100 USD trong một đêm, nhưng vàng miếng trong nước chỉ giảm 300.000 đồng – chênh lệch vọt lên khoảng 16 triệu đồng/lượng. Vì sao? 🪙👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangSJC",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Chênh lệch giá vàng trong nước và thế giới lên 16 triệu đồng",
+      "url": "https://vnexpress.net/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-len-16-trieu-dong-5135985.html",
+      "date": "23/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng trong nước giảm nhẹ, chênh lệch với thế giới lên tới 16 triệu đồng",
+      "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-di-xuong-chenh-lech-voi-the-gioi-len-toi-16-trieu-dong-post1143765.vnp",
+      "date": "23/10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giá vàng \"bốc hơi\" hơn 100 USD/oz vì mối lo lạm phát cao dai dẳng",
+      "url": "https://vneconomy.vn/gia-vang-boc-hoi-hon-100-usdoz-vi-moi-lo-lam-phat-cao-dai-dang.htm",
+      "date": "23/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng trong nước đắt hơn thế giới 16 triệu?",
+      "voice": "Vàng trong nước đắt hơn thế giới mười sáu triệu một lượng!"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC (bán ra)",
+      "value": "142",
+      "unit": "triệu đồng/lượng",
+      "change": "-0,3",
+      "note": "Sáng 23/10 · mua vào 139 triệu",
+      "voice": "Sáng nay, vàng miếng bán ra một trăm bốn mươi hai triệu, chỉ giảm ba trăm nghìn đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá 1 lượng vàng sáng 23/10",
+      "unit": "triệu đồng",
+      "bars": [
+        {
+          "label": "Thế giới quy đổi",
+          "value": 125.8
+        },
+        {
+          "label": "SJC bán ra",
+          "value": 142
+        }
+      ],
+      "voice": "Còn vàng thế giới quy đổi chỉ khoảng một trăm hai mươi sáu triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao chênh lớn?",
+      "items": [
+        "Vàng thế giới mất hơn 100 USD/ounce",
+        "Thấp nhất hơn 2 tháng",
+        "Giá trong nước giảm chậm hơn"
+      ],
+      "voice": "Đêm qua, vàng thế giới mất hơn một trăm đô một ounce, thấp nhất hơn hai tháng. Giá trong nước giảm chậm hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá quy đổi chưa gồm thuế, phí",
+        "Chênh mua – bán khoảng 3 triệu/lượng"
+      ],
+      "voice": "Giá quy đổi chưa gồm thuế phí. Chênh mua bán vẫn khoảng ba triệu một lượng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
