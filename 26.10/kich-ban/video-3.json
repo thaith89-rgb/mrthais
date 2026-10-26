@@ -1,0 +1,85 @@
+{
+  "title": "Mua vàng nhẫn tuần trước, giờ lỗ 8 triệu",
+  "caption": "Ai mua vàng nhẫn tuần trước, bán ra hôm nay có thể lỗ hơn 8 triệu đồng/lượng. Vàng thế giới vừa có tuần giảm mạnh nhất từ tháng 6. 💍👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangnhan",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 25.10.2026: Người mua vàng nhẫn lỗ hơn 8 triệu đồng sau một tuần",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-25102026-nguoi-mua-vang-nhan-lo-hon-8-trieu-dong-sau-mot-tuan-185261024173152571.htm",
+      "date": "25/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 26-10: Vàng nhẫn SJC 'bốc hơi' hơn 5 triệu đồng/lượng sau một tuần",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-26-10-vang-nhan-sjc-boc-hoi-hon-5-trieu-dong-luong-sau-mot-tuan-100261026072434286.htm",
+      "date": "26/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng trong nước đi ngang, SJC duy trì ngưỡng 141,7 triệu đồng",
+      "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-di-ngang-sjc-duy-tri-nguong-1417-trieu-dong-post1144209.vnp",
+      "date": "26/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng vẫn dưới ngưỡng 4.000 USD mỗi ounce trước thềm cuộc họp của Fed",
+      "url": "https://www.vietnamplus.vn/gia-vang-van-duoi-nguong-4000-usd-moi-ounce-truoc-them-cuoc-hop-cua-fed-post1144196.vnp",
+      "date": "26/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Mua vàng nhẫn tuần trước, giờ lỗ 8 triệu?",
+      "voice": "Mua vàng nhẫn tuần trước, giờ bán ra lỗ hơn tám triệu một lượng!"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng nhẫn SJC (mua vào)",
+      "value": "135",
+      "unit": "triệu đồng/lượng",
+      "change": "-4,1",
+      "note": "Cuối tuần 24–25/10 · bán ra 139 triệu",
+      "voice": "Giá mua vào vàng nhẫn còn một trăm ba mươi lăm triệu, giảm hơn bốn triệu sau một tuần."
+    },
+    {
+      "type": "points",
+      "heading": "Lỗ 8 triệu vì đâu?",
+      "items": [
+        "Mua vào giảm ~4,1 triệu",
+        "Chênh mua – bán ~4 triệu"
+      ],
+      "voice": "Giá mua vào giảm hơn bốn triệu, cộng chênh lệch mua bán bốn triệu, thành lỗ khoảng tám triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Thế giới -4% trong tuần",
+        "Dưới 4.000 USD/ounce"
+      ],
+      "voice": "Vàng thế giới mất khoảng bốn phần trăm trong tuần, xuống dưới bốn nghìn đô một ounce."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Chênh mua – bán lớn",
+        "Giá đổi theo thương hiệu"
+      ],
+      "voice": "Chênh mua bán lớn nên lướt ngắn dễ lỗ. Giá cũng đổi theo thương hiệu và trong ngày."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

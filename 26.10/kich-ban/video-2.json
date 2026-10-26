@@ -1,0 +1,85 @@
+{
+  "title": "Chung cư Hà Nội: giao dịch giảm 66%",
+  "caption": "Quý III, Hà Nội chỉ bán được hơn 3.900 căn hộ – giảm 66% so với cùng kỳ, giá chào bán cũng hạ. Bạn đang chờ mua nhà hay đã mua? 🏢👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#batdongsan",
+    "#chungcu",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Người mua nhà thận trọng hơn",
+      "url": "https://thanhnien.vn/nguoi-mua-nha-than-trong-hon-185261014182806666.htm",
+      "date": "14/10/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Giao dịch chung cư mới ở Hà Nội giảm mạnh, giá vẫn trên 100 triệu/m2",
+      "url": "https://dantri.com.vn/bat-dong-san/giao-dich-chung-cu-moi-o-ha-noi-giam-manh-gia-van-tren-100-trieum2-20261013113021241.htm",
+      "date": "13/10/2026"
+    },
+    {
+      "name": "VTV",
+      "title": "Giao dịch chung cư mới ở Hà Nội giảm mạnh",
+      "url": "https://vtv.vn/giao-dich-chung-cu-moi-o-ha-noi-giam-manh-100261013112449726.htm",
+      "date": "13/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Thị trường bất động sản Hà Nội giảm thanh khoản, nhà đầu tư chịu áp lực lãi vay",
+      "url": "https://www.vietnamplus.vn/thi-truong-bat-dong-san-ha-noi-giam-thanh-khoan-nha-dau-tu-chiu-ap-luc-lai-vay-post1142541.vnp",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Chung cư Hà Nội ế: giao dịch giảm 66%?",
+      "voice": "Giao dịch chung cư Hà Nội giảm tới sáu mươi sáu phần trăm!"
+    },
+    {
+      "type": "stat",
+      "label": "Căn hộ bán được quý III",
+      "value": "3.900",
+      "unit": "căn",
+      "change": "-66%",
+      "note": "Hà Nội · so với cùng kỳ · theo CBRE",
+      "voice": "Quý ba, Hà Nội chỉ bán được hơn ba nghìn chín trăm căn hộ, thấp nhất từ năm hai nghìn không trăm hai mươi bốn."
+    },
+    {
+      "type": "points",
+      "heading": "Giá chào bán hạ nhiệt",
+      "items": [
+        "Căn mới ~86 triệu/m², -9%",
+        "Căn cũ ~60 triệu/m², -5%"
+      ],
+      "voice": "Giá căn mới bình quân khoảng tám mươi sáu triệu một mét vuông, giảm chín phần trăm so với quý trước."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao chững lại?",
+      "items": [
+        "Giá tăng nóng 2 năm",
+        "Lãi vay còn cao"
+      ],
+      "voice": "Sau hai năm tăng nóng, lãi vay lại cao, người mua thận trọng hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá khác theo khu vực",
+        "Vay mua nhà: tính kỹ khả năng trả"
+      ],
+      "voice": "Giá khác nhau theo khu vực. Nếu vay mua nhà, hãy tính kỹ khả năng trả nợ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
