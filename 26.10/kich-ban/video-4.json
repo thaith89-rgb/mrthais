@@ -1,0 +1,85 @@
+{
+  "title": "Chi tiêu tăng 13,4% – thực chất chỉ 7,8%",
+  "caption": "9 tháng, người Việt chi hơn 5,9 triệu tỷ đồng mua sắm và dịch vụ, tăng 13,4%. Nhưng trừ phần giá tăng, sức mua thực chỉ tăng 7,8%. Bạn có đang chi tiêu dè dặt hơn? 🛒👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tieudung",
+    "#sucmua",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Người tiêu dùng thận trọng chi tiêu",
+      "url": "https://vnexpress.net/nguoi-tieu-dung-than-trong-chi-tieu-5136664.html",
+      "date": "25/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Tổng mức bán lẻ hàng hóa và dịch vụ tăng 13,4% trong 9 tháng đầu năm 2026",
+      "url": "https://www.vietnamplus.vn/tong-muc-ban-le-hang-hoa-va-doanh-thu-dich-vu-tieu-dung-tang-134-post1140561.vnp",
+      "date": "10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Sức mua bị 'nén' bởi tâm lý thận trọng",
+      "url": "https://thanhnien.vn/suc-mua-bi-nen-boi-tam-ly-than-trong-185261021183210501.htm",
+      "date": "21/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Chi tiêu tăng 13,4%, nhưng thật ra?",
+      "voice": "Người Việt chi tiêu tăng mười ba phần trăm? Thật ra không nhiều vậy!"
+    },
+    {
+      "type": "stat",
+      "label": "Bán lẻ & dịch vụ 9 tháng",
+      "value": "5,9",
+      "unit": "triệu tỷ đồng",
+      "change": "+13,4%",
+      "note": "So với cùng kỳ 2025 · Cục Thống kê",
+      "voice": "Chín tháng, tổng mức bán lẻ và dịch vụ tiêu dùng hơn năm phẩy chín triệu tỷ đồng, tăng mười ba phẩy bốn phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Mức tăng 9 tháng 2026",
+      "unit": "%",
+      "bars": [
+        {
+          "label": "Danh nghĩa",
+          "value": 13.4
+        },
+        {
+          "label": "Trừ yếu tố giá",
+          "value": 7.8
+        }
+      ],
+      "voice": "Nhưng nếu trừ phần giá cả tăng, mức tăng thực chỉ còn bảy phẩy tám phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Nghĩa là gì?",
+      "items": [
+        "Một phần do giá tăng",
+        "Người mua chi tiêu có kiểm soát"
+      ],
+      "voice": "Nghĩa là một phần tăng trưởng đến từ giá đắt hơn. Người tiêu dùng vẫn mua, nhưng có kiểm soát."
+    },
+    {
+      "type": "points",
+      "heading": "Hiểu đúng con số",
+      "items": [
+        "Xem mức tăng thực, trừ yếu tố giá"
+      ],
+      "voice": "Khi đọc tin, hãy xem mức tăng thực sau khi trừ giá, mới biết sức mua thật."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Giá heo hơi thấp nhất 2 năm",
+  "caption": "Giá heo hơi rơi xuống quanh 46.800 đồng/kg – thấp nhất 2 năm, dưới cả giá thành chăn nuôi. Còn thịt ngoài chợ thì sao? 🐖👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaheohoi",
+    "#giathitheo",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá heo hơi hôm nay 26.10.2026: Thấp nhất trong 2 năm qua",
+      "url": "https://thanhnien.vn/gia-heo-hoi-hom-nay-26102026-thap-nhat-trong-2-nam-qua-185261026083005993.htm",
+      "date": "26/10/2026"
+    },
+    {
+      "name": "VTV",
+      "title": "Giá lợn hơi chạm đáy mới",
+      "url": "https://vtv.vn/gia-lon-hoi-cham-day-moi-10026102309334422.htm",
+      "date": "23/10/2026"
+    },
+    {
+      "name": "VTV",
+      "title": "Giá lợn hơi tiếp tục giảm mạnh",
+      "url": "https://vtv.vn/gia-lon-hoi-tiep-tuc-giam-manh-100261007095911628.htm",
+      "date": "07/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá heo hơi thấp nhất 2 năm!",
+      "voice": "Giá heo hơi vừa xuống thấp nhất hai năm!"
+    },
+    {
+      "type": "stat",
+      "label": "Heo hơi bình quân cả nước",
+      "value": "46.800",
+      "unit": "đồng/kg",
+      "note": "Sáng 26/10 · phổ biến 46.000–50.000",
+      "voice": "Sáng nay, giá heo hơi bình quân cả nước chỉ còn khoảng bốn mươi sáu nghìn tám trăm đồng một ký."
+    },
+    {
+      "type": "chart",
+      "heading": "Một ký heo hơi (nghìn đồng)",
+      "unit": "nghìn đồng/kg",
+      "bars": [
+        {
+          "label": "Giá thành nuôi",
+          "value": 60
+        },
+        {
+          "label": "Giá bán 26/10",
+          "value": 46.8
+        }
+      ],
+      "voice": "Trong khi giá thành chăn nuôi khoảng sáu mươi nghìn đồng, người nuôi đang phải bán dưới giá vốn."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm sâu?",
+      "items": [
+        "Tổng đàn tăng 5,4%",
+        "Thịt nhập khẩu giá rẻ"
+      ],
+      "voice": "Nguyên nhân là nguồn cung dồi dào. Tổng đàn tăng hơn năm phần trăm, cộng thêm thịt nhập khẩu giá rẻ."
+    },
+    {
+      "type": "points",
+      "heading": "Người mua lưu ý",
+      "items": [
+        "Thịt bán lẻ giảm chậm hơn",
+        "Giá khác theo vùng"
+      ],
+      "voice": "Lưu ý, giá thịt ở chợ và siêu thị giảm chậm hơn nhiều, và khác nhau theo từng nơi."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
