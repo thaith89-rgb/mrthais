@@ -1,0 +1,83 @@
+{
+  "title": "Tháng 11: loạt quy định tài chính mới",
+  "caption": "Từ tháng 11/2026, nhiều quy định tài chính – ngân hàng có hiệu lực: VAMC xử lý nợ xấu, quỹ tín dụng nhân dân, phí và lệ phí… Bạn quan tâm quy định nào? 📜👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chinhsachmoi",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Nhiều chính sách tài chính-ngân hàng chính thức có hiệu lực từ tháng 11",
+      "url": "https://www.vietnamplus.vn/nhieu-chinh-sach-tai-chinh-ngan-hang-chinh-thuc-co-hieu-luc-tu-thang-11-post1144482.vnp",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Thành lập Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam",
+      "url": "https://baochinhphu.vn/thanh-lap-cong-ty-quan-ly-tai-san-cua-cac-to-chuc-tin-dung-viet-nam-102260918145337516.htm",
+      "date": "18/09/2026"
+    },
+    {
+      "name": "Công báo Chính phủ",
+      "title": "Nghị định số 359/2026/NĐ-CP",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-359-2026-nd-cp-470495.htm",
+      "date": "09/2026"
+    },
+    {
+      "name": "Công báo Chính phủ",
+      "title": "Thông tư số 40/2026/TT-NHNN",
+      "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-40-2026-tt-nhnn-470265.htm",
+      "date": "08/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tháng 11: loạt quy định tài chính mới",
+      "voice": "Tháng mười một, loạt quy định tài chính ngân hàng mới có hiệu lực!"
+    },
+    {
+      "type": "stat",
+      "label": "Vốn điều lệ VAMC (NĐ 359/2026)",
+      "value": "5.000",
+      "unit": "tỷ đồng",
+      "note": "Hiệu lực từ 6/11/2026",
+      "voice": "Từ sáu tháng mười một, quy định mới về VAMC, công ty xử lý nợ xấu của ngân hàng, có hiệu lực, vốn điều lệ năm nghìn tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Quỹ tín dụng",
+      "items": [
+        "An toàn vốn tối thiểu 8%",
+        "Tiền gửi ≤ 20 lần vốn"
+      ],
+      "voice": "Từ một tháng mười một, quỹ tín dụng nhân dân phải giữ tỷ lệ an toàn vốn tối thiểu tám phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Phí, lệ phí",
+      "items": [
+        "Từ 23/11: sửa phí, lệ phí",
+        "Gồm lệ phí tên miền .vn"
+      ],
+      "voice": "Từ hai mươi ba tháng mười một, một số phí, lệ phí được sửa, gồm cả lệ phí tên miền chấm vi en."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Tra văn bản gốc trên Công báo"
+      ],
+      "voice": "Chi tiết, hãy tra văn bản gốc trên Công báo Chính phủ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

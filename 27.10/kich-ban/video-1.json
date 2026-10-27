@@ -1,0 +1,86 @@
+{
+  "title": "Vàng thế giới lấy lại mốc 4.000 USD",
+  "caption": "Vàng thế giới hồi lên trên 4.000 USD/ounce trước cuộc họp Fed, vàng miếng SJC nhích lên 142 triệu đồng/lượng. Bạn đang theo dõi vàng hay chờ tin Fed? 🪙👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#fed",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 27-10: Vàng thế giới vượt mốc 4.000 USD trước cuộc họp Fed",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-27-10-vang-the-gioi-vuot-moc-4000-usd-truoc-cuoc-hop-fed-100261027075339108.htm",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng bật tăng sau nhiều ngày bất động",
+      "url": "https://thanhnien.vn/gia-vang-bat-tang-sau-nhieu-ngay-bat-dong-185261027094558282.htm",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng sáng 27/10: SJC cao nhất 142 triệu đồng/lượng, tỷ giá trung tâm tăng",
+      "url": "https://www.vietnamplus.vn/gia-vang-sang-2710-sjc-cao-nhat-142-trieu-dongluong-ty-gia-trung-tam-tang-post1144469.vnp",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng phục hồi khi áp lực lạm phát dịu trước cuộc họp Fed",
+      "url": "https://www.vietnamplus.vn/gia-vang-phuc-hoi-khi-noi-lo-lam-phat-tam-lang-post1144433.vnp",
+      "date": "27/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng thế giới lấy lại mốc 4.000 USD?",
+      "voice": "Vàng thế giới vừa lấy lại mốc bốn nghìn đô một ounce!"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC (bán ra)",
+      "value": "142",
+      "unit": "triệu đồng/lượng",
+      "change": "+0,3",
+      "note": "Sáng 27/10 · mua vào 139 triệu",
+      "voice": "Sáng nay, vàng miếng SJC nhích ba trăm nghìn đồng, lên một trăm bốn mươi hai triệu một lượng chiều bán ra."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao vàng hồi?",
+      "items": [
+        "Giá dầu hạ nhiệt",
+        "Bớt lo lạm phát",
+        "Chờ Fed 28/10"
+      ],
+      "voice": "Giá dầu hạ nhiệt giúp bớt lo lạm phát. Thị trường đang chờ Fed công bố lãi suất ngày hai mươi tám."
+    },
+    {
+      "type": "points",
+      "heading": "Vẫn đắt hơn thế giới",
+      "items": [
+        "SJC cao hơn 15–16 triệu",
+        "Nhẫn SJC: 135–139 triệu"
+      ],
+      "voice": "Dù vậy, vàng miếng trong nước vẫn đắt hơn thế giới khoảng mười lăm, mười sáu triệu một lượng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Chênh mua – bán ~3 triệu",
+        "Giá dễ biến động"
+      ],
+      "voice": "Chênh lệch mua bán khoảng ba triệu, giá có thể biến động mạnh quanh tin Fed."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
