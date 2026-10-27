@@ -1,0 +1,91 @@
+{
+  "title": "Xăng có thể tăng lại kỳ 29/10",
+  "caption": "Sau kỳ giảm mạnh 22/10, giá xăng được dự báo có thể tăng 500–1.000 đồng/lít ở kỳ điều hành 29/10 khi dầu Brent vẫn quanh 115 USD/thùng. Đây mới là dự báo – chờ giá chính thức chiều thứ Năm. ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaxang",
+    "#xangdau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá xăng dầu hôm nay 27.10.2026: Xăng trong nước có thể tăng mạnh?",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-27102026-xang-trong-nuoc-co-the-tang-manh-185261027085621127.htm",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá dầu thế giới giảm khoảng 1% nhờ hy vọng hạ nhiệt căng thẳng Trung Đông",
+      "url": "https://www.vietnamplus.vn/gia-dau-the-gioi-giam-khoang-1-nho-hy-vong-ha-nhiet-cang-thang-trung-dong-post1144539.vnp",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng giảm trong khi dầu diesel tăng từ 15 giờ ngày 22/10",
+      "url": "https://www.vietnamplus.vn/gia-xang-giam-trong-khi-dau-diesel-tang-tu-15-gio-ngay-2210-post1143591.vnp",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá xăng giảm, dầu tăng",
+      "url": "https://tuoitre.vn/gia-xang-giam-dau-tang-100261022145051262.htm",
+      "date": "22/10/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "PVOIL tiếp tục giảm giá 350 đồng/lít xăng dầu đến ngày 29/10",
+      "url": "https://tienphong.vn/pvoil-tiep-tuc-giam-gia-350-donglit-xang-dau-den-ngay-2910-post1887485.tpo",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá xăng sắp tăng trở lại?",
+      "voice": "Giá xăng có thể tăng trở lại ngay tuần này?"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E5 RON92 (giá tối đa)",
+      "value": "25.361",
+      "unit": "đồng/lít",
+      "change": "-1.610",
+      "note": "Áp dụng từ 15h ngày 22/10",
+      "voice": "Hiện xăng E5 RON chín hai tối đa hơn hai mươi lăm nghìn ba trăm đồng một lít."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao có thể tăng?",
+      "items": [
+        "Brent ~115 USD/thùng",
+        "Dự báo +500–1.000 đồng/lít"
+      ],
+      "voice": "Dầu Brent vẫn quanh một trăm mười lăm đô một thùng. Báo Thanh Niên dự báo kỳ tới, xăng có thể tăng năm trăm đến một nghìn đồng một lít."
+    },
+    {
+      "type": "points",
+      "heading": "Ưu đãi sắp hết hạn",
+      "items": [
+        "Giảm thêm 300–350 đồng/lít",
+        "Áp dụng đến 29/10"
+      ],
+      "voice": "Một số đầu mối đang giảm thêm ba trăm đến ba trăm rưỡi đồng một lít, đến hai mươi chín tháng mười."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây mới là dự báo",
+        "Giá chính thức: chiều 29/10"
+      ],
+      "voice": "Đây mới là dự báo. Giá chính thức sẽ công bố chiều thứ năm."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
