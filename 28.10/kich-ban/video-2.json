@@ -1,0 +1,89 @@
+{
+  "title": "73,6% nhà mới TP HCM là cao cấp",
+  "caption": "9 tháng 2026, căn hộ cao cấp và trung cao cấp chiếm 73,6% nguồn cung nhà ở đủ điều kiện bán tại TP HCM, trung cấp chỉ 7,1%, chưa có dự án bình dân. Bạn đang tìm nhà ở mức giá nào? 🏙️👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#batdongsan",
+    "#nhao",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Căn hộ cao cấp chiếm hơn 73% nguồn cung nhà ở TP HCM",
+      "url": "https://vnexpress.net/can-ho-cao-cap-chiem-hon-73-nguon-cung-nha-o-tp-hcm-5137644.html",
+      "date": "10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Thị trường nhà ở Thành phố Hồ Chí Minh hướng tới nhu cầu ở thực",
+      "url": "https://www.vietnamplus.vn/thi-truong-nha-o-thanh-pho-ho-chi-minh-huong-toi-nhu-cau-o-thuc-post1143980.vnp",
+      "date": "10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá nhà giảm, vì sao người mua chưa xuống tiền?",
+      "url": "https://thanhnien.vn/gia-nha-giam-vi-sao-nguoi-mua-chua-xuong-tien-185261017204214307.htm",
+      "date": "17/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "3/4 nhà mới TP HCM là cao cấp",
+      "voice": "Gần ba phần tư nhà mới ở Thành phố Hồ Chí Minh là hàng cao cấp!"
+    },
+    {
+      "type": "stat",
+      "label": "Cao cấp + trung cao cấp",
+      "value": "73,6",
+      "unit": "%",
+      "note": "Nhà đủ điều kiện bán – HoREA",
+      "voice": "Theo HoREA, chín tháng qua, phân khúc cao cấp chiếm bảy mươi ba phẩy sáu phần trăm nhà đủ điều kiện bán."
+    },
+    {
+      "type": "chart",
+      "heading": "Cơ cấu nguồn cung",
+      "bars": [
+        {
+          "label": "Cao cấp",
+          "value": 73.6
+        },
+        {
+          "label": "Trung cấp",
+          "value": 7.1
+        },
+        {
+          "label": "Bình dân",
+          "value": 0
+        }
+      ],
+      "unit": "% – TP HCM, 9 tháng 2026",
+      "voice": "Trung cấp chỉ bảy phẩy một phần trăm. Nhà bình dân chưa có dự án nào."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao?",
+      "items": [
+        "Quỹ đất nội đô cạn",
+        "Chỉ khoảng 28% căn được bán"
+      ],
+      "voice": "Quỹ đất nội đô cạn nên dự án hướng tới khách giàu, nhưng chỉ khoảng hai mươi tám phần trăm được bán."
+    },
+    {
+      "type": "points",
+      "heading": "Nếu định mua nhà",
+      "items": [
+        "Tính kỹ khả năng trả nợ",
+        "Kiểm tra pháp lý dự án"
+      ],
+      "voice": "Nếu định mua nhà, hãy tính kỹ khả năng trả nợ và kiểm tra pháp lý dự án."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

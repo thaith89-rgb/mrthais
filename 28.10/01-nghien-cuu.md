@@ -1,0 +1,40 @@
+# Nghiên cứu 28/10/2026
+
+> Môi trường cloud chặn truy cập trực tiếp các trang báo (WebFetch lỗi DNS `ENOTFOUND`), nên số liệu thu thập qua công cụ tìm kiếm (tiêu đề + trích đoạn), chỉ dùng báo/cơ quan được phép, đối chiếu ≥ 2 nguồn khi có. Ngày đăng xác định qua mã ngày trong URL (Tuổi Trẻ, Thanh Niên, Dân trí). **Nên bấm thử link nguồn trước khi đăng.**
+> Đã loại các kết quả tìm kiếm thuộc năm khác (ví dụ bài Lao Động "28/10" có mã bài thuộc năm 2025, bài Petrotimes "Chứng khoán 27/10" năm 2022).
+
+## 1. Vàng SJC sáng 28/10 tăng khoảng 1 triệu rồi hạ nhẹ, chờ Fed
+- Tóm tắt (tự viết lại): Vàng thế giới hồi lên quanh 4.060 USD/ounce (+~1%/24h) sau khi có lúc rơi dưới 4.000 USD ngày 27/10, nhờ giá dầu giảm và thị trường chờ Fed công bố quyết định lãi suất sau cuộc họp 27–28/10 (giờ Mỹ). Trong nước, sáng 28/10 vàng miếng SJC tăng khoảng 1 triệu đồng/lượng, bán ra 143 triệu; khoảng 12h SJC niêm yết 139,7–142,7 triệu (giảm 300.000 đồng so với đầu giờ). Vàng trong nước cao hơn thế giới quy đổi 14–16 triệu đồng/lượng tùy thương hiệu.
+- Số liệu chính: SJC sáng 140–143 triệu (+1 triệu); trưa 139,7–142,7 triệu; thế giới ~4.064 USD/ounce; chênh thế giới 14–16 triệu; chênh mua–bán 3 triệu.
+- Nguồn: Thanh Niên – "Giá vàng giảm sau tăng mạnh, chênh thế giới 16 triệu/lượng" – https://thanhnien.vn/gia-vang-giam-sau-tang-manh-chenh-the-gioi-16-trieu-luong-185261028114001707.htm – 28/10/2026
+- Nguồn đối chiếu: VnExpress – "Giá vàng đảo chiều tăng 1 triệu đồng" – https://vnexpress.net/gia-vang-dao-chieu-tang-1-trieu-dong-5137742.html – 28/10/2026; Tuổi Trẻ – "Giá vàng hôm nay 28-10: Vàng thế giới lấy lại đà tăng, SJC cũng đi lên" – https://tuoitre.vn/gia-vang-hom-nay-28-10-vang-the-gioi-lay-lai-da-tang-sjc-cung-di-len-100261028081825581.htm – 28/10/2026; VietnamPlus – "Giá vàng trong nước đồng loạt tăng, SJC lên ngưỡng 143 triệu đồng" – https://www.vietnamplus.vn/gia-vang-trong-nuoc-dong-loat-tang-sjc-len-nguong-143-trieu-dong-post1144687.vnp – 28/10/2026; VietnamPlus – "Giá vàng thế giới đi lên nhờ giá dầu giảm trước thềm cuộc họp của Fed" – https://www.vietnamplus.vn/gia-vang-the-gioi-di-len-nho-gia-dau-giam-truoc-them-cuoc-hop-cua-fed-post1144659.vnp – 28/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – giá niêm yết công khai, ghi rõ thời điểm; không dự báo giá, không khuyên mua/bán. Các báo ghi giá theo giờ khác nhau → video ghi rõ "sáng" và "trưa".
+
+## 2. Căn hộ cao cấp chiếm 73,6% nguồn cung nhà ở TP HCM, chưa có nhà bình dân
+- Tóm tắt: Theo báo cáo HoREA gửi Chính phủ giữa tháng 10, trong số sản phẩm nhà ở đủ điều kiện huy động vốn tại TP HCM 9 tháng 2026, chung cư cao cấp và trung cao cấp chiếm 73,6%, trung cấp chỉ 7,1%, không có dự án nhà ở bình dân. Nguyên nhân chính: quỹ đất nội đô cạn, chi phí cao nên chủ đầu tư định vị cao cấp. Thanh khoản yếu: tỷ lệ hấp thụ toàn thị trường 9 tháng khoảng 28% (VietnamPlus), DKRA ghi nhận quý III khoảng 26%.
+- Số liệu chính: 73,6% cao cấp + trung cao cấp; 7,1% trung cấp; 0 dự án bình dân; hấp thụ ~26–28%.
+- Nguồn: VnExpress – "Căn hộ cao cấp chiếm hơn 73% nguồn cung nhà ở TP HCM" – https://vnexpress.net/can-ho-cao-cap-chiem-hon-73-nguon-cung-nha-o-tp-hcm-5137644.html – 10/2026 (khoảng 27–28/10)
+- Nguồn đối chiếu: VietnamPlus – "Thị trường nhà ở Thành phố Hồ Chí Minh hướng tới nhu cầu ở thực" – https://www.vietnamplus.vn/thi-truong-nha-o-thanh-pho-ho-chi-minh-huong-toi-nhu-cau-o-thuc-post1143980.vnp – 10/2026; Thanh Niên – "Giá nhà giảm, vì sao người mua chưa xuống tiền?" – https://thanhnien.vn/gia-nha-giam-vi-sao-nguoi-mua-chua-xuong-tien-185261017204214307.htm – 17/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – số liệu từ báo cáo hiệp hội, không nêu tên dự án/doanh nghiệp, không khuyên mua/bán nhà. Lưu ý: 73,6% là tỷ trọng trong sản phẩm *đủ điều kiện huy động vốn*, video ghi rõ.
+
+## 3. GDP quý IV phải tăng khoảng 12,5% để đạt mục tiêu cả năm 10%
+- Tóm tắt: GDP 9 tháng 2026 ước tăng 9,01%, riêng quý III tăng 9,95%. Để cả năm đạt mục tiêu từ 10% trở lên, quý IV cần tăng khoảng 12,5%. Chính phủ yêu cầu giải ngân 100% kế hoạch đầu tư công, kiểm soát lạm phát quanh 4,5%; 9 địa phương được yêu cầu tăng trên 15% trong quý IV. Ngân hàng UOB dự báo cả năm khoảng 9,2%, nêu rủi ro giá năng lượng cao. Quốc hội đang họp kỳ họp thứ 2 (khai mạc 17/10), thảo luận kinh tế – xã hội.
+- Số liệu chính: 9 tháng +9,01%; quý III +9,95%; quý IV cần ~12,5%; mục tiêu ≥10%; UOB dự báo 9,2%.
+- Nguồn: VietnamPlus – "Tốc độ tăng trưởng GDP chín tháng năm 2026 ước đạt 9,01% so với cùng kỳ" – https://www.vietnamplus.vn/toc-do-tang-truong-gdp-chin-thang-nam-2026-uoc-dat-901-so-voi-cung-ky-post1139772.vnp – 10/2026
+- Nguồn đối chiếu: VnEconomy – "GDP quý IV phải tăng trên 12,5% để đạt mục tiêu tăng trưởng hai con số" – https://vneconomy.vn/gdp-quy-iv-phai-tang-tren-125-de-dat-muc-tieu-tang-truong-hai-con-so.htm – 10/2026; VnExpress – "Chính phủ yêu cầu 9 địa phương tăng trưởng trên 15% trong quý IV" – https://vnexpress.net/chinh-phu-yeu-cau-9-dia-phuong-tang-truong-tren-15-trong-quy-iv-5129670.html – 10/2026; VnExpress – "UOB nâng dự báo tăng trưởng Việt Nam lên 9,2%" – https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-9-2-5131875.html – 10/2026; Thanh Niên – "Cục Thống kê nêu các động lực giúp GDP quý 3 tăng gần 10%" – https://thanhnien.vn/cuc-thong-ke-neu-cac-dong-luc-giup-gdp-quy-3-tang-gan-10-185261003113617441.htm – 03/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – số liệu chính thức + dự báo có ghi nguồn; giọng trung tính, không bình luận chính sách. Độ mới trung bình (số liệu công bố đầu tháng 10, nhưng đang được Quốc hội thảo luận).
+
+## 4. VN-Index giảm 3 phiên liên tiếp, thanh khoản thấp, khối ngoại bán ròng
+- Tóm tắt: Phiên 27/10, VN-Index giảm 1,68 điểm (−0,1%) xuống 1.761,87 điểm, phiên giảm thứ 3 liên tiếp; có lúc lên 1.772,62 điểm nhưng không vượt được vùng 1.770 điểm (đường trung bình 50 phiên). Mã giảm 197, mã tăng 123. Giá trị giao dịch HOSE khoảng 13.922 tỷ đồng. Khối ngoại bán ròng khoảng 318–319 tỷ đồng (Tuổi Trẻ, VnEconomy; VnExpress ghi ~427 tỷ theo cách tính khác). Các công ty chứng khoán nhận định chỉ số dao động 1.750–1.780 điểm. Số liệu phiên 28/10 chưa có khi làm video.
+- Số liệu chính: 1.761,87 điểm (−1,68); 3 phiên giảm; ~13.900 tỷ đồng; khối ngoại bán ròng >300 tỷ.
+- Nguồn: Tuổi Trẻ – "Sắc đỏ áp đảo, VN-Index chỉ giảm gần 2 điểm" – https://tuoitre.vn/sac-do-ap-dao-vn-index-chi-giam-gan-2-diem-10026102715431122.htm – 27/10/2026
+- Nguồn đối chiếu: VnExpress – "Chứng khoán hôm nay 27/10: VN-Index giảm 3 phiên liên tiếp" – https://vnexpress.net/chung-khoan-giam-3-phien-lien-tiep-5137497.html – 27/10/2026; VietnamPlus – "Chứng khoán 27/10: VN-Index giảm nhẹ, thanh khoản duy trì ở mức thấp" – https://www.vietnamplus.vn/chung-khoan-2710-vn-index-giam-nhe-thanh-khoan-duy-tri-o-muc-thap-post1144569.vnp – 27/10/2026; VnEconomy – "VN-Index giảm nhẹ, kháng cự 1770 điểm thách thức nhà đầu tư" – https://vneconomy.vn/vn-index-giam-nhe-khang-cu-1770-diem-thach-thuc-nha-dau-tu.htm – 27/10/2026; Tuổi Trẻ – "Chứng khoán 28-10: Dự báo VN-Index tiếp tục giằng co, chờ thêm tín hiệu của dòng tiền" – https://tuoitre.vn/chung-khoan-28-10-du-bao-vn-index-tiep-tuc-giang-co-cho-them-tin-hieu-cua-dong-tien-100261028065226944.htm – 28/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – số liệu thị trường công khai; không nêu mã cổ phiếu, không khuyến nghị mua/bán.
+
+## Tin đã xem nhưng không chọn
+- Lợi nhuận 9 tháng ngân hàng (VIB ~7.600 tỷ, +8%; Sacombank giảm mạnh) – Dân trí, VnExpress, Thanh Niên 28/10: đã làm chủ đề lợi nhuận ngân hàng 21/10; nêu tên doanh nghiệp có kết quả xấu → tránh.
+- Giá xăng kỳ 29/10 (Thanh Niên 28/10: Brent −1,93 USD còn 113,88 USD/thùng) – đã làm 27/10; giá chính thức công bố chiều 29/10.
+- Giá heo hơi 45.500 đồng/kg (Thanh Niên 28/10) – đã làm 26/10.
+- Tỷ giá trung tâm 25.631 đồng/USD, −2 đồng (Thanh Niên 28/10) – biến động nhỏ, đã làm 22/10.
+- Cổ phiếu FPT thấp nhất từ 2024 (Thanh Niên 27/10) – nói về 1 mã cổ phiếu, dễ bị hiểu là gợi ý đầu tư → loại.
+- Lương tối thiểu vùng tăng 7,8% từ 2027 – tin từ tháng 7–9, chưa có diễn biến mới trong 24h.

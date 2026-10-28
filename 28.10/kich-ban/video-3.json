@@ -1,0 +1,95 @@
+{
+  "title": "Quý 4 cần tăng trưởng 12,5%",
+  "caption": "GDP 9 tháng 2026 tăng 9,01%. Để cả năm đạt mục tiêu từ 10%, quý 4 cần tăng khoảng 12,5% – mức rất cao. Điều này liên quan gì tới việc làm và giá cả? 📈👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#gdp",
+    "#tangtruong",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Tốc độ tăng trưởng GDP chín tháng năm 2026 ước đạt 9,01% so với cùng kỳ",
+      "url": "https://www.vietnamplus.vn/toc-do-tang-truong-gdp-chin-thang-nam-2026-uoc-dat-901-so-voi-cung-ky-post1139772.vnp",
+      "date": "10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "GDP quý IV phải tăng trên 12,5% để đạt mục tiêu tăng trưởng hai con số",
+      "url": "https://vneconomy.vn/gdp-quy-iv-phai-tang-tren-125-de-dat-muc-tieu-tang-truong-hai-con-so.htm",
+      "date": "10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "UOB nâng dự báo tăng trưởng Việt Nam lên 9,2%",
+      "url": "https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-9-2-5131875.html",
+      "date": "10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng trên 15% trong quý IV",
+      "url": "https://vnexpress.net/chinh-phu-yeu-cau-9-dia-phuong-tang-truong-tren-15-trong-quy-iv-5129670.html",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Quý 4 cần tăng trưởng 12,5%?",
+      "voice": "Kinh tế quý bốn cần tăng mười hai phẩy năm phần trăm?"
+    },
+    {
+      "type": "stat",
+      "label": "GDP 9 tháng 2026",
+      "value": "9,01",
+      "unit": "%",
+      "note": "Riêng quý III: 9,95%",
+      "voice": "Chín tháng qua, GDP ước tăng chín phẩy không một phần trăm. Riêng quý ba gần mười phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Tốc độ tăng GDP",
+      "bars": [
+        {
+          "label": "9 tháng",
+          "value": 9.01
+        },
+        {
+          "label": "Quý III",
+          "value": 9.95
+        },
+        {
+          "label": "Quý IV cần",
+          "value": 12.5
+        }
+      ],
+      "unit": "% so với cùng kỳ",
+      "voice": "Để cả năm đạt mục tiêu mười phần trăm, quý bốn cần tăng khoảng mười hai phẩy năm."
+    },
+    {
+      "type": "points",
+      "heading": "Để về đích",
+      "items": [
+        "Giải ngân hết đầu tư công",
+        "Giữ lạm phát quanh 4,5%"
+      ],
+      "voice": "Chính phủ yêu cầu giải ngân hết vốn đầu tư công và giữ lạm phát quanh bốn phẩy năm phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Cần theo dõi",
+      "items": [
+        "UOB dự báo cả năm khoảng 9,2%",
+        "Rủi ro: giá năng lượng cao"
+      ],
+      "voice": "Ngân hàng UOB dự báo cả năm khoảng chín phẩy hai phần trăm. Rủi ro lớn là giá năng lượng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
