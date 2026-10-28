@@ -1,0 +1,75 @@
+{
+  "title": "Vàng SJC lại chạm 143 triệu",
+  "caption": "Sáng 28/10 vàng miếng SJC tăng khoảng 1 triệu, chạm 143 triệu đồng/lượng rồi hạ nhẹ vào trưa. Vàng thế giới hồi lên quanh 4.060 USD/ounce, cả thị trường đang chờ quyết định của Fed. Bạn đang chờ tin Fed chứ? 🪙👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#fed",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng giảm sau tăng mạnh, chênh thế giới 16 triệu/lượng",
+      "url": "https://thanhnien.vn/gia-vang-giam-sau-tang-manh-chenh-the-gioi-16-trieu-luong-185261028114001707.htm",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng đảo chiều tăng 1 triệu đồng",
+      "url": "https://vnexpress.net/gia-vang-dao-chieu-tang-1-trieu-dong-5137742.html",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 28-10: Vàng thế giới lấy lại đà tăng, SJC cũng đi lên",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-28-10-vang-the-gioi-lay-lai-da-tang-sjc-cung-di-len-100261028081825581.htm",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng thế giới đi lên nhờ giá dầu giảm trước thềm cuộc họp của Fed",
+      "url": "https://www.vietnamplus.vn/gia-vang-the-gioi-di-len-nho-gia-dau-giam-truoc-them-cuoc-hop-cua-fed-post1144659.vnp",
+      "date": "28/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng SJC lại chạm 143 triệu?",
+      "voice": "Vàng SJC sáng nay lại chạm một trăm bốn mươi ba triệu?"
+    },
+    {
+      "type": "stat",
+      "label": "SJC bán ra, trưa 28/10",
+      "value": "142,7",
+      "unit": "triệu đồng/lượng",
+      "note": "Sáng tăng khoảng 1 triệu, trưa hạ nhẹ",
+      "voice": "Sáng nay vàng miếng tăng khoảng một triệu đồng. Đến trưa hạ nhẹ, còn một trăm bốn mươi hai phẩy bảy triệu mỗi lượng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Thế giới hồi lên khoảng 4.060 USD/ounce",
+        "Chờ quyết định của Fed"
+      ],
+      "voice": "Vàng thế giới hồi lên quanh bốn nghìn không trăm sáu mươi đô một ounce, khi thị trường chờ quyết định lãi suất của Fed."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đắt hơn thế giới 14–16 triệu",
+        "Mua – bán chênh khoảng 3 triệu"
+      ],
+      "voice": "Lưu ý, vàng trong nước đắt hơn thế giới mười bốn đến mười sáu triệu, giá mua bán chênh khoảng ba triệu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

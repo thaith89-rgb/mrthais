@@ -1,0 +1,84 @@
+{
+  "title": "VN-Index giảm 3 phiên liên tiếp",
+  "caption": "Phiên 27/10, VN-Index giảm phiên thứ 3 liên tiếp về 1.761,87 điểm, thanh khoản thấp, khối ngoại bán ròng hơn 300 tỷ đồng. Vùng 1.770 điểm vẫn là thử thách. Bạn thấy thị trường đang thế nào? 📉👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#vnindex",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Sắc đỏ áp đảo, VN-Index chỉ giảm gần 2 điểm",
+      "url": "https://tuoitre.vn/sac-do-ap-dao-vn-index-chi-giam-gan-2-diem-10026102715431122.htm",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Chứng khoán hôm nay 27/10: VN-Index giảm 3 phiên liên tiếp",
+      "url": "https://vnexpress.net/chung-khoan-giam-3-phien-lien-tiep-5137497.html",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "VN-Index giảm nhẹ, kháng cự 1770 điểm thách thức nhà đầu tư",
+      "url": "https://vneconomy.vn/vn-index-giam-nhe-khang-cu-1770-diem-thach-thuc-nha-dau-tu.htm",
+      "date": "27/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Chứng khoán 27/10: VN-Index giảm nhẹ, thanh khoản duy trì ở mức thấp",
+      "url": "https://www.vietnamplus.vn/chung-khoan-2710-vn-index-giam-nhe-thanh-khoan-duy-tri-o-muc-thap-post1144569.vnp",
+      "date": "27/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VN-Index giảm 3 phiên liên tiếp",
+      "voice": "VN-Index vừa giảm ba phiên liên tiếp!"
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index chốt phiên 27/10",
+      "value": "1.761,87",
+      "unit": "điểm",
+      "change": "-1,68",
+      "note": "197 mã giảm, 123 mã tăng",
+      "voice": "Phiên hai mươi bảy tháng mười, VN-Index giảm nhẹ, về một nghìn bảy trăm sáu mươi mốt điểm. Mã giảm áp đảo mã tăng."
+    },
+    {
+      "type": "points",
+      "heading": "Đáng chú ý",
+      "items": [
+        "Giao dịch HOSE khoảng 13.900 tỷ",
+        "Khối ngoại bán ròng >300 tỷ"
+      ],
+      "voice": "Giao dịch sàn HOSE chỉ khoảng mười ba nghìn chín trăm tỷ đồng. Khối ngoại bán ròng hơn ba trăm tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Vùng cần vượt",
+      "items": [
+        "Chưa qua được 1.770 điểm"
+      ],
+      "voice": "Chỉ số vẫn chưa vượt được vùng một nghìn bảy trăm bảy mươi điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Không chạy theo tin đồn",
+        "Tìm hiểu kỹ trước khi quyết định"
+      ],
+      "voice": "Đừng chạy theo tin đồn, hãy tìm hiểu kỹ trước mọi quyết định."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
