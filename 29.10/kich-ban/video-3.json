@@ -1,0 +1,85 @@
+{
+  "title": "Từ 15/11, hội phụ huynh hết thu quỹ",
+  "caption": "Từ 15/11/2026, Thông tư 81 có hiệu lực: ban đại diện cha mẹ học sinh không được thu, giữ tiền hay đặt khoản đóng góp bắt buộc. Lớp con bạn đã chốt quỹ chưa? 🎒👇",
+  "hashtags": [
+    "#kinhte",
+    "#chinhsachmoi",
+    "#phuhuynh",
+    "#giaoduc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Ban đại diện cha mẹ học sinh không được thu, giữ tiền hỗ trợ",
+      "url": "https://thanhnien.vn/ban-dai-dien-cha-me-hoc-sinh-khong-duoc-thu-giu-tien-ho-tro-185260930180409378.htm",
+      "date": "30/09/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Bộ Giáo dục-Đào tạo \"chốt\" ban đại diện cha mẹ học sinh không được thu, quản lý tiền",
+      "url": "https://www.vietnamplus.vn/bo-giao-duc-dao-tao-chot-ban-dai-dien-cha-me-hoc-sinh-khong-duoc-thu-quan-ly-tien-post1139259.vnp",
+      "date": "09/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Cấm lập quỹ, phụ huynh đóng góp tiền cho hoạt động của lớp thế nào?",
+      "url": "https://dantri.com.vn/giao-duc/cam-lap-quy-phu-huynh-dong-gop-tien-cho-hoat-dong-cua-lop-the-nao-20261004211052504.htm",
+      "date": "04/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Chính sách mới về xổ số, lưu trú, chứng khoán có hiệu lực từ tháng 11-2026",
+      "url": "https://tuoitre.vn/chinh-sach-moi-ve-xo-so-luu-tru-chung-khoan-co-hieu-luc-tu-thang-11-2026-10026102613244706.htm",
+      "date": "26/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Từ 15/11, hội phụ huynh hết thu quỹ?",
+      "voice": "Từ mười lăm tháng mười một, hội phụ huynh hết được thu quỹ?"
+    },
+    {
+      "type": "stat",
+      "label": "Thông tư 81/2026 có hiệu lực",
+      "value": "15/11",
+      "unit": "năm 2026",
+      "note": "Thay Điều lệ ban đại diện từ năm 2011",
+      "voice": "Thông tư tám mốt của Bộ Giáo dục có hiệu lực từ mười lăm tháng mười một, thay quy định từ năm hai nghìn mười một."
+    },
+    {
+      "type": "points",
+      "heading": "Ban đại diện không được",
+      "items": [
+        "Thu, giữ tiền hỗ trợ",
+        "Đặt khoản đóng góp bắt buộc",
+        "Ấn định mức đóng tối thiểu"
+      ],
+      "voice": "Ban đại diện không được thu, giữ tiền, hay đặt khoản đóng góp bắt buộc."
+    },
+    {
+      "type": "points",
+      "heading": "Vẫn được tự nguyện",
+      "items": [
+        "Gắn với hoạt động cụ thể",
+        "Trả trực tiếp cho bên cung cấp"
+      ],
+      "voice": "Phụ huynh vẫn được tự nguyện hỗ trợ từng hoạt động, trả thẳng cho bên cung cấp."
+    },
+    {
+      "type": "points",
+      "heading": "Phụ huynh nên lưu ý",
+      "items": [
+        "Hỏi rõ số quỹ lớp đang giữ",
+        "Đề nghị công khai thu chi"
+      ],
+      "voice": "Nên hỏi rõ số quỹ lớp đang giữ, và đề nghị công khai thu chi."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}

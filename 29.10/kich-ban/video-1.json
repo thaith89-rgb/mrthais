@@ -1,0 +1,78 @@
+{
+  "title": "Xăng dầu tăng từ 15h hôm nay",
+  "caption": "Từ 15h chiều 29/10, xăng dầu đồng loạt tăng: E10 lên 25.734 đồng/lít, diesel vượt mốc 30.000 đồng/lít. Bình xăng tuần này của bạn đắt thêm bao nhiêu? ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaxang",
+    "#xangdau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng dầu đồng loạt tăng, xăng E10 có giá mới 25.734 đồng mỗi lít",
+      "url": "https://www.vietnamplus.vn/gia-xang-dau-dong-loat-tang-xang-e10-co-gia-moi-25734-dong-moi-lit-post1145001.vnp",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá xăng dầu hôm nay 29.10.2026: Xăng E10 chiều nay tăng hay giảm?",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-29102026-xang-e10-chieu-nay-tang-hay-giam-185261029082300087.htm",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá xăng giảm mạnh, có loại giảm gần 2.000 đồng/lít",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-manh-co-loai-giam-gan-2000-donglit-20261022142613733.htm",
+      "date": "22/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Diesel vượt 30.000 đồng/lít!",
+      "voice": "Dầu diesel vừa vượt ba mươi nghìn đồng một lít!"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E10RON95-III, từ 15h 29/10",
+      "value": "25.734",
+      "unit": "đồng/lít",
+      "change": "+521",
+      "voice": "Từ mười lăm giờ chiều nay, xăng E mười tăng năm trăm hai mốt đồng, lên hai lăm nghìn bảy trăm ba tư đồng một lít."
+    },
+    {
+      "type": "points",
+      "heading": "Các mặt hàng khác",
+      "items": [
+        "E5RON92: 26.027 đồng (+666)",
+        "Diesel 0,05S: 30.246 đồng (+696)"
+      ],
+      "voice": "Xăng E năm tăng sáu trăm sáu sáu đồng. Diesel tăng gần bảy trăm, lên hơn ba mươi nghìn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Giá dầu thế giới hồi lên",
+        "Kỳ trước vừa giảm mạnh"
+      ],
+      "voice": "Lý do là giá dầu thế giới hồi lên, sau kỳ giảm mạnh tuần trước."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây là giá bán lẻ tối đa",
+        "Giá tại cây xăng có thể thấp hơn"
+      ],
+      "voice": "Đây là giá tối đa, giá tại cây xăng có thể thấp hơn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật lúc mười bảy giờ mỗi ngày."
+    }
+  ]
+}
