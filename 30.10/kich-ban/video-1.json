@@ -1,0 +1,85 @@
+{
+  "title": "Vàng SJC rơi về đáy 3 tháng",
+  "caption": "Sáng 30/10, vàng miếng SJC mất 1,3 triệu đồng/lượng chỉ sau một đêm, về 141,4 triệu – thấp nhất từ cuối tháng 7. Bạn đang theo dõi vàng miếng hay vàng nhẫn? 🪙👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangSJC",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 30.10.2026: Bốc hơi 1,3 triệu đồng sau một đêm",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-30102026-boc-hoi-13-trieu-dong-sau-mot-dem-18526103008101458.htm",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng trong nước đồng loạt giảm, SJC xuống ngưỡng 141,4 triệu đồng",
+      "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-dong-loat-giam-sjc-xuong-nguong-1414-trieu-dong-post1145138.vnp",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giá vàng SJC giảm mạnh, chạm đáy 3 tháng giữa áp lực lãi suất",
+      "url": "https://vneconomy.vn/gia-vang-roi-ve-vung-day-cua-3-thang.htm",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 30-10: Lạm phát Mỹ gây sức ép, vàng tiếp tục giảm sâu",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-30-10-lam-phat-my-gay-suc-ep-vang-tiep-tuc-giam-sau-100261030083124115.htm",
+      "date": "30/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng SJC mất 1,3 triệu sau một đêm!",
+      "voice": "Vàng miếng mất một triệu ba sau một đêm!"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC bán ra, sáng 30/10",
+      "value": "141,4",
+      "unit": "triệu đồng/lượng",
+      "change": "-1,3",
+      "voice": "Sáng nay, vàng S J C còn một trăm bốn mốt triệu tư một lượng bán ra."
+    },
+    {
+      "type": "points",
+      "heading": "Mức thấp nhất từ cuối tháng 7",
+      "items": [
+        "Mua vào: 138,4 triệu đồng/lượng",
+        "Vàng nhẫn giảm nhẹ hơn: 0,5–1,5 triệu"
+      ],
+      "voice": "Thấp nhất từ cuối tháng bảy. Vàng nhẫn giảm nhẹ hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Lạm phát PCE tháng 9 của Mỹ tăng 0,5%",
+        "Lo Fed tăng lãi suất tháng 12",
+        "Vàng thế giới về quanh 4.000 USD/ounce"
+      ],
+      "voice": "Lạm phát Mỹ còn cao, thị trường lo Fed tăng lãi suất. Vàng thế giới về quanh bốn nghìn đô."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá thay đổi nhiều lần trong ngày",
+        "Chênh lệch mua – bán khoảng 3 triệu"
+      ],
+      "voice": "Giá đổi nhiều lần trong ngày, chênh mua bán khoảng ba triệu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

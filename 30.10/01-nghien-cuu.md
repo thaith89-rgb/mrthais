@@ -1,0 +1,35 @@
+# Nghiên cứu 30/10/2026
+
+> Như các ngày trước, số liệu thu thập qua công cụ tìm kiếm (tiêu đề + trích đoạn) giới hạn ở báo/cơ quan được phép, đối chiếu ≥ 2 nguồn khi có. Đã loại các kết quả thuộc năm khác (bài "29/10", "30/10" của 2020–2025). **Nên bấm thử link nguồn trước khi đăng.**
+
+## 1. Vàng SJC giảm 1,3 triệu đồng/lượng, về vùng thấp nhất từ cuối tháng 7
+- Tóm tắt (tự viết lại): Sáng 30/10, giá vàng miếng SJC giảm 1,3 triệu đồng mỗi lượng ở cả hai chiều so với sáng 29/10, còn 138,4 triệu (mua vào) – 141,4 triệu đồng/lượng (bán ra); đầu giờ sáng vẫn còn neo 142,7 triệu, đến khoảng 9h25 mới giảm. VnEconomy nhận định đây là mức thấp nhất kể từ cuối tháng 7/2026. Vàng nhẫn giảm nhẹ hơn, khoảng 0,5–1,5 triệu đồng/lượng tùy doanh nghiệp. Vàng thế giới lùi về quanh 4.000 USD/ounce (Tuổi Trẻ: 4.002,22 USD/ounce lúc 8h, giảm gần 37 USD) sau khi chỉ số giá chi tiêu tiêu dùng cá nhân (PCE) tháng 9 của Mỹ tăng 0,5%, làm tăng lo ngại Fed nâng lãi suất trong tháng 12.
+- Số liệu chính: SJC 138,4–141,4 triệu đồng/lượng (−1,3 triệu); thấp nhất từ cuối 7/2026; thế giới ~4.000 USD/ounce; PCE tháng 9 +0,5%.
+- Nguồn: Thanh Niên – "Giá vàng hôm nay 30.10.2026: Bốc hơi 1,3 triệu đồng sau một đêm" – https://thanhnien.vn/gia-vang-hom-nay-30102026-boc-hoi-13-trieu-dong-sau-mot-dem-18526103008101458.htm – 30/10/2026
+- Nguồn đối chiếu: VietnamPlus – "Giá vàng trong nước đồng loạt giảm, SJC xuống ngưỡng 141,4 triệu đồng" – https://www.vietnamplus.vn/gia-vang-trong-nuoc-dong-loat-giam-sjc-xuong-nguong-1414-trieu-dong-post1145138.vnp – 30/10/2026; VnEconomy – "Giá vàng SJC giảm mạnh, chạm đáy 3 tháng giữa áp lực lãi suất" – https://vneconomy.vn/gia-vang-roi-ve-vung-day-cua-3-thang.htm – 30/10/2026; Tuổi Trẻ – "Giá vàng hôm nay 30-10: Lạm phát Mỹ gây sức ép, vàng tiếp tục giảm sâu" – https://tuoitre.vn/gia-vang-hom-nay-30-10-lam-phat-my-gay-suc-ep-vang-tiep-tuc-giam-sau-100261030083124115.htm – 30/10/2026; Dân Trí – "Giá vàng trong nước, quốc tế đồng loạt lao dốc" – https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-quoc-te-dong-loat-lao-doc-20261030110105786.htm – 30/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – giá niêm yết công khai, ghi rõ thời điểm "sáng 30/10"; không dự báo giá, không khuyên mua/bán.
+
+## 2. Xuất nhập khẩu 10 tháng lần đầu vượt 1.000 tỷ USD
+- Tóm tắt: Theo ước tính công bố ngày 29/10, tổng kim ngạch xuất nhập khẩu hàng hóa 10 tháng năm 2026 đạt khoảng 1.010,6 tỷ USD, tăng 32,3% so với cùng kỳ – lần đầu vượt mốc 1.000 tỷ USD chỉ sau 10 tháng. Xuất khẩu ước 499 tỷ USD (+27,4%). Riêng tháng 10 xuất siêu khoảng 6,8 tỷ USD, tháng thứ hai liên tiếp xuất siêu; lũy kế 10 tháng vẫn nhập siêu khoảng 12,7 tỷ USD (giảm từ 19,42 tỷ USD sau 9 tháng). Khu vực FDI chiếm khoảng 77,5% tổng kim ngạch (778 tỷ USD). Số liệu Cục Hải quan tính đến 29/10 có cách tính khác (xuất 493,64 tỷ, nhập 507,66 tỷ USD) – video chỉ dùng số ước tính chung.
+- Số liệu chính: 1.010,6 tỷ USD (+32,3%); xuất khẩu 499 tỷ USD (+27,4%); tháng 10 xuất siêu 6,8 tỷ USD; FDI 77,5%.
+- Nguồn: VietnamPlus – "Kim ngạch xuất nhập khẩu trong 10 tháng tăng 32,3%, vượt mốc 1.000 tỷ USD" – https://www.vietnamplus.vn/kim-ngach-xuat-nhap-khau-trong-10-thang-tang-323-vuot-moc-1000-ty-usd-post1145058.vnp – 29/10/2026
+- Nguồn đối chiếu: Báo Chính phủ – "Xuất nhập khẩu hàng hóa vượt mốc 1.000 tỷ USD sau 10 tháng" – https://baochinhphu.vn/xuat-nhap-khau-hang-hoa-vuot-moc-1000-ty-usd-sau-10-thang-102261029175411208.htm – 29/10/2026; Thanh Niên – "Xuất nhập khẩu lập đỉnh mới, vượt 1.000 tỉ USD" – https://thanhnien.vn/xuat-nhap-khau-lap-dinh-moi-vuot-1000-ti-usd-185261029174800742.htm – 29/10/2026; Dân Trí – "Xuất nhập khẩu Việt Nam chính thức vượt mốc 1.000 tỷ USD" – https://dantri.com.vn/kinh-doanh/xuat-nhap-khau-viet-nam-chinh-thuc-vuot-moc-1000-ty-usd-20261029174054766.htm – 29/10/2026; VietnamPlus – "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, cán cân thương mại cải thiện" – https://www.vietnamplus.vn/xuat-nhap-khau-lan-dau-vuot-1000-ty-usd-can-can-thuong-mai-cai-thien-post1145192.vnp – 30/10/2026
+- Đánh giá rủi ro pháp lý: Thấp – số liệu ước tính chính thức, video ghi rõ là "ước tính".
+
+## 3. VN-Index phiên 29/10 mất hơn 11 điểm, cổ phiếu dầu khí lao dốc
+- Tóm tắt: Phiên 29/10, VN-Index giảm 11,04 điểm (−0,62%) về 1.755,61 điểm, sau phiên tăng 4,78 điểm lên 1.766,65 ngày 28/10. Áp lực bán lan rộng ở nhóm vốn hóa lớn; nhóm dầu khí giảm mạnh, có mã giảm sàn, dù giá dầu thế giới tăng. Khối ngoại bán ròng khoảng 430 tỷ đồng toàn thị trường (VnEconomy: 429,9 tỷ; Dân Trí: hơn 400 tỷ). Thanh khoản khoảng 14.000–15.700 tỷ đồng tùy cách tính.
+- Số liệu chính: 1.755,61 điểm (−11,04; −0,62%); khối ngoại bán ròng ~430 tỷ đồng.
+- Nguồn: VietnamPlus – "Chứng khoán 29/10: VN-Index giảm hơn 11 điểm, dầu khí lao dốc" – https://www.vietnamplus.vn/chung-khoan-2910-dau-khi-lao-doc-vn-index-mat-hon-11-diem-post1145028.vnp – 29/10/2026
+- Nguồn đối chiếu: VnEconomy – "Khối ngoại lại bán ròng hơn 500 tỷ" – https://vneconomy.vn/khoi-ngoai-lai-ban-rong-hon-500-ty.htm – 29/10/2026 (bán ròng 429,9 tỷ toàn thị trường; 531,3 tỷ riêng khớp lệnh); Dân Trí – "Cổ phiếu dầu khí PVT, PVP... lao dốc dù giá dầu thế giới tăng" – https://dantri.com.vn/kinh-doanh/co-phieu-dau-khi-pvt-pvp-lao-doc-du-gia-dau-the-gioi-tang-20261029165928088.htm – 29/10/2026; VnEconomy – "VN-Index giảm mạnh, kiểm định hỗ trợ 1740 điểm giữa áp lực bán" – https://vneconomy.vn/vn-index-giam-manh-kiem-dinh-vung-ho-tro-1740-diem.htm – 30/10/2026
+- Đánh giá rủi ro pháp lý: Thấp–Trung bình – số liệu thị trường công khai; **không nêu mã cổ phiếu**, không dự báo điểm số, không khuyên mua/bán (bỏ các nhận định "có thể lên 1.832 điểm" của công ty chứng khoán).
+
+## 4. Tỷ giá 30/10: USD hạ nhiệt
+- Tóm tắt: Tỷ giá trung tâm 30/10 là 25.637 đồng/USD (−7 đồng); Vietcombank bán ra 26.020 đồng (−20). USD-Index giảm về 101,85.
+- Nguồn: Thanh Niên – "Giá USD hôm nay 30.10.2026: Giảm xuống dưới 26.000 đồng" – https://thanhnien.vn/gia-usd-hom-nay-30102026-giam-xuong-duoi-26000-dong-185261030083110626.htm – 30/10/2026; VietnamPlus (EN) – "Reference exchange rate down 7 VND on October 30" – https://en.vietnamplus.vn/reference-exchange-rate-down-7-vnd-on-october-30-post354552.vnp – 30/10/2026
+- Đánh giá rủi ro pháp lý: Thấp. **Không chọn**: biến động nhỏ, ít gây chú ý; tiêu đề Thanh Niên "dưới 26.000" không khớp hẳn với giá bán Vietcombank 26.020 (có thể là giá mua vào/thị trường khác).
+
+## Tin đã xem nhưng không chọn
+- **Xem xét giảm giá điện và thuế TTĐB xăng về 0% từ 1/11** (VnExpress, Thanh Niên, Báo Chính phủ 27/10) – đến khi làm video chưa có quyết định chính thức, chưa có mức giảm → rủi ro Trung bình (dễ hiểu nhầm là đã giảm), loại. Nên theo dõi ngày 31/10–1/11.
+- **Nghị định 353/2026/NĐ-CP phổ cập mầm non 5–6 tuổi, hiệu lực 1/11** (Tuổi Trẻ, chinhphu.vn) – báo chưa nêu mức hỗ trợ học phí cụ thể, khó làm video có số liệu.
+- **MB thông qua lập ngân hàng con vốn 3.000 tỷ đồng tại Trung tâm tài chính quốc tế** (Tuổi Trẻ 30/10) – tin doanh nghiệp, ít liên quan túi tiền; tránh nêu tên ngân hàng cụ thể.
+- **CPI tháng 10** – Cục Thống kê dự kiến công bố 02/11/2026, chưa có số liệu.

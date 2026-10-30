@@ -1,0 +1,78 @@
+{
+  "title": "VN-Index mất hơn 11 điểm",
+  "caption": "Phiên 29/10, VN-Index giảm hơn 11 điểm về 1.755,61; nhóm dầu khí giảm mạnh dù giá dầu thế giới tăng, khối ngoại bán ròng khoảng 430 tỷ đồng. 📉👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#vnindex",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Chứng khoán 29/10: VN-Index giảm hơn 11 điểm, dầu khí lao dốc",
+      "url": "https://www.vietnamplus.vn/chung-khoan-2910-dau-khi-lao-doc-vn-index-mat-hon-11-diem-post1145028.vnp",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Khối ngoại lại bán ròng hơn 500 tỷ",
+      "url": "https://vneconomy.vn/khoi-ngoai-lai-ban-rong-hon-500-ty.htm",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Cổ phiếu dầu khí PVT, PVP... lao dốc dù giá dầu thế giới tăng",
+      "url": "https://dantri.com.vn/kinh-doanh/co-phieu-dau-khi-pvt-pvp-lao-doc-du-gia-dau-the-gioi-tang-20261029165928088.htm",
+      "date": "29/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Dầu thế giới tăng, cổ phiếu dầu khí lại giảm?",
+      "voice": "Dầu thế giới tăng, sao cổ phiếu dầu khí lại giảm?"
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index đóng cửa 29/10",
+      "value": "1.755,61",
+      "unit": "điểm",
+      "change": "-11,04",
+      "voice": "Phiên hai chín tháng mười, VN Index mất mười một điểm, về một nghìn bảy trăm năm lăm điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Diễn biến phiên",
+      "items": [
+        "Áp lực bán lan rộng ở nhóm vốn hóa lớn",
+        "Nhóm dầu khí giảm mạnh, có mã giảm sàn"
+      ],
+      "voice": "Bán lan rộng ở nhóm vốn hóa lớn. Dầu khí giảm mạnh, có mã giảm sàn."
+    },
+    {
+      "type": "points",
+      "heading": "Khối ngoại",
+      "items": [
+        "Bán ròng khoảng 430 tỷ đồng",
+        "Thanh khoản 14.000–15.700 tỷ đồng"
+      ],
+      "voice": "Khối ngoại bán ròng khoảng bốn trăm ba mươi tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Một phiên giảm chưa nói lên xu hướng",
+        "Tự tìm hiểu kỹ trước mọi quyết định"
+      ],
+      "voice": "Một phiên giảm chưa nói lên xu hướng. Hãy tìm hiểu kỹ trước khi quyết định."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

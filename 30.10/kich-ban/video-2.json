@@ -1,0 +1,84 @@
+{
+  "title": "Xuất nhập khẩu vượt 1.000 tỷ USD",
+  "caption": "Chỉ sau 10 tháng, tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt 1.000 tỷ USD – lần đầu tiên trong lịch sử. Con số này nói gì về nền kinh tế? 📦👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#xuatkhau",
+    "#vietnam",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Kim ngạch xuất nhập khẩu trong 10 tháng tăng 32,3%, vượt mốc 1.000 tỷ USD",
+      "url": "https://www.vietnamplus.vn/kim-ngach-xuat-nhap-khau-trong-10-thang-tang-323-vuot-moc-1000-ty-usd-post1145058.vnp",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Xuất nhập khẩu hàng hóa vượt mốc 1.000 tỷ USD sau 10 tháng",
+      "url": "https://baochinhphu.vn/xuat-nhap-khau-hang-hoa-vuot-moc-1000-ty-usd-sau-10-thang-102261029175411208.htm",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Xuất nhập khẩu lập đỉnh mới, vượt 1.000 tỉ USD",
+      "url": "https://thanhnien.vn/xuat-nhap-khau-lap-dinh-moi-vuot-1000-ti-usd-185261029174800742.htm",
+      "date": "29/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Xuất nhập khẩu Việt Nam chính thức vượt mốc 1.000 tỷ USD",
+      "url": "https://dantri.com.vn/kinh-doanh/xuat-nhap-khau-viet-nam-chinh-thuc-vuot-moc-1000-ty-usd-20261029174054766.htm",
+      "date": "29/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "1.000 tỷ USD chỉ sau 10 tháng!",
+      "voice": "Một nghìn tỷ đô, chỉ sau mười tháng!"
+    },
+    {
+      "type": "stat",
+      "label": "Xuất nhập khẩu 10 tháng 2026 (ước tính)",
+      "value": "1.010,6",
+      "unit": "tỷ USD",
+      "change": "+32,3%",
+      "voice": "Xuất nhập khẩu mười tháng ước hơn một nghìn tỷ đô, tăng ba mươi hai phần trăm, lần đầu vượt mốc này."
+    },
+    {
+      "type": "points",
+      "heading": "Con số đáng chú ý",
+      "items": [
+        "Xuất khẩu: 499 tỷ USD, tăng 27,4%",
+        "Tháng 10 xuất siêu 6,8 tỷ USD"
+      ],
+      "voice": "Xuất khẩu gần năm trăm tỷ đô. Tháng mười xuất siêu sáu phẩy tám tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Nhưng cần biết",
+      "items": [
+        "Cộng dồn 10 tháng vẫn nhập siêu ~12,7 tỷ USD",
+        "Khối FDI chiếm 77,5% kim ngạch"
+      ],
+      "voice": "Nhưng cộng dồn vẫn nhập siêu khoảng mười hai tỷ, khối vốn ngoại chiếm hơn ba phần tư."
+    },
+    {
+      "type": "points",
+      "heading": "Với bạn",
+      "items": [
+        "Thương mại tăng: thêm đơn hàng, việc làm",
+        "Đây là số ước tính, có thể điều chỉnh"
+      ],
+      "voice": "Thương mại tăng thường kéo theo đơn hàng, việc làm. Đây là số ước tính."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
