@@ -50,7 +50,7 @@ Nguồn: Thanh Niên, VietnamPlus, VnEconomy, Tuổi Trẻ. Thông tin tham kh�
 **Caption (dán vào TikTok):**
 
 ```
-Chỉ sau 10 tháng, tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt mốc 1.000 tỷ USD – lần đầu đạt mốc này chỉ sau 10 tháng. Con số này nói gì về nền kinh tế? 📦👇
+Tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt mốc 1.000 tỷ USD – lần đầu đạt mốc này chỉ sau 10 tháng. Con số này nói gì về nền kinh tế? 📦👇
 Nguồn: VietnamPlus, Báo Chính phủ, Thanh Niên, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.
 #kinhte #taichinh #xuatkhau #vietnam #tintuc
 ```
