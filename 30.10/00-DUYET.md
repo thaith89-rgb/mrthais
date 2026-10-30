@@ -8,7 +8,7 @@ Cách khắc phục: cài đặt môi trường cloud → **Network access** →
 Lưu ý khác:
 - Số liệu thu thập qua công cụ tìm kiếm (tiêu đề + trích đoạn) từ các báo được phép, đối chiếu nhiều báo; chi tiết trong `30.10/01-nghien-cuu.md`. **Nên bấm thử các link nguồn trước khi đăng.**
 - Không làm video giá điện / thuế xăng 0% từ 1/11 vì đến lúc làm chưa có quyết định chính thức – nên để ý tin ngày 31/10–1/11.
-- Nhánh này tiếp tục mang theo bản sửa `scripts/build-day.mjs` + `remotion.config.ts` (đường dẫn Chromium mới) và `.gitignore` vì chưa có trên `main`.
+- Nhánh này tiếp tục mang theo bản sửa `scripts/build-day.mjs` + `remotion.config.ts` (đường dẫn Chromium mới) vì chưa có trên `main`.
 - Dọn dẹp: không có video nào cũ hơn 14 ngày trên `main` (chỉ có video mẫu `_mau/` ngày 19/10, giữ nguyên).
 
 ## Hướng dẫn đăng
@@ -50,7 +50,7 @@ Nguồn: Thanh Niên, VietnamPlus, VnEconomy, Tuổi Trẻ. Thông tin tham kh�
 **Caption (dán vào TikTok):**
 
 ```
-Chỉ sau 10 tháng, tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt 1.000 tỷ USD – lần đầu tiên trong lịch sử. Con số này nói gì về nền kinh tế? 📦👇
+Chỉ sau 10 tháng, tổng kim ngạch xuất nhập khẩu của Việt Nam đã vượt mốc 1.000 tỷ USD – lần đầu đạt mốc này chỉ sau 10 tháng. Con số này nói gì về nền kinh tế? 📦👇
 Nguồn: VietnamPlus, Báo Chính phủ, Thanh Niên, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.
 #kinhte #taichinh #xuatkhau #vietnam #tintuc
 ```
