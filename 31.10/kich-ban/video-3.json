@@ -1,0 +1,92 @@
+{
+  "title": "VN-Index khép tháng 10 trong sắc đỏ",
+  "caption": "Phiên cuối tháng 10, VN-Index mất gần 14 điểm về 1.741,62; khối ngoại bán ròng khoảng 640 tỷ đồng – phiên bán ròng thứ 6 liên tiếp. 📉👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#vnindex",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Chứng khoán kết thúc tháng 10 trong sắc đỏ, VN-Index mất gần 14 điểm",
+      "url": "https://www.vietnamplus.vn/chung-khoan-ket-thuc-thang-10-trong-sac-do-vn-index-mat-gan-14-diem-post1145228.vnp",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "VN-Index giảm sâu phiên cuối tháng",
+      "url": "https://vnexpress.net/vn-index-giam-sau-phien-cuoi-thang-5138832.html",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Khối ngoại ngày càng bán ròng mạnh tay, cuối tuần xả thêm hơn 600 tỷ",
+      "url": "https://vneconomy.vn/khoi-ngoai-ngay-cang-ban-rong-manh-tay-cuoi-tuan-xa-them-hon-600-ty.htm",
+      "date": "30/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Chứng khoán lại giảm, ông Nguyễn Đức Tài có phát ngôn gây chú ý",
+      "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-ong-nguyen-duc-tai-co-phat-ngon-gay-chu-y-20261030153419674.htm",
+      "date": "30/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VN-Index mất gần 14 điểm ngày cuối tháng!",
+      "voice": "VN Index mất gần mười bốn điểm ngày cuối tháng!"
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index đóng cửa 30/10",
+      "value": "1.741,62",
+      "unit": "điểm",
+      "change": "-13,99",
+      "voice": "Phiên ba mươi tháng mười, VN Index giảm mười ba phẩy chín chín điểm, về một nghìn bảy trăm bốn mươi mốt điểm."
+    },
+    {
+      "type": "chart",
+      "heading": "VN-Index 2 phiên gần nhất",
+      "bars": [
+        {
+          "label": "29/10",
+          "value": 1755.61
+        },
+        {
+          "label": "30/10",
+          "value": 1741.62
+        }
+      ],
+      "unit": "điểm",
+      "voice": "Đây là phiên giảm thứ hai liên tiếp, có lúc chỉ số xuống quanh một nghìn bảy trăm hai bảy điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Diễn biến phiên",
+      "items": [
+        "Ngân hàng, chứng khoán gây áp lực",
+        "Gần 250 mã giảm trên HOSE",
+        "Khối ngoại bán ròng khoảng 640 tỷ"
+      ],
+      "voice": "Nhóm ngân hàng và chứng khoán gây áp lực. Gần hai trăm năm mươi mã giảm. Khối ngoại bán ròng khoảng sáu trăm bốn mươi tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Biến động ngắn hạn chưa nói lên xu hướng",
+        "Tự tìm hiểu kỹ trước mọi quyết định"
+      ],
+      "voice": "Biến động ngắn hạn chưa nói lên xu hướng. Hãy tìm hiểu kỹ trước mọi quyết định."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
