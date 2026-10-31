@@ -1,0 +1,91 @@
+{
+  "title": "Dự kiến giảm giá điện, thuế xăng",
+  "caption": "Ngày 31/10, Phó Thủ tướng cho biết dự kiến giảm khoảng 2% giá bán lẻ điện và đưa thuế tiêu thụ đặc biệt với xăng từ 7% về 0%. Đây là phương án dự kiến, chờ văn bản chính thức. Hóa đơn tiền điện nhà bạn mỗi tháng bao nhiêu? 💡👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadien",
+    "#giaxang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Phó thủ tướng Nguyễn Văn Thắng: Sẽ giảm khoảng 2% giá bán lẻ điện",
+      "url": "https://thanhnien.vn/pho-thu-tuong-nguyen-van-thang-se-giam-khoang-2-gia-ban-le-dien-185261031135140744.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Phó thủ tướng: Sẽ giảm 2% giá bán lẻ điện",
+      "url": "https://vnexpress.net/pho-thu-tuong-se-giam-2-gia-ban-le-dien-5139121.html",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Phó thủ tướng Nguyễn Văn Thắng thông tin phương án giảm giá điện khoảng 2% từ nay đến 31-3-2027",
+      "url": "https://tuoitre.vn/pho-thu-tuong-nguyen-van-thang-thong-tin-phuong-an-giam-gia-dien-khoang-2-tu-nay-den-31-3-2027-100261031123030329.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Phó Thủ tướng thông tin việc giảm giá điện và thuế xăng",
+      "url": "https://dantri.com.vn/thoi-su/pho-thu-tuong-thong-tin-viec-giam-gia-dien-va-thue-xang-20261031124703346.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Khẩn trương xem xét phương án giảm thuế tiêu thụ đặc biệt với xăng về 0% và giảm giá điện",
+      "url": "https://baochinhphu.vn/khan-truong-xem-xet-phuong-an-giam-thue-tieu-thu-dac-biet-voi-xang-ve-0-va-giam-gia-dien-102261027183811931.htm",
+      "date": "27/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tiền điện, tiền xăng sắp giảm?",
+      "voice": "Tiền điện và tiền xăng sắp được giảm?"
+    },
+    {
+      "type": "stat",
+      "label": "Giá bán lẻ điện – mức giảm dự kiến",
+      "value": "~2%",
+      "unit": "đến hết 31/3/2027",
+      "voice": "Phó Thủ tướng cho biết dự kiến giảm khoảng hai phần trăm giá bán lẻ điện, tới hết tháng ba năm sau."
+    },
+    {
+      "type": "points",
+      "heading": "Giá điện bình quân",
+      "items": [
+        "Hiện hành: 2.204 đồng/kWh",
+        "Nếu giảm 2%: khoảng 2.159 đồng/kWh",
+        "Chưa gồm VAT"
+      ],
+      "voice": "Giá điện bình quân hiện khoảng hai nghìn hai trăm đồng một số. Giảm hai phần trăm còn khoảng hai nghìn một trăm sáu mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Thuế xăng",
+      "items": [
+        "Thuế tiêu thụ đặc biệt: 7% → 0%",
+        "Từ tháng 11 đến hết năm",
+        "Khoảng 4.000 tỷ đồng"
+      ],
+      "voice": "Thuế tiêu thụ đặc biệt với xăng dự kiến về không phần trăm, khoảng bốn nghìn tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây là phương án dự kiến",
+        "Chờ văn bản chính thức và bảng giá mới"
+      ],
+      "voice": "Đây là phương án dự kiến, hãy chờ văn bản chính thức."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

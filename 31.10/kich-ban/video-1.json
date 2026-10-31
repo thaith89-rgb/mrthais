@@ -1,0 +1,18 @@
+{
+  "title": "Vàng SJC rời mốc 140 triệu",
+  "caption": "Sáng 31/10, vàng miếng SJC giảm 2,4 triệu đồng/lượng, về 139 triệu – rời xa mốc 140 triệu. So với đỉnh gần 191 triệu đầu năm, giá đã thấp hơn khoảng 27%. Bạn đang theo dõi vàng miếng hay vàng nhẫn? 🪙👇",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#vangSJC", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Giá vàng mới nhất hôm nay ngày 31/10: Giá vàng miếng giảm hơn 2 triệu đồng", "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-31-10-5139058.html", "date": "31/10/2026" },
+    { "name": "Thanh Niên", "title": "Giá vàng hôm nay 31.10.2026: Lao dốc gần 3 triệu, rời xa ngưỡng 140 triệu đồng", "url": "https://thanhnien.vn/gia-vang-hom-nay-31102026-lao-doc-gan-3-trieu-roi-xa-nguong-140-trieu-dong-185261031085218272.htm", "date": "31/10/2026" },
+    { "name": "VietnamPlus", "title": "Giá vàng trong nước đồng loạt giảm, SJC xuống ngưỡng 141,4 triệu đồng", "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-dong-loat-giam-sjc-xuong-nguong-1414-trieu-dong-post1145138.vnp", "date": "30/10/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng SJC thủng mốc 140 triệu!", "voice": "Vàng miếng vừa thủng mốc một trăm bốn mươi triệu!" },
+    { "type": "stat", "label": "Vàng miếng SJC bán ra, sáng 31/10", "value": "139", "unit": "triệu đồng/lượng", "change": "-2,4", "voice": "Sáng nay, vàng S J C bán ra còn một trăm ba mươi chín triệu đồng một lượng, giảm hai triệu tư." },
+    { "type": "chart", "heading": "Giá bán vàng miếng SJC", "bars": [ { "label": "Đỉnh đầu năm", "value": 191 }, { "label": "30/10", "value": 141.4 }, { "label": "31/10", "value": 139 } ], "unit": "triệu đồng/lượng", "voice": "So với đỉnh gần một trăm chín mươi mốt triệu đầu năm, giá đã thấp hơn khoảng hai mươi bảy phần trăm." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": [ "Vàng thế giới mất 146 USD/ounce", "Còn 3.874 USD – thấp nhất từ 10/2025", "Vàng nhẫn SJC còn 131,8–135,8 triệu" ], "voice": "Vàng thế giới mất một trăm bốn mươi sáu đô, xuống thấp nhất từ tháng mười năm ngoái. Vàng nhẫn cũng giảm theo." },
+    { "type": "points", "heading": "Lưu ý", "items": [ "Giá đổi nhiều lần trong ngày", "Chênh mua – bán khoảng 3 triệu" ], "voice": "Giá đổi nhiều lần trong ngày, chênh lệch mua bán khoảng ba triệu." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
