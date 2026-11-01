@@ -1,0 +1,92 @@
+{
+  "title": "Giá xăng giảm gần 2.000 đồng/lít",
+  "caption": "Từ 0h ngày 1/11, thuế tiêu thụ đặc biệt với xăng về 0%: E5 RON 92 giảm 1.804 đồng/lít, còn tối đa 24.223 đồng; E10 RON 95 giảm 1.575 đồng/lít. Bạn hay đổ loại xăng nào? ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaxang",
+    "#xangdau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Thuế tiêu thụ đặc biệt về 0%, giá xăng đồng loạt giảm tới 1.804 đồng mỗi lít",
+      "url": "https://www.vietnamplus.vn/thue-tieu-thu-dac-biet-ve-0-gia-xang-dong-loat-giam-toi-1804-dong-moi-lit-post1145423.vnp",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá xăng giảm gần 2.000 đồng/lít từ 0h ngày 1/11",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-gan-2000-donglit-tu-0h-ngay-111-20261031210006111.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giảm thuế tiêu thụ đặc biệt về 0%, đồng loạt giảm giá xăng từ 0h đêm nay",
+      "url": "https://tuoitre.vn/giam-thue-tieu-thu-dac-biet-ve-0-dong-loat-giam-gia-xang-tu-0h-dem-nay-100261031203216328.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Ban hành quy định về thuế tiêu thụ đặc biệt đối với xăng",
+      "url": "https://www.vietnamplus.vn/ban-hanh-quy-dinh-ve-thue-tieu-thu-dac-biet-doi-voi-xang-post1145478.vnp",
+      "date": "01/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Đổ xăng rẻ hơn gần 2.000 đồng/lít!",
+      "voice": "Đổ xăng từ hôm nay rẻ hơn gần hai nghìn đồng một lít!"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E5 RON 92 từ 0h 1/11",
+      "value": "24.223",
+      "unit": "đồng/lít (giá tối đa)",
+      "change": "-1.804",
+      "voice": "Từ không giờ hôm nay, xăng E năm giảm một nghìn tám trăm lẻ bốn đồng, còn tối đa hơn hai mươi tư nghìn hai trăm đồng một lít."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá E5 RON 92 tối đa",
+      "bars": [
+        {
+          "label": "29/10",
+          "value": 26027
+        },
+        {
+          "label": "1/11",
+          "value": 24223
+        }
+      ],
+      "unit": "đồng/lít",
+      "voice": "Mỗi lít rẻ hơn gần bảy phần trăm so với ngày hai mươi chín tháng mười."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Thuế tiêu thụ đặc biệt với xăng về 0%",
+        "Áp dụng 1/11/2026 – 31/3/2027",
+        "E10 RON 95 giảm 1.575 đồng/lít"
+      ],
+      "voice": "Thuế tiêu thụ đặc biệt với xăng về không, đến hết tháng ba năm sau."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Dầu diesel không chịu thuế này",
+        "Giá vẫn đổi theo các kỳ điều hành"
+      ],
+      "voice": "Dầu diesel không chịu thuế này. Giá vẫn đổi theo kỳ điều hành."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Giá gạo xuất khẩu cao nhất gần 2 năm",
+  "caption": "Gạo 5% tấm của Việt Nam được chào bán 470–480 USD/tấn (29/10), tăng khoảng 30 USD sau một tuần – cao nhất gần 2 năm do nguồn cung thắt chặt và lo ngại El Niño. 🌾👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giagao",
+    "#xuatkhau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Giá gạo Việt Nam chạm đỉnh 22 tháng vì lo thiếu nguồn cung",
+      "url": "https://vietnamplus.vn/gia-gao-viet-nam-cham-dinh-22-thang-truoc-noi-lo-nguon-cung-post1145390.vnp",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá gạo xuất khẩu tăng 30 USD/tấn, lên cao nhất gần 2 năm",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-gao-xuat-khau-tang-30-usdtan-len-cao-nhat-gan-2-nam-20261031212305595.htm",
+      "date": "31/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá gạo Việt cao nhất gần 2 năm!",
+      "voice": "Giá gạo xuất khẩu Việt Nam lên cao nhất gần hai năm!"
+    },
+    {
+      "type": "stat",
+      "label": "Gạo 5% tấm chào bán (29/10)",
+      "value": "470–480",
+      "unit": "USD/tấn",
+      "change": "+30",
+      "voice": "Gạo năm phần trăm tấm chào bán bốn trăm bảy mươi đến bốn trăm tám mươi đô một tấn, tăng ba mươi đô sau một tuần."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá chào bán (mức cao)",
+      "bars": [
+        {
+          "label": "Tuần trước",
+          "value": 450
+        },
+        {
+          "label": "29/10",
+          "value": 480
+        }
+      ],
+      "unit": "USD/tấn",
+      "voice": "Cao nhất kể từ tháng một năm ngoái."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Nguồn cung trong nước không dồi dào",
+        "Lo ngại El Niño",
+        "Vụ Thu Đông dự báo chỉ bằng nửa Hè Thu"
+      ],
+      "voice": "Nguồn cung trong nước thiếu, thêm lo ngại En Ni nô. Vụ Thu Đông dự báo chỉ bằng nửa Hè Thu."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây là giá chào bán, chưa phải giá chốt",
+        "Tháng 10 xuất khẩu ước 475.000 tấn"
+      ],
+      "voice": "Đây là giá chào bán. Tháng mười, xuất khẩu ước bốn trăm bảy mươi lăm nghìn tấn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
