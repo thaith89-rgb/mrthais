@@ -1,0 +1,103 @@
+{
+  "title": "Giá điện giảm 2% từ 1/11",
+  "caption": "Từ 1/11, giá bán lẻ điện bình quân giảm 2%, còn 2.159,9 đồng/kWh (chưa VAT) – lần giảm đầu tiên sau gần 20 năm. Điện sinh hoạt chuyển sang biểu giá 5 bậc. Nhà bạn mỗi tháng dùng khoảng bao nhiêu số điện? 💡👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadien",
+    "#tiendien",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "EVN điều chỉnh giá điện giảm 2%, còn 2.159,9 đồng/kWh từ ngày mai, 1/11",
+      "url": "https://www.vietnamplus.vn/evn-dieu-chinh-gia-dien-giam-2-con-21599-dongkwh-tu-ngay-mai-111-post1145418.vnp",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá điện giảm 2% từ ngày 1/11",
+      "url": "https://vnexpress.net/gia-dien-giam-2-tu-ngay-mai-5139154.html",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Chính thức áp dụng giá điện 5 bậc, cao nhất 3.844 đồng/kWh",
+      "url": "https://dantri.com.vn/kinh-doanh/chinh-thuc-ap-dung-gia-dien-5-bac-cao-nhat-3844-dongkwh-20261101101318385.htm",
+      "date": "01/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá điện giảm 2%: Chi tiết mức giá 5 bậc thang điện sinh hoạt",
+      "url": "https://tuoitre.vn/gia-dien-giam-2-chi-tiet-muc-gia-5-bac-thang-dien-sinh-hoat-100261101091531402.htm",
+      "date": "01/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá điện giảm lần đầu sau gần 20 năm!",
+      "voice": "Giá điện vừa giảm, lần đầu sau gần hai mươi năm!"
+    },
+    {
+      "type": "stat",
+      "label": "Giá điện bình quân từ 1/11",
+      "value": "2.159,9",
+      "unit": "đồng/kWh (chưa VAT)",
+      "change": "-2%",
+      "voice": "Từ một tháng mười một, giá điện bình quân giảm hai phần trăm, còn khoảng hai nghìn một trăm sáu mươi đồng một số."
+    },
+    {
+      "type": "chart",
+      "heading": "Điện sinh hoạt: còn 5 bậc",
+      "bars": [
+        {
+          "label": "Bậc 1",
+          "value": 1901
+        },
+        {
+          "label": "Bậc 2",
+          "value": 2289
+        },
+        {
+          "label": "Bậc 3",
+          "value": 2894
+        },
+        {
+          "label": "Bậc 4",
+          "value": 3456
+        },
+        {
+          "label": "Bậc 5",
+          "value": 3844
+        }
+      ],
+      "unit": "đồng/kWh, chưa VAT",
+      "voice": "Điện sinh hoạt giờ còn năm bậc, cao nhất ba nghìn tám trăm bốn mươi tư đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Ai được lợi?",
+      "items": [
+        "~94% hộ giảm hoặc giữ nguyên tiền điện",
+        "Khoảng cách giữa các bậc nới rộng"
+      ],
+      "voice": "Bộ Công Thương ước khoảng chín mươi tư phần trăm hộ được giảm hoặc giữ nguyên tiền điện."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Giá trên chưa gồm VAT",
+        "Dùng càng nhiều, giá bậc cao càng đắt"
+      ],
+      "voice": "Giá trên chưa gồm VAT. Dùng càng nhiều, giá càng cao."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
