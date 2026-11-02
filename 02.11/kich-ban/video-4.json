@@ -1,0 +1,91 @@
+{
+  "title": "Hà Nội thu ngân sách vượt kế hoạch cả năm",
+  "caption": "Theo ước tính của Thống kê Hà Nội, thu ngân sách trên địa bàn 10 tháng năm 2026 đạt khoảng 652,2 nghìn tỷ đồng, vượt dự toán cả năm và tăng 11,2% so với cùng kỳ – đã cao hơn cả năm 2025. 📊👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#ngansach",
+    "#hanoi",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Hà Nội thu ngân sách 10 tháng vượt dự toán cả năm 2026",
+      "url": "https://www.vietnamplus.vn/ha-noi-thu-ngan-sach-vuot-du-toan-ca-nam-2026-post1145628.vnp",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Hà Nội thu ngân sách hơn 521.300 tỷ đồng trong 8 tháng của năm 2026",
+      "url": "https://www.vietnamplus.vn/ha-noi-thu-ngan-sach-hon-521300-ty-dong-trong-8-thang-cua-nam-2026-post1133641.vnp",
+      "date": "09/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Hà Nội đạt kỷ lục thu ngân sách 641,71 nghìn tỷ đồng năm 2025",
+      "url": "https://vneconomy.vn/ha-noi-thu-ngan-sach-dat-hon-600000-ty-dong.htm",
+      "date": "2025"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Hà Nội thu ngân sách vượt kế hoạch cả năm!",
+      "voice": "Mới mười tháng, Hà Nội đã thu ngân sách vượt kế hoạch cả năm!"
+    },
+    {
+      "type": "stat",
+      "label": "Thu ngân sách Hà Nội 10 tháng (ước)",
+      "value": "652,2",
+      "unit": "nghìn tỷ đồng",
+      "change": "+11,2%",
+      "voice": "Thu ngân sách Hà Nội mười tháng ước đạt sáu trăm năm mươi hai nghìn tỷ đồng, tăng mười một phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Thu ngân sách Hà Nội",
+      "bars": [
+        {
+          "label": "8 tháng 2026",
+          "value": 521.3
+        },
+        {
+          "label": "Cả năm 2025",
+          "value": 641.7
+        },
+        {
+          "label": "10 tháng 2026",
+          "value": 652.2
+        }
+      ],
+      "unit": "nghìn tỷ đồng",
+      "voice": "Con số này đã cao hơn cả năm hai không hai lăm."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm chính",
+      "items": [
+        "Vượt 0,3% dự toán cả năm",
+        "Thu nội địa khoảng 611 nghìn tỷ",
+        "Doanh nghiệp ngoài nhà nước vượt 4,4% dự toán"
+      ],
+      "voice": "Thu nội địa khoảng sáu trăm mười một nghìn tỷ. Doanh nghiệp ngoài nhà nước vượt dự toán."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đây là số ước tính",
+        "Thuế thu nhập cá nhân đạt 77,5% dự toán",
+        "Chi ngân sách đạt 82,9% dự toán"
+      ],
+      "voice": "Đây là số ước tính. Thuế thu nhập cá nhân mới đạt khoảng bảy mươi tám phần trăm dự toán."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

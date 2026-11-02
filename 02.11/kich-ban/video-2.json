@@ -1,0 +1,97 @@
+{
+  "title": "Dầu Brent 112 USD, xăng trong nước ra sao?",
+  "caption": "Sáng 2/11, dầu Brent giảm hơn 1%, còn khoảng 111,9 USD/thùng nhờ kỳ vọng đàm phán ở Trung Đông, nhưng vẫn ở vùng cao nhất 6 tháng. Trong nước, xăng E5 RON 92 đang ở mức tối đa 24.223 đồng/lít từ 1/11. Bạn đổ xăng mỗi tuần hết bao nhiêu? ⛽👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadau",
+    "#giaxang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân Trí",
+      "title": "Giá dầu quay đầu hạ nhiệt, áp lực nguồn cung tạm lắng",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-dau-quay-dau-ha-nhiet-ap-luc-nguon-cung-tam-lang-20261102082631633.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá dầu thế giới giảm hơn 1% giữa kỳ vọng căng thẳng Trung Đông hạ nhiệt",
+      "url": "https://www.vietnamplus.vn/gia-dau-the-gioi-giam-hon-1-giua-ky-vong-cang-thang-trung-dong-ha-nhiet-post1145587.vnp",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá xăng dầu hôm nay 2.11.2026: Quay đầu giảm trong sáng đầu tuần",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-2112026-quay-dau-giam-trong-sang-dau-tuan-185261102083700244.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Thuế tiêu thụ đặc biệt về 0%, giá xăng đồng loạt giảm tới 1.804 đồng mỗi lít",
+      "url": "https://www.vietnamplus.vn/thue-tieu-thu-dac-biet-ve-0-gia-xang-dong-loat-giam-toi-1804-dong-moi-lit-post1145423.vnp",
+      "date": "31/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Dầu 112 USD – xăng tuần này ra sao?",
+      "voice": "Dầu quanh một trăm mười hai đô, xăng tuần này ra sao?"
+    },
+    {
+      "type": "stat",
+      "label": "Dầu Brent (sáng 2/11)",
+      "value": "111,9",
+      "unit": "USD/thùng",
+      "change": "-1,3%",
+      "voice": "Sáng nay, dầu Brent giảm hơn một phần trăm, còn khoảng một trăm mười một phẩy chín đô một thùng."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá dầu gần đây",
+      "bars": [
+        {
+          "label": "Brent đỉnh tuần trước",
+          "value": 118
+        },
+        {
+          "label": "Brent 2/11",
+          "value": 111.9
+        },
+        {
+          "label": "WTI 2/11",
+          "value": 102.3
+        }
+      ],
+      "unit": "USD/thùng",
+      "voice": "Tuần trước, Brent có lúc chạm sát một trăm mười tám đô."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao hạ nhiệt?",
+      "items": [
+        "Kỳ vọng đàm phán ở Trung Đông",
+        "OPEC+ giữ nguyên sản lượng tháng 12",
+        "Vẫn ở vùng cao nhất 6 tháng"
+      ],
+      "voice": "Giá hạ nhờ kỳ vọng đàm phán ở Trung Đông, nhưng vẫn ở vùng cao nhất sáu tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Với người đổ xăng",
+      "items": [
+        "Từ 1/11: thuế TTĐB với xăng về 0%",
+        "E5 RON 92 tối đa 24.223 đồng/lít",
+        "Chờ giá chính thức kỳ điều hành tới"
+      ],
+      "voice": "Trong nước, xăng E năm tối đa hai mươi tư nghìn hai trăm đồng một lít. Hãy chờ giá chính thức kỳ điều hành tới."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

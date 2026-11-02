@@ -1,0 +1,103 @@
+{
+  "title": "Vàng thế giới đáy 1 năm, SJC vẫn 140 triệu",
+  "caption": "Vàng thế giới cuối tuần rơi về 3.874 USD/ounce – đáy 1 năm, nhưng sáng 2/11 vàng miếng SJC lại tăng 1 triệu, bán ra 140 triệu đồng/lượng, cao hơn thế giới khoảng 17,5 triệu. Tháng 8 mức chênh chỉ khoảng 2 triệu. Bạn nghĩ sao? 👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangsjc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng miếng đảo chiều lên 140 triệu đồng",
+      "url": "https://vnexpress.net/gia-vang-mieng-dao-chieu-len-140-trieu-dong-mot-luong-5139574.html",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 2.11.2026: Vàng miếng SJC tăng đầu tuần",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-2112026-vang-mieng-sjc-tang-dau-tuan-185261102085230611.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giá vàng SJC tăng 1 triệu đồng/lượng trong phiên 2/11",
+      "url": "https://vneconomy.vn/gia-vang-mieng-sjc-va-vang-nhan-bat-tang-1-trieu-dong-moi-luong.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Vàng miếng SJC đạt 147 triệu đồng/lượng, cách giá thế giới chỉ 2 triệu đồng",
+      "url": "https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-dat-147-trieu-dongluong-cach-gia-the-gioi-chi-2-trieu-dong-20260821200312684.htm",
+      "date": "21/08/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Vàng SJC giá 146,5 triệu đồng/lượng, chênh với thế giới gần 7 triệu đồng",
+      "url": "https://dantri.com.vn/kinh-doanh/vang-sjc-gia-1465-trieu-dongluong-chenh-voi-the-gioi-gan-7-trieu-dong-20260908065431908.htm",
+      "date": "08/09/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng thế giới đáy 1 năm, SJC vẫn 140 triệu?",
+      "voice": "Vàng thế giới đáy một năm, sao vàng miếng vẫn trăm bốn mươi triệu?"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC bán ra (sáng 2/11)",
+      "value": "140",
+      "unit": "triệu đồng/lượng",
+      "change": "+1 triệu",
+      "voice": "Sáng nay, vàng miếng SJC tăng một triệu, bán ra một trăm bốn mươi triệu đồng một lượng."
+    },
+    {
+      "type": "chart",
+      "heading": "Vàng miếng cao hơn thế giới",
+      "bars": [
+        {
+          "label": "21/8",
+          "value": 2
+        },
+        {
+          "label": "8/9",
+          "value": 7
+        },
+        {
+          "label": "2/11",
+          "value": 17.5
+        }
+      ],
+      "unit": "triệu đồng/lượng",
+      "voice": "Tháng tám, vàng miếng chỉ cao hơn thế giới khoảng hai triệu. Nay chênh khoảng mười bảy triệu rưỡi."
+    },
+    {
+      "type": "points",
+      "heading": "Thế giới thì sao?",
+      "items": [
+        "Cuối tuần rơi về 3.874 USD/ounce",
+        "Thấp nhất trong một năm",
+        "Sáng 2/11 hồi quanh 3.900 USD"
+      ],
+      "voice": "Cuối tuần, vàng thế giới rơi về ba nghìn tám trăm bảy mươi tư đô một ounce, thấp nhất một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Chênh mua – bán vẫn 3 triệu/lượng",
+        "Chênh với thế giới đang cao",
+        "Giá đổi theo giờ, xem bảng giá trực tiếp"
+      ],
+      "voice": "Chênh lệch mua bán vẫn ba triệu. Giá đổi theo giờ, hãy xem bảng giá trực tiếp."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
