@@ -1,0 +1,39 @@
+# Nghiên cứu tin Kinh tế – Tài chính 02/11/2026 (Thứ Hai)
+
+> Ghi chú phương pháp: trong phiên cloud, WebFetch tới các báo bị chặn (`www.vietnamplus.vn` ENOTFOUND), nên số liệu lấy từ công cụ tìm kiếm (tiêu đề + trích đoạn) và **đối chiếu giữa nhiều báo được phép**. Nên bấm thử link trước khi đăng. Đã loại các chủ đề đã làm gần đây (xuất nhập khẩu 10 tháng – 30/10; giá điện, giá xăng giảm – 01/11).
+
+## 1. Vàng thế giới về đáy 1 năm, vàng miếng SJC tăng lại lên 140 triệu
+- Tóm tắt: Cuối tuần trước vàng thế giới lao dốc về khoảng 3.874 USD/ounce – thấp nhất một năm; sáng 2/11 hồi lên quanh 3.900 USD. Trong nước, SJC và nhiều thương hiệu tăng 1 triệu đồng/lượng, vàng miếng niêm yết 137–140 triệu đồng/lượng. Quy đổi theo tỷ giá Vietcombank, vàng miếng cao hơn thế giới khoảng 17,5 triệu đồng/lượng, trong khi tháng 8 mức chênh chỉ khoảng 2 triệu, đầu tháng 9 gần 7 triệu.
+- Số liệu chính: SJC 137 – 140 triệu (+1 triệu mỗi chiều); vàng nhẫn SJC 132,8 – 136,8 triệu (Thanh Niên); nhẫn PNJ 134 – 138 triệu (VnExpress); thế giới đáy 3.874 USD/ounce; chênh lệch ~17,5 triệu.
+- Nguồn: VnExpress – "Giá vàng miếng đảo chiều lên 140 triệu đồng" – https://vnexpress.net/gia-vang-mieng-dao-chieu-len-140-trieu-dong-mot-luong-5139574.html – 02/11/2026
+- Nguồn đối chiếu: Thanh Niên – "Giá vàng hôm nay 2.11.2026: Vàng miếng SJC tăng đầu tuần" – https://thanhnien.vn/gia-vang-hom-nay-2112026-vang-mieng-sjc-tang-dau-tuan-185261102085230611.htm – 02/11/2026; VnEconomy – "Giá vàng SJC tăng 1 triệu đồng/lượng trong phiên 2/11" – https://vneconomy.vn/gia-vang-mieng-sjc-va-vang-nhan-bat-tang-1-trieu-dong-moi-luong.htm – 02/11/2026; Dân Trí – "Giá vàng trong nước, thế giới đồng loạt đi lên" – https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-the-gioi-dong-loat-di-len-20261102094629112.htm – 02/11/2026; Tuổi Trẻ – "Giá vàng hôm nay 2-11: Vàng thế giới mất mốc 3.900 USD, tuần mới ra sao?" – https://tuoitre.vn/gia-vang-hom-nay-2-11-vang-the-gioi-mat-moc-3900-usd-tuan-moi-ra-sao-10026110206532766.htm – 02/11/2026
+- Mốc chênh lệch lịch sử: Dân Trí – "Vàng miếng SJC đạt 147 triệu đồng/lượng, cách giá thế giới chỉ 2 triệu đồng" – https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-dat-147-trieu-dongluong-cach-gia-the-gioi-chi-2-trieu-dong-20260821200312684.htm – 21/08/2026; Dân Trí – "Vàng SJC giá 146,5 triệu đồng/lượng, chênh với thế giới gần 7 triệu đồng" – https://dantri.com.vn/kinh-doanh/vang-sjc-gia-1465-trieu-dongluong-chenh-voi-the-gioi-gan-7-trieu-dong-20260908065431908.htm – 08/09/2026
+- Đánh giá rủi ro pháp lý: Thấp (giá niêm yết công khai, nhiều báo khớp; không dự báo, không khuyến nghị).
+
+## 2. Dầu Brent hạ nhiệt về ~112 USD nhưng vẫn ở vùng cao nhất 6 tháng
+- Tóm tắt: Sáng 2/11 (giờ Việt Nam), dầu Brent giảm khoảng 1,3%, còn 111,92 USD/thùng; WTI 102,34 USD/thùng nhờ kỳ vọng các cuộc đàm phán giúp hạ nhiệt căng thẳng Trung Đông. Brent khép tháng 10 ở vùng cao nhất 6 tháng, có lúc chạm sát 118 USD cuối tuần trước. OPEC+ giữ nguyên sản lượng tháng 12. Trong nước, từ 1/11 thuế TTĐB với xăng về 0%, E5 RON 92 tối đa 24.223 đồng/lít.
+- Số liệu chính: Brent 111,92 USD (−1,51 USD, −1,33%) – VietnamPlus; Dân Trí ghi 111,5 USD lúc 8h; WTI 102,2–102,34 USD; đỉnh tuần trước sát 118 USD; E5 RON 92 tối đa 24.223 đồng/lít.
+- Nguồn: Dân Trí – "Giá dầu quay đầu hạ nhiệt, áp lực nguồn cung tạm lắng" – https://dantri.com.vn/kinh-doanh/gia-dau-quay-dau-ha-nhiet-ap-luc-nguon-cung-tam-lang-20261102082631633.htm – 02/11/2026
+- Nguồn đối chiếu: VietnamPlus – "Giá dầu thế giới giảm hơn 1% giữa kỳ vọng căng thẳng Trung Đông hạ nhiệt" – https://www.vietnamplus.vn/gia-dau-the-gioi-giam-hon-1-giua-ky-vong-cang-thang-trung-dong-ha-nhiet-post1145587.vnp – 02/11/2026; Thanh Niên – "Giá xăng dầu hôm nay 2.11.2026: Quay đầu giảm trong sáng đầu tuần" – https://thanhnien.vn/gia-xang-dau-hom-nay-2112026-quay-dau-giam-trong-sang-dau-tuan-185261102083700244.htm – 02/11/2026; VietnamPlus – "Thuế tiêu thụ đặc biệt về 0%, giá xăng đồng loạt giảm tới 1.804 đồng mỗi lít" – https://www.vietnamplus.vn/thue-tieu-thu-dac-biet-ve-0-gia-xang-dong-loat-giam-toi-1804-dong-moi-lit-post1145423.vnp – 31/10/2026
+- Đánh giá rủi ro pháp lý: Thấp–Trung bình (chỉ nêu giá thị trường; **không** dự đoán giá xăng kỳ tới, không bình luận xung đột – chỉ nói chung "căng thẳng Trung Đông").
+
+## 3. Bộ Tài chính đề xuất xoá ~1.450 tỷ nợ lệ phí môn bài, xoá có điều kiện tiền chậm nộp
+- Tóm tắt: Trong dự thảo nghị quyết trình Quốc hội, Bộ Tài chính đề xuất xoá nợ lệ phí môn bài phát sinh đến hết 2025 (và tiền chậm nộp tương ứng) – khoảng 1.450 tỷ đồng của khoảng 764.000 người nộp thuế – vì Nghị quyết 198/2025/QH15 đã chấm dứt thu lệ phí môn bài từ 1/1/2026. Với người nộp thuế ở trạng thái 03, 06 (ngừng hoạt động/không ở địa chỉ đăng ký), đề xuất xoá khoảng 9.715 tỷ tiền chậm nộp, có điều kiện: nộp hồ sơ khôi phục hoặc đóng mã số thuế và nộp đủ nợ gốc trước 30/6/2028. Tổng nợ nhóm này khoảng 27.805 tỷ (18.090 tỷ gốc).
+- Số liệu chính: 1.450 tỷ / ~764.000 người nộp thuế; 9.715 tỷ tiền chậm nộp; 18.090 tỷ nợ gốc; hạn 30/6/2028.
+- Nguồn: VnExpress – "Bộ Tài chính đề xuất xóa nợ lệ phí môn bài cho doanh nghiệp chờ giải thể" – https://vnexpress.net/bo-tai-chinh-de-xuat-xoa-no-le-phi-mon-bai-cho-doanh-nghiep-cho-giai-the-5138075.html – 28/10/2026
+- Nguồn đối chiếu: Dân Trí – "Bộ Tài chính đề xuất xóa nợ lệ phí môn bài" – https://dantri.com.vn/kinh-doanh/bo-tai-chinh-de-xuat-xoa-no-le-phi-mon-bai-20261028215135553.htm – 28/10/2026; Thanh Niên – "Đề xuất xóa 9.715 tỉ tiền chậm nộp cho doanh nghiệp 'đắp chiếu' nhiều năm" – https://thanhnien.vn/de-xuat-xoa-9715-ti-tien-cham-nop-cho-doanh-nghiep-dap-chieu-nhieu-nam-185261028205527841.htm – 28/10/2026; Tuổi Trẻ – "Bộ Tài chính đề xuất xóa nợ lệ phí môn bài cho doanh nghiệp chờ giải thể" – https://tuoitre.vn/bo-tai-chinh-de-xuat-xoa-no-le-phi-mon-bai-cho-doanh-nghiep-cho-giai-the-100261028184722795.htm – 28/10/2026; VietnamPlus – "Gỡ vướng nghĩa vụ thuế cho doanh nghiệp ngừng hoạt động nhiều năm" – https://www.vietnamplus.vn/go-vuong-nghia-vu-thue-cho-doanh-nghiep-ngung-hoat-dong-nhieu-nam-post1145663.vnp – 02/11/2026
+- Đánh giá rủi ro pháp lý: Thấp (đề xuất chính thức của Bộ Tài chính; video ghi rõ "mới là dự thảo, chưa có hiệu lực").
+
+## 4. Hà Nội thu ngân sách 10 tháng vượt dự toán cả năm
+- Tóm tắt: Theo ước tính của Thống kê Hà Nội, tổng thu ngân sách trên địa bàn 10 tháng 2026 khoảng 652,2 nghìn tỷ đồng, vượt 0,3% dự toán cả năm, tăng 11,2% cùng kỳ – đã cao hơn cả năm 2025 (641,71 nghìn tỷ). Thu nội địa 611 nghìn tỷ; doanh nghiệp ngoài nhà nước vượt 4,4% dự toán; thuế TNCN 53,8 nghìn tỷ, đạt 77,5% dự toán; chi ngân sách địa phương 195,7 nghìn tỷ, đạt 82,9% dự toán.
+- Số liệu chính: như trên; 8 tháng 2026: hơn 521,3 nghìn tỷ.
+- Nguồn: VietnamPlus – "Hà Nội thu ngân sách 10 tháng vượt dự toán cả năm 2026" – https://www.vietnamplus.vn/ha-noi-thu-ngan-sach-vuot-du-toan-ca-nam-2026-post1145628.vnp – 02/11/2026
+- Nguồn đối chiếu: VietnamPlus – "Hà Nội thu ngân sách hơn 521.300 tỷ đồng trong 8 tháng của năm 2026" – https://www.vietnamplus.vn/ha-noi-thu-ngan-sach-hon-521300-ty-dong-trong-8-thang-cua-nam-2026-post1133641.vnp; VnEconomy – "Hà Nội đạt kỷ lục thu ngân sách 641,71 nghìn tỷ đồng năm 2025" – https://vneconomy.vn/ha-noi-thu-ngan-sach-dat-hon-600000-ty-dong.htm. **Con số 10 tháng mới chỉ có 1 báo (VietnamPlus/TTXVN)**.
+- Đánh giá rủi ro pháp lý: Thấp (số liệu thống kê chính thức, ghi rõ "ước").
+
+## Tin khác đã xem, không chọn
+- Sacombank bổ nhiệm quyền Tổng Giám đốc từ 2/11 (VietnamPlus) – ít tác động túi tiền người xem.
+- Vietjet doanh thu 9 tháng 74.385 tỷ (+41%) – tin doanh nghiệp, dễ bị hiểu là quảng bá/gợi ý cổ phiếu.
+- PMI tháng 10/2026, CPI toàn quốc tháng 10 – chưa tìm thấy số liệu công bố.
+- Binance sau vụ trộm 6,3 tỷ USD – tiền mã hoá, loại theo quy tắc.
+- Thông tư 40, 46 của NHNN có hiệu lực 1/11 – đã nằm trong video "Tháng 11: loạt quy định tài chính mới" (27/10).

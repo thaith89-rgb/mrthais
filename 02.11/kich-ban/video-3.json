@@ -1,0 +1,93 @@
+{
+  "title": "Đề xuất xoá 1.450 tỷ nợ lệ phí môn bài",
+  "caption": "Bộ Tài chính đề xuất xoá khoảng 1.450 tỷ đồng nợ lệ phí môn bài (phát sinh đến hết 2025) của khoảng 764.000 người nộp thuế, kèm xoá có điều kiện tiền chậm nộp cho doanh nghiệp ngừng hoạt động. Đây mới là dự thảo. Bạn có biết doanh nghiệp nào đang 'đắp chiếu' không? 👇",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#thue",
+    "#doanhnghiep",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Bộ Tài chính đề xuất xóa nợ lệ phí môn bài cho doanh nghiệp chờ giải thể",
+      "url": "https://vnexpress.net/bo-tai-chinh-de-xuat-xoa-no-le-phi-mon-bai-cho-doanh-nghiep-cho-giai-the-5138075.html",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Bộ Tài chính đề xuất xóa nợ lệ phí môn bài",
+      "url": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-de-xuat-xoa-no-le-phi-mon-bai-20261028215135553.htm",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Đề xuất xóa 9.715 tỉ tiền chậm nộp cho doanh nghiệp 'đắp chiếu' nhiều năm",
+      "url": "https://thanhnien.vn/de-xuat-xoa-9715-ti-tien-cham-nop-cho-doanh-nghiep-dap-chieu-nhieu-nam-185261028205527841.htm",
+      "date": "28/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Gỡ vướng nghĩa vụ thuế cho doanh nghiệp ngừng hoạt động nhiều năm",
+      "url": "https://www.vietnamplus.vn/go-vuong-nghia-vu-thue-cho-doanh-nghiep-ngung-hoat-dong-nhieu-nam-post1145663.vnp",
+      "date": "02/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Đề xuất xoá 1.450 tỷ nợ lệ phí môn bài!",
+      "voice": "Đề xuất xoá một nghìn bốn trăm năm mươi tỷ nợ môn bài!"
+    },
+    {
+      "type": "stat",
+      "label": "Nợ lệ phí môn bài đề xuất xoá",
+      "value": "1.450",
+      "unit": "tỷ đồng",
+      "note": "của khoảng 764.000 người nộp thuế",
+      "voice": "Bộ Tài chính đề xuất xoá nợ môn bài đến hết năm hai không hai lăm, của khoảng bảy trăm sáu mươi tư nghìn người nộp thuế."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao?",
+      "items": [
+        "Lệ phí môn bài đã bỏ từ 1/1/2026",
+        "Nhiều doanh nghiệp ngừng hoạt động vẫn bị tính nợ",
+        "Khó giải thể vì vướng nợ cũ"
+      ],
+      "voice": "Lệ phí này đã bỏ từ đầu năm, nhưng nhiều doanh nghiệp ngừng hoạt động vẫn mang nợ cũ."
+    },
+    {
+      "type": "chart",
+      "heading": "Nợ của doanh nghiệp chờ giải thể",
+      "bars": [
+        {
+          "label": "Nợ gốc",
+          "value": 18090
+        },
+        {
+          "label": "Tiền chậm nộp",
+          "value": 9715
+        }
+      ],
+      "unit": "tỷ đồng",
+      "voice": "Gần chín nghìn bảy trăm tỷ tiền chậm nộp của doanh nghiệp chờ giải thể cũng được đề xuất xoá, có điều kiện."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Mới là dự thảo, chưa có hiệu lực",
+        "Nợ thuế gốc vẫn phải nộp đủ",
+        "Hạn hồ sơ dự kiến: 30/6/2028"
+      ],
+      "voice": "Đây mới là dự thảo. Nợ thuế gốc vẫn phải nộp đủ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
