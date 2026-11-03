@@ -1,0 +1,101 @@
+{
+  "title": "Lương tối thiểu vùng tăng 7,8% từ 1/1/2027",
+  "caption": "Chính phủ đã ban hành Nghị định 399/2026/NĐ-CP: từ 1/1/2027, lương tối thiểu vùng tăng bình quân 7,8%, thêm 310.000–390.000 đồng/tháng. Vùng 1 lên 5,7 triệu, vùng 4 lên 4,04 triệu đồng/tháng. Bạn đang làm ở vùng mấy? 👇\nNguồn: Báo Chính phủ, VietnamPlus, Tuổi Trẻ, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#luongtoithieu",
+    "#nguoilaodong",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Mức lương tối thiểu từ ngày 1/1/2027 đối với người lao động làm việc theo hợp đồng",
+      "url": "https://baochinhphu.vn/muc-luong-toi-thieu-tu-ngay-1-1-2027-doi-voi-nguoi-lao-dong-lam-viec-theo-hop-dong-102261103113728634.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Lương tối thiểu chính thức tăng từ đầu năm 2027, mức thấp nhất là 4,04 triệu đồng",
+      "url": "https://www.vietnamplus.vn/luong-toi-thieu-chinh-thuc-tang-tu-dau-nam-2027-muc-thap-nhat-la-404-trieu-dong-post1145853.vnp",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Tăng lương tối thiểu vùng từ 1-1-2027, cao nhất tăng tới 390.000 đồng",
+      "url": "https://tuoitre.vn/tang-luong-toi-thieu-vung-tu-1-1-2027-cao-nhat-tang-toi-390000-dong-100261103131209338.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Lương tối thiểu vùng tăng 310.000-390.000 đồng từ năm 2027",
+      "url": "https://vnexpress.net/luong-toi-thieu-vung-tang-310-000-390-000-dong-tu-nam-2027-5140183.html",
+      "date": "03/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lương tối thiểu chính thức tăng từ 2027!",
+      "voice": "Lương tối thiểu chính thức tăng từ năm hai nghìn không trăm hai mươi bảy."
+    },
+    {
+      "type": "stat",
+      "label": "Lương tối thiểu vùng 1 từ 1/1/2027",
+      "value": "5,7",
+      "unit": "triệu đồng/tháng",
+      "change": "+390.000 đ",
+      "voice": "Từ một tháng một năm sau, vùng một lên năm phẩy bảy triệu đồng một tháng."
+    },
+    {
+      "type": "chart",
+      "heading": "Mức mới theo vùng",
+      "bars": [
+        {
+          "label": "Vùng 1",
+          "value": 5.7
+        },
+        {
+          "label": "Vùng 2",
+          "value": 5.08
+        },
+        {
+          "label": "Vùng 3",
+          "value": 4.45
+        },
+        {
+          "label": "Vùng 4",
+          "value": 4.04
+        }
+      ],
+      "unit": "triệu đồng/tháng",
+      "voice": "Vùng hai năm phẩy không tám, vùng ba bốn phẩy bốn lăm, vùng bốn bốn phẩy không bốn triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm chính",
+      "items": [
+        "Tăng bình quân 7,8%",
+        "Thêm 310.000–390.000 đồng/tháng",
+        "Lương theo giờ vùng 1: 27.400 đồng"
+      ],
+      "voice": "Bình quân tăng bảy phẩy tám phần trăm, thêm ba trăm mười đến ba trăm chín mươi nghìn mỗi tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Người lao động lưu ý",
+      "items": [
+        "Áp dụng cho lao động theo hợp đồng",
+        "Xem nơi làm việc thuộc vùng nào",
+        "Không được cắt phụ cấp, chế độ đã có"
+      ],
+      "voice": "Áp dụng cho lao động theo hợp đồng. Hãy xem nơi làm việc thuộc vùng nào."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

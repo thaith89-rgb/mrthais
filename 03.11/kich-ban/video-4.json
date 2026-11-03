@@ -1,0 +1,97 @@
+{
+  "title": "VN-Index mất mốc 1.700 điểm",
+  "caption": "VN-Index giảm phiên thứ 4 liên tiếp, đóng cửa 3/11 ở 1.699,62 điểm, mất hơn 40 điểm chỉ trong 2 phiên đầu tuần. Khối ngoại đã bán ròng nhiều phiên liên tiếp. 📉👇\nNguồn: VnEconomy, VnExpress, Dân Trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#vnindex",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnEconomy",
+      "title": "VN-Index giảm sâu, cổ phiếu VIC và dầu khí gây áp lực lớn, thanh khoản cực thấp",
+      "url": "https://vneconomy.vn/co-phieu-tru-giam-manh-ep-diem-so-thi-truong-phan-hoa-voi-thanh-khoan-cuc-thap.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "VN-Index giảm hơn 30 điểm",
+      "url": "https://vnexpress.net/vn-index-giam-hon-30-diem-5139827.html",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Chứng khoán lại giảm mạnh, cổ phiếu ngân hàng bị bán tháo",
+      "url": "https://dantri.com.vn/kinh-doanh/chung-khoan-lai-giam-manh-co-phieu-ngan-hang-bi-ban-thao-20261102155021622.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Điều gì khiến VN-Index bất ngờ mất hơn 30 điểm đầu tuần?",
+      "url": "https://tuoitre.vn/dieu-gi-khien-vn-index-bat-ngo-mat-hon-30-diem-dau-tuan-100261102173805193.htm",
+      "date": "02/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VN-Index vừa mất mốc 1.700 điểm",
+      "voice": "VN-Index vừa mất mốc một nghìn bảy trăm điểm."
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index đóng cửa 3/11",
+      "value": "1.699,62",
+      "unit": "điểm",
+      "change": "-0,65%",
+      "voice": "Chiều nay, VN-Index giảm không phẩy sáu lăm phần trăm, đóng cửa ở một nghìn sáu trăm chín mươi chín điểm. Đây là phiên giảm thứ tư liên tiếp."
+    },
+    {
+      "type": "chart",
+      "heading": "VN-Index đóng cửa",
+      "bars": [
+        {
+          "label": "30/10",
+          "value": 1741.62
+        },
+        {
+          "label": "2/11",
+          "value": 1710.72
+        },
+        {
+          "label": "3/11",
+          "value": 1699.62
+        }
+      ],
+      "unit": "điểm",
+      "voice": "Chỉ trong hai phiên đầu tuần, chỉ số mất hơn bốn mươi điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Chuyện gì đang xảy ra?",
+      "items": [
+        "Phiên 2/11: cả 18/18 ngành giảm",
+        "Khối ngoại bán ròng nhiều phiên liền",
+        "Thanh khoản hôm nay ở mức thấp"
+      ],
+      "voice": "Phiên đầu tuần, cả mười tám ngành đều giảm. Khối ngoại bán ròng nhiều phiên liền, còn thanh khoản hôm nay ở mức thấp."
+    },
+    {
+      "type": "points",
+      "heading": "Điều nên nhớ",
+      "items": [
+        "Chỉ số biến động mạnh, khó đoán ngắn hạn",
+        "Hiểu rõ rủi ro trước mọi quyết định",
+        "Chỉ dùng tiền nhàn rỗi, không vay mượn"
+      ],
+      "voice": "Thị trường đang biến động mạnh. Hãy hiểu rõ rủi ro và tránh dùng tiền vay mượn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
