@@ -1,0 +1,91 @@
+{
+  "title": "FDI giải ngân 10 tháng cao nhất 5 năm",
+  "caption": "Cục Thống kê ước vốn FDI giải ngân 10 tháng 2026 đạt 24,08 tỷ USD, tăng 13,1% – cao nhất cùng kỳ 5 năm qua. Vốn đăng ký đạt 54,85 tỷ USD, tăng 74%, cao nhất từ năm 2009. 🏭👇\nNguồn: VietnamPlus, VnEconomy, Cục Thống kê. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#fdi",
+    "#dautu",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Vốn FDI thực hiện mười tháng lập đỉnh cùng đầu tư công tăng trưởng bứt phá",
+      "url": "https://www.vietnamplus.vn/von-fdi-thuc-hien-muoi-thang-lap-dinh-cung-dau-tu-cong-tang-truong-but-pha-post1145825.vnp",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "10 tháng năm 2026: Vốn FDI đăng ký vào Việt Nam lập đỉnh, cao nhất 17 năm nay",
+      "url": "https://vneconomy.vn/10-thang-nam-2026-von-fdi-dang-ky-vao-viet-nam-lap-dinh-cao-nhat-17-nam-nay.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "Cục Thống kê",
+      "title": "Báo cáo tình hình kinh tế – xã hội tháng Mười và 10 tháng năm 2026",
+      "url": "https://www.nso.gov.vn/bai-top/2026/11/bao-cao-tinh-hinh-kinh-te-xa-hoi-thang-muoi-va-10-thang-nam-2026/",
+      "date": "03/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vốn ngoại đổ vào Việt Nam cao nhất 5 năm!",
+      "voice": "Vốn đầu tư nước ngoài giải ngân cao nhất năm năm qua."
+    },
+    {
+      "type": "stat",
+      "label": "FDI giải ngân 10 tháng 2026 (ước)",
+      "value": "24,08",
+      "unit": "tỷ USD",
+      "change": "+13,1%",
+      "voice": "Cục Thống kê ước tính, mười tháng qua vốn FDI giải ngân đạt hai mươi tư phẩy không tám tỷ đô, tăng mười ba phẩy một phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Vốn FDI 10 tháng 2026",
+      "bars": [
+        {
+          "label": "Đăng ký",
+          "value": 54.85
+        },
+        {
+          "label": "Giải ngân",
+          "value": 24.08
+        },
+        {
+          "label": "Chế biến, chế tạo",
+          "value": 19.96
+        }
+      ],
+      "unit": "tỷ USD",
+      "voice": "Vốn đăng ký đạt năm mươi tư phẩy tám lăm tỷ đô, tăng bảy mươi tư phần trăm, cao nhất kể từ năm hai nghìn không trăm lẻ chín."
+    },
+    {
+      "type": "points",
+      "heading": "Tiền đi đâu?",
+      "items": [
+        "Chế biến, chế tạo chiếm 82,9%",
+        "Giải ngân cao nhất cùng kỳ 5 năm",
+        "Vốn đăng ký cao nhất từ 2009"
+      ],
+      "voice": "Gần tám mươi ba phần trăm vốn giải ngân chảy vào công nghiệp chế biến, chế tạo."
+    },
+    {
+      "type": "points",
+      "heading": "Ý nghĩa với bạn",
+      "items": [
+        "Thêm nhà máy, thêm việc làm",
+        "Hỗ trợ xuất khẩu và tăng trưởng",
+        "Đây là số ước tính, có thể điều chỉnh"
+      ],
+      "voice": "Vốn vào nhà máy nghĩa là thêm việc làm và xuất khẩu. Lưu ý đây là số ước tính, có thể được điều chỉnh."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
