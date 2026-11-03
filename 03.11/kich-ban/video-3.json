@@ -40,7 +40,7 @@
       "value": "24,08",
       "unit": "tỷ USD",
       "change": "+13,1%",
-      "voice": "Cục Thống kê ước tính, mười tháng qua vốn FDI giải ngân đạt hai mươi tư phẩy không tám tỷ đô, tăng mười ba phẩy một phần trăm."
+      "voice": "Mười tháng qua, vốn FDI giải ngân ước đạt hai mươi tư phẩy không tám tỷ đô, tăng mười ba phần trăm."
     },
     {
       "type": "chart",
@@ -60,7 +60,7 @@
         }
       ],
       "unit": "tỷ USD",
-      "voice": "Vốn đăng ký đạt năm mươi tư phẩy tám lăm tỷ đô, tăng bảy mươi tư phần trăm, cao nhất kể từ năm hai nghìn không trăm lẻ chín."
+      "voice": "Vốn đăng ký đạt năm mươi tư phẩy tám lăm tỷ đô, cao nhất kể từ năm hai nghìn không trăm lẻ chín."
     },
     {
       "type": "points",
@@ -80,7 +80,7 @@
         "Hỗ trợ xuất khẩu và tăng trưởng",
         "Đây là số ước tính, có thể điều chỉnh"
       ],
-      "voice": "Vốn vào nhà máy nghĩa là thêm việc làm và xuất khẩu. Lưu ý đây là số ước tính, có thể được điều chỉnh."
+      "voice": "Vốn vào nhà máy là thêm việc làm. Lưu ý đây là số ước tính."
     },
     {
       "type": "cta",

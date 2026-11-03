@@ -16,13 +16,13 @@
 1. **hook** – Màn hình: Lương tối thiểu chính thức tăng từ 2027!
    - Lời đọc: "Lương tối thiểu chính thức tăng từ năm hai nghìn không trăm hai mươi bảy."
 2. **stat** – Màn hình: Lương tối thiểu vùng 1 từ 1/1/2027: **5,7** triệu đồng/tháng (+390.000 đ)
-   - Lời đọc: "Chính phủ vừa ban hành nghị định mới. Từ một tháng một năm sau, vùng một lên năm phẩy bảy triệu đồng một tháng, tăng ba trăm chín mươi nghìn."
+   - Lời đọc: "Từ một tháng một năm sau, vùng một lên năm phẩy bảy triệu đồng một tháng."
 3. **chart** – Màn hình: Mức mới theo vùng: Vùng 1 5.7 | Vùng 2 5.08 | Vùng 3 4.45 | Vùng 4 4.04 triệu đồng/tháng
-   - Lời đọc: "Vùng hai năm phẩy không tám triệu, vùng ba bốn phẩy bốn lăm triệu, vùng bốn bốn phẩy không bốn triệu đồng."
+   - Lời đọc: "Vùng hai năm phẩy không tám, vùng ba bốn phẩy bốn lăm, vùng bốn bốn phẩy không bốn triệu."
 4. **points** – Màn hình: Điểm chính: Tăng bình quân 7,8% / Thêm 310.000–390.000 đồng/tháng / Lương theo giờ vùng 1: 27.400 đồng
-   - Lời đọc: "Mức tăng bình quân bảy phẩy tám phần trăm, tức thêm ba trăm mười đến ba trăm chín mươi nghìn đồng mỗi tháng."
+   - Lời đọc: "Bình quân tăng bảy phẩy tám phần trăm, thêm ba trăm mười đến ba trăm chín mươi nghìn mỗi tháng."
 5. **points** – Màn hình: Người lao động lưu ý: Áp dụng cho lao động theo hợp đồng / Xem nơi làm việc thuộc vùng nào / Không được cắt phụ cấp, chế độ đã có
-   - Lời đọc: "Mức này áp dụng cho người làm theo hợp đồng lao động. Hãy xem nơi làm việc thuộc vùng nào. Doanh nghiệp không được cắt các chế độ đang có."
+   - Lời đọc: "Áp dụng cho lao động theo hợp đồng. Hãy xem nơi làm việc thuộc vùng nào."
 6. **cta** – Màn hình: Theo dõi để cập nhật 17h mỗi ngày
    - Lời đọc: "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
 
@@ -33,13 +33,13 @@ Dòng cuối video: Nguồn: Báo Chính phủ, VietnamPlus, Tuổi Trẻ, VnExp
 1. **hook** – Màn hình: Giá xăng tăng gần 7%, giá cả tăng theo?
    - Lời đọc: "Giá xăng tăng gần bảy phần trăm, giá cả có tăng theo?"
 2. **stat** – Màn hình: CPI tháng 10/2026 so với tháng 9: **0,20** % (+5,09% so với cùng kỳ)
-   - Lời đọc: "Cục Thống kê cho biết chỉ số giá tiêu dùng tháng mười tăng không phẩy hai phần trăm so với tháng trước, và tăng năm phẩy không chín phần trăm so với cùng kỳ."
+   - Lời đọc: "Chỉ số giá tiêu dùng tháng mười tăng không phẩy hai phần trăm so với tháng trước, và hơn năm phần trăm so với cùng kỳ."
 3. **chart** – Màn hình: Mức tăng trong tháng 10: Giá xăng 6.86 | Nhóm giao thông 2.66 | CPI chung 0.2 % so với tháng 9
-   - Lời đọc: "Thủ phạm chính là giá xăng, tăng sáu phẩy tám sáu phần trăm, kéo nhóm giao thông tăng hai phẩy sáu sáu phần trăm."
+   - Lời đọc: "Thủ phạm chính là giá xăng, tăng gần bảy phần trăm."
 4. **points** – Màn hình: Bức tranh 10 tháng: CPI bình quân tăng 4,57% / Lạm phát cơ bản tăng 4,24% / Du lịch, giải trí giảm theo mùa
-   - Lời đọc: "Tính chung mười tháng, CPI bình quân tăng bốn phẩy năm bảy phần trăm. Nhóm du lịch, giải trí thì giảm theo mùa."
+   - Lời đọc: "Bình quân mười tháng, CPI tăng bốn phẩy năm bảy phần trăm."
 5. **points** – Màn hình: Bạn nên lưu ý: Chi phí đi lại chiếm phần lớn mức tăng / Theo dõi giá xăng mỗi kỳ điều hành / Lên kế hoạch chi tiêu cuối năm
-   - Lời đọc: "Chi phí đi lại đang đẩy giá lên nhiều nhất. Hãy theo dõi giá xăng mỗi kỳ điều hành và lên kế hoạch chi tiêu cuối năm."
+   - Lời đọc: "Hãy theo dõi giá xăng mỗi kỳ điều hành và lên kế hoạch chi tiêu cuối năm."
 6. **cta** – Màn hình: Theo dõi để cập nhật 17h mỗi ngày
    - Lời đọc: "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
 
@@ -50,13 +50,13 @@ Dòng cuối video: Nguồn: Cục Thống kê, VietnamPlus, Dân Trí, VnEconom
 1. **hook** – Màn hình: Vốn ngoại đổ vào Việt Nam cao nhất 5 năm!
    - Lời đọc: "Vốn đầu tư nước ngoài giải ngân cao nhất năm năm qua."
 2. **stat** – Màn hình: FDI giải ngân 10 tháng 2026 (ước): **24,08** tỷ USD (+13,1%)
-   - Lời đọc: "Cục Thống kê ước tính, mười tháng qua vốn FDI giải ngân đạt hai mươi tư phẩy không tám tỷ đô, tăng mười ba phẩy một phần trăm."
+   - Lời đọc: "Mười tháng qua, vốn FDI giải ngân ước đạt hai mươi tư phẩy không tám tỷ đô, tăng mười ba phần trăm."
 3. **chart** – Màn hình: Vốn FDI 10 tháng 2026: Đăng ký 54.85 | Giải ngân 24.08 | Chế biến, chế tạo 19.96 tỷ USD
-   - Lời đọc: "Vốn đăng ký đạt năm mươi tư phẩy tám lăm tỷ đô, tăng bảy mươi tư phần trăm, cao nhất kể từ năm hai nghìn không trăm lẻ chín."
+   - Lời đọc: "Vốn đăng ký đạt năm mươi tư phẩy tám lăm tỷ đô, cao nhất kể từ năm hai nghìn không trăm lẻ chín."
 4. **points** – Màn hình: Tiền đi đâu?: Chế biến, chế tạo chiếm 82,9% / Giải ngân cao nhất cùng kỳ 5 năm / Vốn đăng ký cao nhất từ 2009
    - Lời đọc: "Gần tám mươi ba phần trăm vốn giải ngân chảy vào công nghiệp chế biến, chế tạo."
 5. **points** – Màn hình: Ý nghĩa với bạn: Thêm nhà máy, thêm việc làm / Hỗ trợ xuất khẩu và tăng trưởng / Đây là số ước tính, có thể điều chỉnh
-   - Lời đọc: "Vốn vào nhà máy nghĩa là thêm việc làm và xuất khẩu. Lưu ý đây là số ước tính, có thể được điều chỉnh."
+   - Lời đọc: "Vốn vào nhà máy là thêm việc làm. Lưu ý đây là số ước tính."
 6. **cta** – Màn hình: Theo dõi để cập nhật 17h mỗi ngày
    - Lời đọc: "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
 

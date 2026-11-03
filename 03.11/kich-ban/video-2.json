@@ -46,7 +46,7 @@
       "value": "0,20",
       "unit": "%",
       "change": "+5,09% so với cùng kỳ",
-      "voice": "Cục Thống kê cho biết chỉ số giá tiêu dùng tháng mười tăng không phẩy hai phần trăm so với tháng trước, và tăng năm phẩy không chín phần trăm so với cùng kỳ."
+      "voice": "Chỉ số giá tiêu dùng tháng mười tăng không phẩy hai phần trăm so với tháng trước, và hơn năm phần trăm so với cùng kỳ."
     },
     {
       "type": "chart",
@@ -66,7 +66,7 @@
         }
       ],
       "unit": "% so với tháng 9",
-      "voice": "Thủ phạm chính là giá xăng, tăng sáu phẩy tám sáu phần trăm, kéo nhóm giao thông tăng hai phẩy sáu sáu phần trăm."
+      "voice": "Thủ phạm chính là giá xăng, tăng gần bảy phần trăm."
     },
     {
       "type": "points",
@@ -76,7 +76,7 @@
         "Lạm phát cơ bản tăng 4,24%",
         "Du lịch, giải trí giảm theo mùa"
       ],
-      "voice": "Tính chung mười tháng, CPI bình quân tăng bốn phẩy năm bảy phần trăm. Nhóm du lịch, giải trí thì giảm theo mùa."
+      "voice": "Bình quân mười tháng, CPI tăng bốn phẩy năm bảy phần trăm."
     },
     {
       "type": "points",
@@ -86,7 +86,7 @@
         "Theo dõi giá xăng mỗi kỳ điều hành",
         "Lên kế hoạch chi tiêu cuối năm"
       ],
-      "voice": "Chi phí đi lại đang đẩy giá lên nhiều nhất. Hãy theo dõi giá xăng mỗi kỳ điều hành và lên kế hoạch chi tiêu cuối năm."
+      "voice": "Hãy theo dõi giá xăng mỗi kỳ điều hành và lên kế hoạch chi tiêu cuối năm."
     },
     {
       "type": "cta",

@@ -46,7 +46,7 @@
       "value": "5,7",
       "unit": "triệu đồng/tháng",
       "change": "+390.000 đ",
-      "voice": "Chính phủ vừa ban hành nghị định mới. Từ một tháng một năm sau, vùng một lên năm phẩy bảy triệu đồng một tháng, tăng ba trăm chín mươi nghìn."
+      "voice": "Từ một tháng một năm sau, vùng một lên năm phẩy bảy triệu đồng một tháng."
     },
     {
       "type": "chart",
@@ -70,7 +70,7 @@
         }
       ],
       "unit": "triệu đồng/tháng",
-      "voice": "Vùng hai năm phẩy không tám triệu, vùng ba bốn phẩy bốn lăm triệu, vùng bốn bốn phẩy không bốn triệu đồng."
+      "voice": "Vùng hai năm phẩy không tám, vùng ba bốn phẩy bốn lăm, vùng bốn bốn phẩy không bốn triệu."
     },
     {
       "type": "points",
@@ -80,7 +80,7 @@
         "Thêm 310.000–390.000 đồng/tháng",
         "Lương theo giờ vùng 1: 27.400 đồng"
       ],
-      "voice": "Mức tăng bình quân bảy phẩy tám phần trăm, tức thêm ba trăm mười đến ba trăm chín mươi nghìn đồng mỗi tháng."
+      "voice": "Bình quân tăng bảy phẩy tám phần trăm, thêm ba trăm mười đến ba trăm chín mươi nghìn mỗi tháng."
     },
     {
       "type": "points",
@@ -90,7 +90,7 @@
         "Xem nơi làm việc thuộc vùng nào",
         "Không được cắt phụ cấp, chế độ đã có"
       ],
-      "voice": "Mức này áp dụng cho người làm theo hợp đồng lao động. Hãy xem nơi làm việc thuộc vùng nào. Doanh nghiệp không được cắt các chế độ đang có."
+      "voice": "Áp dụng cho lao động theo hợp đồng. Hãy xem nơi làm việc thuộc vùng nào."
     },
     {
       "type": "cta",
