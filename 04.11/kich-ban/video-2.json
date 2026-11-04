@@ -1,0 +1,80 @@
+{
+  "title": "Ngân hàng không giảm lãi suất sẽ bị xử lý",
+  "caption": "Họp báo Chính phủ 4/11: Ngân hàng Nhà nước sẽ có biện pháp xử lý tổ chức tín dụng không thực hiện chỉ đạo giảm lãi suất. Lãi suất tiền gửi niêm yết đã giảm 0,5–0,75 điểm %, lãi vay mới giảm 0,2–0,5 điểm %. Khoản vay của bạn đã được giảm chưa? 👇\nNguồn: VietnamPlus, Thanh Niên, VnEconomy. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Ngân hàng Nhà nước sẽ xử lý tổ chức tín dụng không thực hiện giảm lãi suất",
+      "url": "https://www.vietnamplus.vn/ngan-hang-nha-nuoc-se-xu-ly-to-chuc-tin-dung-khong-thuc-hien-giam-lai-suat-post1146089.vnp",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay từ 0,5 - 2%/năm",
+      "url": "https://thanhnien.vn/hon-20-ngan-hang-giam-lai-suat-cho-vay-tu-05-2-nam-185261104140434773.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giảm hạn mức tín dụng năm 2027 với ngân hàng vi phạm chỉ đạo giảm lãi suất",
+      "url": "https://vneconomy.vn/giam-han-muc-tin-dung-nam-2027-voi-ngan-hang-vi-pham-chi-dao-giam-lai-suat.htm",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng không giảm lãi suất sẽ bị xử lý?",
+      "voice": "Ngân hàng không giảm lãi suất sẽ bị xử lý?"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi suất cho vay mới đến cuối tháng 10",
+      "value": "0,2–0,5",
+      "unit": "điểm %",
+      "change": "− đã giảm",
+      "voice": "Đến cuối tháng mười, lãi suất cho vay mới đã giảm khoảng không phẩy hai đến không phẩy năm điểm phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Họp báo Chính phủ 4/11",
+      "items": [
+        "NHNN yêu cầu giảm cả lãi huy động và cho vay",
+        "Sẽ xử lý tổ chức tín dụng không thực hiện",
+        "Có thể giao hạn mức tín dụng 2027 thấp hơn"
+      ],
+      "voice": "Ngân hàng Nhà nước sẽ xử lý tổ chức tín dụng không thực hiện, có thể giao hạn mức tín dụng thấp hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Đã giảm bao nhiêu?",
+      "items": [
+        "Lãi tiền gửi niêm yết giảm 0,5–0,75 điểm %",
+        "Hơn 20 ngân hàng có gói vay giảm 0,5–2%/năm"
+      ],
+      "voice": "Lãi tiền gửi niêm yết đã giảm từ nửa điểm phần trăm. Hơn hai mươi ngân hàng có gói vay ưu đãi."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Hỏi ngân hàng về khoản vay đang có",
+        "Lãi tiết kiệm có thể thấp hơn trước",
+        "So sánh lãi thực tế, không chỉ niêm yết"
+      ],
+      "voice": "Người đang vay nên hỏi ngân hàng về mức lãi mới. Người gửi tiết kiệm nên so sánh lãi thực nhận."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

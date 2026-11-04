@@ -1,0 +1,111 @@
+{
+  "title": "Giá điện giảm 2%, sinh hoạt còn 5 bậc",
+  "caption": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2%, còn 2.159,9 đồng/kWh. Điện sinh hoạt chuyển sang 5 bậc: bậc 1 (0–100 kWh) 1.901 đồng, cao nhất 3.844 đồng/kWh (chưa VAT). Hộ dùng dưới 900 kWh/tháng được giảm tiền điện. Nhà bạn dùng bao nhiêu số điện mỗi tháng? 💡👇\nNguồn: Báo Chính phủ, VietnamPlus, Tuổi Trẻ, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadien",
+    "#tiendien",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Chi tiết biểu giá bán lẻ điện mới áp dụng từ ngày 1/11/2026",
+      "url": "https://baochinhphu.vn/chi-tiet-bieu-gia-ban-le-dien-moi-ap-dung-tu-ngay-1-11-2026-102261104104434646.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "EVN điều chỉnh giá điện giảm 2%, còn 2.159,9 đồng/kWh từ ngày mai, 1/11",
+      "url": "https://www.vietnamplus.vn/evn-dieu-chinh-gia-dien-giam-2-con-21599-dongkwh-tu-ngay-mai-111-post1145418.vnp",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Chính thức áp biểu giá điện sinh hoạt 5 bậc thang, cao nhất 3.844 đồng/kWh",
+      "url": "https://tuoitre.vn/chinh-thuc-ap-bieu-gia-dien-sinh-hoat-5-bac-thang-cao-nhat-3844-dong-kwh-100261104103205238.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giảm 2% giá điện, EVN dự kiến hụt thu hơn 1.500 tỷ đồng mỗi tháng",
+      "url": "https://dantri.com.vn/kinh-doanh/giam-2-gia-dien-evn-du-kien-hut-thu-hon-1500-ty-dong-moi-thang-20261104122822124.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Biểu giá điện mới: Hộ sử dụng dưới 900 kWh/tháng được giảm tiền điện",
+      "url": "https://baochinhphu.vn/bieu-gia-dien-moi-ho-su-dung-duoi-900-kwh-thang-duoc-giam-tien-dien-102261104123406615.htm",
+      "date": "04/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tiền điện tháng này sẽ giảm?",
+      "voice": "Tiền điện nhà bạn tháng này sẽ giảm?"
+    },
+    {
+      "type": "stat",
+      "label": "Giá bán lẻ điện bình quân từ 1/11",
+      "value": "2.159,9",
+      "unit": "đồng/kWh",
+      "change": "−2%",
+      "voice": "Từ ngày một tháng mười một, giá điện bình quân giảm hai phần trăm, còn khoảng hai nghìn một trăm sáu mươi đồng một số."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá điện sinh hoạt 5 bậc",
+      "bars": [
+        {
+          "label": "0–100",
+          "value": 1901
+        },
+        {
+          "label": "101–200",
+          "value": 2289
+        },
+        {
+          "label": "201–400",
+          "value": 2894
+        },
+        {
+          "label": "401–700",
+          "value": 3456
+        },
+        {
+          "label": "Từ 701",
+          "value": 3844
+        }
+      ],
+      "unit": "đồng/kWh, chưa VAT",
+      "voice": "Điện sinh hoạt rút từ sáu bậc xuống năm bậc. Bậc đầu một nghìn chín trăm linh một đồng, cao nhất ba nghìn tám trăm bốn mươi bốn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Ai được lợi?",
+      "items": [
+        "Hộ dùng dưới 900 kWh/tháng được giảm",
+        "Áp dụng đến hết tháng 3/2027",
+        "EVN dự kiến hụt thu hơn 1.500 tỷ/tháng"
+      ],
+      "voice": "Hộ dùng dưới chín trăm số mỗi tháng được giảm tiền điện. Mức giảm áp dụng đến hết tháng ba năm sau."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Kiểm tra số kWh trên hoá đơn",
+        "Dùng nhiều điện vẫn chịu giá bậc cao",
+        "Tiết kiệm điện vẫn là cách giảm chi"
+      ],
+      "voice": "Hãy xem số điện trên hoá đơn. Dùng càng nhiều, giá bậc càng cao."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

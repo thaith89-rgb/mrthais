@@ -1,0 +1,97 @@
+{
+  "title": "Vàng SJC tăng, đắt hơn thế giới 17 triệu",
+  "caption": "Sáng 4/11, vàng miếng SJC bán ra 141,2 triệu đồng/lượng, chiều lên 142,4 triệu – tăng 1,8 triệu so với chốt hôm qua. Giá trong nước vẫn cao hơn thế giới quy đổi khoảng 17–18 triệu đồng/lượng. Bạn thấy mức chênh này thế nào? 👇\nNguồn: VietnamPlus, Dân Trí, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangsjc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng hôm nay 4/11 tăng, SJC bán ra 141,2 triệu đồng",
+      "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-di-len-giao-dich-quanh-muc-1412-trieu-dong-moi-luong-post1146021.vnp",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Vàng miếng SJC tăng ngược chiều thế giới, chênh lệch hơn 18 triệu đồng",
+      "url": "https://dantri.com.vn/kinh-doanh/vang-mieng-sjc-tang-nguoc-chieu-the-gioi-chenh-lech-hon-18-trieu-dong-20261104075752267.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng tăng vùn vụt thêm 1,8 triệu/lượng",
+      "url": "https://thanhnien.vn/gia-vang-tang-vun-vut-them-18-trieu-luong-185261104135315432.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Diễn biến bầu cử tại Mỹ hỗ trợ đà tăng giá của vàng thế giới",
+      "url": "https://www.vietnamplus.vn/dien-bien-bau-cu-tai-my-ho-tro-da-tang-gia-cua-vang-the-gioi-post1146110.vnp",
+      "date": "04/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng SJC đắt hơn thế giới 17 triệu?",
+      "voice": "Vàng trong nước đắt hơn thế giới tới mười bảy triệu đồng?"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC bán ra, sáng 4/11",
+      "value": "141,2",
+      "unit": "triệu đồng/lượng",
+      "change": "+0,6 triệu",
+      "voice": "Sáng nay, vàng miếng SJC bán ra một trăm bốn mươi mốt phẩy hai triệu đồng một lượng, tăng sáu trăm nghìn đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá bán ra ngày 4/11",
+      "bars": [
+        {
+          "label": "Thế giới quy đổi",
+          "value": 123.2
+        },
+        {
+          "label": "SJC sáng",
+          "value": 141.2
+        },
+        {
+          "label": "SJC chiều",
+          "value": 142.4
+        }
+      ],
+      "unit": "triệu đồng/lượng",
+      "voice": "Đến chiều, giá lên một trăm bốn mươi hai phẩy bốn triệu. Trong khi vàng thế giới quy đổi chỉ khoảng một trăm hai mươi ba triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Vàng thế giới tăng khoảng 2%",
+        "Thị trường chờ kết quả bầu cử Mỹ",
+        "Vàng nhẫn tăng gần 1 triệu"
+      ],
+      "voice": "Vàng thế giới tăng khoảng hai phần trăm khi thị trường theo dõi bầu cử giữa kỳ ở Mỹ."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Chênh lệch mua – bán khoảng 3 triệu",
+        "Giá thay đổi nhiều lần trong ngày",
+        "Chỉ giao dịch tại nơi uy tín"
+      ],
+      "voice": "Chênh lệch mua bán khoảng ba triệu đồng, giá thay đổi liên tục, hãy cân nhắc kỹ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
