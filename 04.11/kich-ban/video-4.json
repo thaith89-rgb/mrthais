@@ -1,0 +1,92 @@
+{
+  "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD",
+  "caption": "Cục Thống kê: 10 tháng 2026, tổng xuất nhập khẩu đạt 1.010,55 tỷ USD – lần đầu vượt mốc 1.000 tỷ USD. Riêng tháng 10 xuất siêu 7,31 tỷ USD, nhưng lũy kế 10 tháng vẫn nhập siêu 12,07 tỷ USD. 🚢👇\nNguồn: Báo Chính phủ, VnEconomy, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#xuatkhau",
+    "#thuongmai",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Vượt mốc 1.000 tỷ USD, kim ngạch xuất nhập khẩu xác lập mức cao nhất từ trước tới nay",
+      "url": "https://baochinhphu.vn/vuot-moc-1000-ty-usd-kim-ngach-xuat-nhap-khau-xac-lap-muc-cao-nhat-tu-truoc-toi-nay-102261103135046083.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Xuất nhập khẩu Việt Nam lập kỷ lục 1.000 tỷ USD năm 2026",
+      "url": "https://vneconomy.vn/xuat-nhap-khau-lap-ky-luc-vuot-moc-1000-ty-usd.htm",
+      "date": "03/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Xuất siêu lập kỷ lục 7,31 tỉ USD trong tháng 10 khi nhập khẩu hàng điện tử giảm mạnh",
+      "url": "https://tuoitre.vn/xuat-sieu-lap-ky-luc-731-ti-usd-trong-thang-10-khi-nhap-khau-hang-dien-tu-giam-manh-100261104092356805.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Xuất khẩu gần chạm mốc 500 tỉ USD, Mỹ là thị trường lớn nhất",
+      "url": "https://tuoitre.vn/xuat-khau-gan-cham-moc-500-ti-usd-my-la-thi-truong-lon-nhat-100261103145322222.htm",
+      "date": "03/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Việt Nam vượt mốc 1.000 tỷ USD!",
+      "voice": "Việt Nam vừa vượt mốc một nghìn tỷ đô la!"
+    },
+    {
+      "type": "stat",
+      "label": "Tổng xuất nhập khẩu 10 tháng 2026",
+      "value": "1.010,55",
+      "unit": "tỷ USD",
+      "change": "+32,3%",
+      "voice": "Mười tháng năm nay, tổng xuất nhập khẩu đạt hơn một nghìn không trăm mười tỷ đô la, lần đầu vượt mốc một nghìn tỷ."
+    },
+    {
+      "type": "chart",
+      "heading": "10 tháng 2026",
+      "bars": [
+        {
+          "label": "Xuất khẩu",
+          "value": 499.24
+        },
+        {
+          "label": "Nhập khẩu",
+          "value": 511.31
+        }
+      ],
+      "unit": "tỷ USD",
+      "voice": "Xuất khẩu gần năm trăm tỷ đô la, nhập khẩu hơn năm trăm mười một tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm đáng chú ý",
+      "items": [
+        "Tháng 10 xuất siêu kỷ lục 7,31 tỷ USD",
+        "Lũy kế 10 tháng vẫn nhập siêu 12,07 tỷ USD",
+        "Nhập khẩu hàng điện tử giảm mạnh"
+      ],
+      "voice": "Riêng tháng mười xuất siêu kỷ lục hơn bảy tỷ đô la. Nhưng cộng cả mười tháng, vẫn nhập siêu hơn mười hai tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Mỹ là thị trường xuất khẩu lớn nhất",
+        "Đây là số liệu ước tính của Cục Thống kê"
+      ],
+      "voice": "Mỹ vẫn là thị trường xuất khẩu lớn nhất. Đây là số ước tính, có thể được điều chỉnh."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
