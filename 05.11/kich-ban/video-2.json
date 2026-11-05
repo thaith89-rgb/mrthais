@@ -1,0 +1,95 @@
+{
+  "title": "Vàng thế giới vọt lên, SJC biến động mạnh",
+  "caption": "Ngày 5/11, vàng thế giới tăng mạnh lên quanh 4.110–4.120 USD/ounce. Vàng miếng SJC có lúc bán ra 144,5 triệu đồng/lượng, trưa hạ còn 143,4 triệu, chiều quanh 143 triệu. Chênh lệch với thế giới quy đổi khoảng 13–14 triệu đồng/lượng. Bạn đang theo dõi giá vàng thế nào? 👇\nNguồn: VnExpress, Thanh Niên, VietnamPlus, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangsjc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng mới nhất hôm nay ngày 5/11: Giá vàng miếng lên cao nhất gần một tháng",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-5-11-5141000.html",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng giảm sau tăng mạnh",
+      "url": "https://thanhnien.vn/gia-vang-giam-sau-tang-manh-185261105121734942.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng tăng lên mức cao nhất trong hơn hai tuần",
+      "url": "https://www.vietnamplus.vn/gia-vang-tang-len-muc-cao-nhat-trong-hon-hai-tuan-post1146380.vnp",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 5-11: Vàng thế giới tăng mạnh, SJC tăng thêm 1,8 triệu đồng",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-5-11-vang-the-gioi-tang-manh-sjc-tang-them-18-trieu-dong-100261105083428401.htm",
+      "date": "05/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng lên 144,5 triệu rồi lại hạ?",
+      "voice": "Vàng miếng lên một trăm bốn mươi bốn triệu rưỡi, rồi lại hạ?"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng thế giới, trưa 5/11",
+      "value": "4.123",
+      "unit": "USD/ounce",
+      "change": "cao nhất từ 20/10",
+      "voice": "Vàng thế giới vọt lên khoảng bốn nghìn một trăm hai mươi đô la một ounce, cao nhất từ hai mươi tháng mười."
+    },
+    {
+      "type": "chart",
+      "heading": "SJC bán ra ngày 5/11",
+      "bars": [
+        {
+          "label": "~9h",
+          "value": 144.5
+        },
+        {
+          "label": "Trưa",
+          "value": 143.4
+        },
+        {
+          "label": "Chiều",
+          "value": 143.02
+        }
+      ],
+      "unit": "triệu đồng/lượng",
+      "voice": "SJC có lúc bán ra một trăm bốn mươi bốn triệu rưỡi, chiều lùi về quanh một trăm bốn mươi ba triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao biến động?",
+      "items": [
+        "USD suy yếu",
+        "Đắt hơn thế giới 13–14 triệu"
+      ],
+      "voice": "Đồng đô la yếu đi sau bầu cử giữa kỳ Mỹ. Vàng trong nước vẫn đắt hơn thế giới mười ba đến mười bốn triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Giá đổi liên tục",
+        "Chênh mua – bán ~3 triệu"
+      ],
+      "voice": "Giá đổi liên tục, chênh mua bán khoảng ba triệu. Hãy cân nhắc kỹ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

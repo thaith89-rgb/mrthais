@@ -1,0 +1,85 @@
+{
+  "title": "Từ 11/11: Thu thập dữ liệu trái phép bị phạt",
+  "caption": "Nghị định 363/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực dữ liệu có hiệu lực từ 11/11/2026. Theo các báo, thu thập, tạo lập dữ liệu khi chưa được đồng ý có thể bị phạt 20–40 triệu đồng; làm giả dữ liệu, thu thập vượt phạm vi đã thông báo hoặc làm lộ thông tin nhạy cảm có thể bị phạt 40–60 triệu đồng. Shop của bạn có đang lưu dữ liệu khách hàng? 👇\nNguồn: Báo Chính phủ, Tuổi Trẻ, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#phapluat",
+    "#dulieu",
+    "#chinhsachmoi",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Những chính sách mới có hiệu lực từ tháng 11/2026",
+      "url": "https://baochinhphu.vn/nhung-chinh-sach-moi-co-hieu-luc-tu-thang-11-2026-102261031091922064.htm",
+      "date": "31/10/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Thu thập dữ liệu làm lộ thông tin nhạy cảm có thể bị phạt đến 60 triệu đồng",
+      "url": "https://baochinhphu.vn/thu-thap-du-lieu-lam-lo-thong-tin-nhay-cam-co-the-bi-phat-den-60-trieu-dong-102260923101031855.htm",
+      "date": "23/09/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Chính sách mới về xổ số, lưu trú, chứng khoán có hiệu lực từ tháng 11-2026",
+      "url": "https://tuoitre.vn/chinh-sach-moi-ve-xo-so-luu-tru-chung-khoan-co-hieu-luc-tu-thang-11-2026-10026102613244706.htm",
+      "date": "26/10/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Chính sách nổi bật có hiệu lực từ tháng 11",
+      "url": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-5139157.html",
+      "date": "10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lưu dữ liệu khách có thể bị phạt?",
+      "voice": "Thu thập dữ liệu khi chưa được đồng ý có thể bị phạt?"
+    },
+    {
+      "type": "stat",
+      "label": "Mức phạt cao nhất theo các báo (cá nhân)",
+      "value": "60",
+      "unit": "triệu đồng",
+      "change": "hiệu lực 11/11",
+      "voice": "Từ mười một tháng mười một, Nghị định ba trăm sáu mươi ba về xử phạt trong lĩnh vực dữ liệu có hiệu lực. Mức phạt cá nhân lên tới sáu mươi triệu đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Phạt 20–40 triệu đồng",
+      "items": [
+        "Thu thập khi chưa được đồng ý"
+      ],
+      "voice": "Thu thập dữ liệu khi chưa được đồng ý, phạt hai mươi đến bốn mươi triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Phạt 40–60 triệu",
+      "items": [
+        "Làm giả dữ liệu",
+        "Thu vượt phạm vi",
+        "Lộ thông tin nhạy cảm"
+      ],
+      "voice": "Làm giả dữ liệu, thu vượt phạm vi hay làm lộ thông tin nhạy cảm, phạt bốn mươi đến sáu mươi triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Xin khách đồng ý trước",
+        "Dùng đúng mục đích",
+        "Xem văn bản gốc"
+      ],
+      "voice": "Nếu bán hàng, hãy xin khách đồng ý và dùng dữ liệu đúng mục đích."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
