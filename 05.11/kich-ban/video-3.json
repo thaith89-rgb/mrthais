@@ -1,0 +1,89 @@
+{
+  "title": "46 ngân hàng đã giảm lãi tiết kiệm",
+  "caption": "Theo Dân Trí, cả 46 ngân hàng thương mại đã giảm lãi suất tiền gửi, phổ biến 0,5–0,7 điểm %/năm với kỳ hạn từ 6 tháng. Kỳ hạn 12 tháng: nhóm Big4 niêm yết 5,4%/năm, mức cao nhất khoảng 7,1%/năm. Lãi vay mới chỉ giảm 0,2–0,5%/năm. Bạn có đang gửi tiết kiệm? 👇\nNguồn: Dân Trí, Tuổi Trẻ, VnEconomy. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#tietkiem",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân Trí",
+      "title": "Tất cả 46 ngân hàng đã giảm lãi huy động, lãi cho vay giảm bao nhiêu?",
+      "url": "https://dantri.com.vn/kinh-doanh/tat-ca-46-ngan-hang-da-giam-lai-huy-dong-lai-cho-vay-giam-bao-nhieu-20261105095021470.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "46 ngân hàng giảm lãi suất tiền gửi, lãi vay giảm ra sao?",
+      "url": "https://tuoitre.vn/46-ngan-hang-giam-lai-suat-tien-gui-lai-vay-giam-ra-sao-100261104171534546.htm",
+      "date": "04/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Lãi suất tiết kiệm 6 - 12 tháng ổn định quanh 6% sau giảm mạnh",
+      "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ky-han-6-12-thang-pho-bien-lui-ve-khoang-6nam.htm",
+      "date": "11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Gửi tiết kiệm giờ lãi còn bao nhiêu?",
+      "voice": "Gửi tiết kiệm bây giờ, lãi còn được bao nhiêu?"
+    },
+    {
+      "type": "stat",
+      "label": "Ngân hàng thương mại đã giảm lãi tiền gửi",
+      "value": "46/46",
+      "unit": "ngân hàng",
+      "change": "−0,5 đến −0,7 điểm %",
+      "voice": "Cả bốn mươi sáu ngân hàng thương mại đã giảm lãi tiền gửi, phổ biến nửa điểm đến bảy phần mười điểm phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi tiết kiệm 12 tháng niêm yết",
+      "bars": [
+        {
+          "label": "Big4",
+          "value": 5.4
+        },
+        {
+          "label": "Phổ biến",
+          "value": 6
+        },
+        {
+          "label": "Cao nhất",
+          "value": 7.1
+        }
+      ],
+      "unit": "%/năm",
+      "voice": "Kỳ hạn mười hai tháng, nhóm Big Four niêm yết năm phẩy bốn phần trăm, cao nhất khoảng bảy phẩy một."
+    },
+    {
+      "type": "points",
+      "heading": "Lãi vay?",
+      "items": [
+        "Lãi vay mới giảm 0,2–0,5%",
+        "Ưu đãi chủ yếu cho doanh nghiệp"
+      ],
+      "voice": "Còn lãi vay mới chỉ giảm nhẹ. Gói ưu đãi lớn chủ yếu dành cho doanh nghiệp."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "So sánh quầy và online",
+        "Đọc kỹ điều kiện rút trước hạn"
+      ],
+      "voice": "Hãy so sánh lãi tại quầy và trực tuyến, đọc kỹ điều kiện rút trước hạn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

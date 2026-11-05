@@ -1,0 +1,101 @@
+{
+  "title": "Xăng giảm hơn 2.000 đồng/lít từ 15h",
+  "caption": "Từ 15h ngày 5/11, xăng E5 RON 92 giảm 2.305 đồng còn tối đa 20.898 đồng/lít; xăng E10 RON 95 giảm 2.075 đồng còn 21.156 đồng/lít; dầu diesel giảm 180 đồng còn 28.696 đồng/lít. Bình xăng của bạn rẻ hơn bao nhiêu? ⛽👇\nNguồn: Báo Chính phủ, Tuổi Trẻ, Dân Trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaxang",
+    "#xangdau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Giá xăng dầu đồng loạt giảm mạnh, xăng E5 giảm hơn 2.300 đồng/lít",
+      "url": "https://baochinhphu.vn/gia-xang-dau-dong-loat-giam-manh-xang-e5-giam-hon-2300-dong-lit-102261105144135061.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Từ 15 giờ chiều nay 5-11, giá xăng dầu tiếp tục giảm mạnh thêm 2.000 đồng/lít",
+      "url": "https://tuoitre.vn/tu-15-gio-chieu-nay-5-11-gia-xang-dau-tiep-tuc-giam-manh-them-2000-dong-lit-100261105143920535.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá xăng tiếp tục giảm mạnh, xăng E10 giảm hơn 2.000 đồng/lít",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-tiep-tuc-giam-manh-xang-e10-giam-hon-2000-donglit-20261105141242876.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng dầu tiếp tục giảm từ 15 giờ hôm nay, E10 giảm hơn 2.000 đồng mỗi lít",
+      "url": "https://www.vietnamplus.vn/gia-xang-dau-tiep-tuc-giam-tu-15-gio-hom-nay-e10-giam-hon-2000-dong-moi-lit-post1146367.vnp",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá xăng dầu hôm nay 5/11: Giá xăng, dầu cùng giảm",
+      "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-5-11-5141125.html",
+      "date": "05/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Xăng vừa giảm hơn 2.000 đồng/lít!",
+      "voice": "Xăng vừa giảm hơn hai nghìn đồng mỗi lít!"
+    },
+    {
+      "type": "stat",
+      "label": "Xăng E5 RON 92 từ 15h ngày 5/11",
+      "value": "20.898",
+      "unit": "đồng/lít (tối đa)",
+      "change": "−2.305",
+      "voice": "Từ mười lăm giờ hôm nay, xăng E năm giảm hơn hai nghìn ba trăm đồng, còn tối đa hai mươi nghìn chín trăm đồng một lít."
+    },
+    {
+      "type": "chart",
+      "heading": "Mức giảm từ 15h ngày 5/11",
+      "bars": [
+        {
+          "label": "E5 RON 92",
+          "value": 2305
+        },
+        {
+          "label": "E10 RON 95",
+          "value": 2075
+        },
+        {
+          "label": "Diesel",
+          "value": 180
+        }
+      ],
+      "unit": "đồng/lít",
+      "voice": "Xăng E mười giảm gần hai nghìn một trăm đồng. Dầu diesel chỉ giảm một trăm tám mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Giá thế giới giảm",
+        "Thuế TTĐB xăng về 0%"
+      ],
+      "voice": "Giá thế giới đi xuống, thuế tiêu thụ đặc biệt với xăng đã về không phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Đây là giá tối đa",
+        "Kỳ sau có thể đổi"
+      ],
+      "voice": "Đây là giá trần, giá còn có thể đổi ở kỳ điều hành tới."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
