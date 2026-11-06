@@ -1,0 +1,18 @@
+{
+  "title": "Giá USD giảm 180 đồng sau một tuần",
+  "caption": "Ngày 6/11, Ngân hàng Nhà nước giảm tỷ giá trung tâm thêm 8 đồng, còn 25.615 đồng/USD. Vietcombank bán ra 25.810 đồng/USD; giá USD tại ngân hàng giảm khoảng 180 đồng sau một tuần. Bạn có đang cần mua USD? 👇\nNguồn: Thanh Niên, VnEconomy, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#tygia", "#usd", "#tintuc"],
+  "sources": [
+    { "name": "Thanh Niên", "title": "Giá USD hôm nay 6.11.2026: Giảm 180 đồng trong tuần qua", "url": "https://thanhnien.vn/gia-usd-hom-nay-6112026-giam-180-dong-trong-tuan-qua-185261106083421062.htm", "date": "06/11/2026" },
+    { "name": "Thanh Niên", "title": "Giá USD hôm nay 5.11.2026: Giảm ngày thứ 4 liên tiếp", "url": "https://thanhnien.vn/gia-usd-hom-nay-5112026-giam-ngay-thu-4-lien-tiep-185261105083226027.htm", "date": "05/11/2026" },
+    { "name": "Dân Trí", "title": "Giá USD ngân hàng xuống thấp nhất 18 tháng, chuyên gia nêu dự báo mới nhất", "url": "https://dantri.com.vn/kinh-doanh/gia-usd-ngan-hang-xuong-thap-nhat-18-thang-chuyen-gia-neu-du-bao-moi-nhat-20261031140323541.htm", "date": "31/10/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Giá USD đang giảm liên tục?", "voice": "Giá đô la Mỹ đang giảm liên tục?" },
+    { "type": "stat", "label": "Tỷ giá trung tâm ngày 6/11", "value": "25.615", "unit": "đồng/USD", "change": "−8", "voice": "Hôm nay, Ngân hàng Nhà nước giảm tỷ giá trung tâm thêm tám đồng, còn hai mươi lăm nghìn sáu trăm mười lăm đồng một đô la." },
+    { "type": "chart", "heading": "Tỷ giá trung tâm", "bars": [{ "label": "5/11", "value": 25623 }, { "label": "6/11", "value": 25615 }], "unit": "đồng/USD", "voice": "So với cuối tháng mười, tỷ giá trung tâm đã giảm hai mươi mốt đồng." },
+    { "type": "points", "heading": "Tại ngân hàng", "items": ["Vietcombank bán ra 25.810 đồng", "Giảm khoảng 180 đồng sau một tuần"], "voice": "Tại Vietcombank, giá bán ra còn hai mươi lăm nghìn tám trăm mười đồng, giảm khoảng một trăm tám mươi đồng sau một tuần." },
+    { "type": "points", "heading": "Ảnh hưởng tới bạn", "items": ["Mua USD du học, du lịch rẻ hơn chút", "Chỉ giao dịch ở nơi được phép"], "voice": "Ai cần mua đô la để du học, du lịch sẽ đỡ hơn một chút. Hãy giao dịch tại ngân hàng hoặc nơi được cấp phép." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

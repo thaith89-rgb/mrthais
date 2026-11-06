@@ -1,0 +1,19 @@
+{
+  "title": "Vàng SJC quay đầu giảm 1,5 triệu",
+  "caption": "Sáng 6/11, sau 4 phiên tăng liên tiếp, vàng miếng SJC giảm 1,5 triệu đồng mỗi lượng, còn 138 triệu mua vào – 141 triệu bán ra. Vàng thế giới lùi về quanh 4.078 USD/ounce. Giá trong nước vẫn cao hơn thế giới khoảng 14,5 triệu đồng/lượng. Bạn nghĩ giá vàng sẽ ra sao? 👇\nNguồn: VnExpress, Thanh Niên, VietnamPlus, VnEconomy. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#vangsjc", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Giá vàng hôm nay: Giá vàng lùi về 141 triệu đồng", "url": "https://vnexpress.net/gia-vang-giam-3-5-trieu-xuong-sat-141-trieu-dong-5141437.html", "date": "06/11/2026" },
+    { "name": "Thanh Niên", "title": "Giá vàng hôm nay 6.11.2026: Quay đầu giảm 1,5 triệu đồng", "url": "https://thanhnien.vn/gia-vang-hom-nay-6112026-quay-dau-giam-15-trieu-dong-185261106074218257.htm", "date": "06/11/2026" },
+    { "name": "VietnamPlus", "title": "Giá vàng giảm tới 1,5 triệu đồng, thương hiệu SJC xuống ngưỡng 141 triệu đồng", "url": "https://www.vietnamplus.vn/gia-vang-giam-toi-15-trieu-dong-thuong-hieu-sjc-xuong-nguong-141-trieu-dong-post1146534.vnp", "date": "06/11/2026" },
+    { "name": "VnEconomy", "title": "Giá vàng trong nước \"bốc hơi\" 1,5 - 1,8 triệu đồng mỗi lượng sau 4 phiên tăng", "url": "https://vneconomy.vn/gia-vang-trong-nuoc-boc-hoi-15-18-trieu-dong-moi-luong-sau-4-phien-tang.htm", "date": "06/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng SJC vừa mất 1,5 triệu?", "voice": "Vàng miếng vừa mất một triệu rưỡi mỗi lượng?" },
+    { "type": "stat", "label": "Vàng miếng SJC bán ra", "value": "141", "unit": "triệu đồng/lượng", "change": "−1,5", "voice": "Sáng nay, vàng miếng SJC giảm một triệu năm trăm nghìn đồng, bán ra còn một trăm bốn mươi mốt triệu đồng một lượng." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Sau 4 phiên tăng liên tiếp", "Vàng thế giới lùi về ~4.078 USD/ounce"], "voice": "Giá quay đầu sau bốn phiên tăng liên tiếp, khi vàng thế giới lùi về quanh bốn nghìn không trăm bảy mươi tám đô la một ounce." },
+    { "type": "chart", "heading": "Giá bán SJC sáng 6/11", "bars": [{ "label": "Cuối 5/11", "value": 142.5 }, { "label": "Sáng 6/11", "value": 141 }], "unit": "triệu đồng/lượng", "voice": "Dù vậy, giá trong nước vẫn cao hơn thế giới khoảng mười bốn triệu rưỡi mỗi lượng." },
+    { "type": "points", "heading": "Lưu ý", "items": ["Giá thay đổi nhiều lần trong ngày", "Chênh mua – bán khoảng 3 triệu"], "voice": "Giá vàng thay đổi nhiều lần trong ngày, chênh lệch mua bán khoảng ba triệu đồng. Hãy xem giá niêm yết mới nhất." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

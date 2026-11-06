@@ -1,0 +1,17 @@
+{
+  "title": "Cá tra lên 38.000 đồng/kg, cao nhất 3 năm",
+  "caption": "Cá tra nguyên liệu ở Đồng Tháp đang được thu mua 37.000–38.000 đồng/kg, cao hơn khoảng 5.000 đồng/kg so với tháng 5 – mức cao nhất khoảng 3 năm. Nguyên nhân: con giống khan hiếm, doanh nghiệp tăng thu mua cho đơn hàng xuất khẩu cuối năm. Bạn có hay ăn cá tra? 🐟👇\nNguồn: VietnamPlus, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#nongsan", "#catra", "#xuatkhau", "#tintuc"],
+  "sources": [
+    { "name": "VietnamPlus", "title": "Giá cá tra Đồng Tháp tăng lên 38.000 đồng/kg", "url": "https://www.vietnamplus.vn/gia-ca-tra-nguyen-lieu-o-dong-thap-tang-cao-post1146580.vnp", "date": "06/11/2026" },
+    { "name": "Dân Trí", "title": "Một loại cá ở miền Tây được Nhật Bản muốn mua đang tăng giá mạnh", "url": "https://dantri.com.vn/kinh-doanh/mot-loai-ca-o-mien-tay-duoc-nhat-ban-muon-mua-dang-tang-gia-manh-20261106094111434.htm", "date": "06/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Cá tra lên giá cao nhất 3 năm!", "voice": "Cá tra vừa lên giá cao nhất ba năm!" },
+    { "type": "stat", "label": "Cá tra nguyên liệu tại Đồng Tháp", "value": "38.000", "unit": "đồng/kg", "change": "+5.000 so với tháng 5", "voice": "Ở Đồng Tháp, cá tra nguyên liệu đang được thu mua ba mươi bảy đến ba mươi tám nghìn đồng một ký, cao hơn khoảng năm nghìn đồng so với tháng năm." },
+    { "type": "chart", "heading": "Giá thu mua cá tra", "bars": [{ "label": "Tháng 5", "value": 33 }, { "label": "Tháng 11", "value": 38 }], "unit": "nghìn đồng/kg", "voice": "Đây là mức cao nhất khoảng ba năm qua." },
+    { "type": "points", "heading": "Vì sao tăng?", "items": ["Con giống khan hiếm", "Đơn hàng xuất khẩu cuối năm tăng"], "voice": "Nguyên nhân là con giống khan hiếm, trong khi doanh nghiệp tăng thu mua để kịp đơn hàng xuất khẩu cuối năm." },
+    { "type": "points", "heading": "Lưu ý", "items": ["Một vụ nuôi mất 8–10 tháng", "Nên có hợp đồng bao tiêu đầu ra"], "voice": "Một vụ nuôi kéo dài tám đến mười tháng, nên doanh nghiệp khuyên người nuôi ký hợp đồng bao tiêu, đừng vội mở rộng ao." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
