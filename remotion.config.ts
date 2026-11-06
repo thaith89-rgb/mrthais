@@ -9,8 +9,9 @@ const findBrowser = (): string | null => {
   const root = "/opt/pw-browsers";
   if (!existsSync(root)) return null;
   for (const d of readdirSync(root).filter((d) => d.startsWith("chromium_headless_shell-")).sort().reverse()) {
-    const p = `${root}/${d}/chrome-linux/headless_shell`;
-    if (existsSync(p)) return p;
+    for (const p of [`${root}/${d}/chrome-linux/headless_shell`, `${root}/${d}/chrome-headless-shell-linux64/chrome-headless-shell`]) {
+      if (existsSync(p)) return p;
+    }
   }
   return null;
 };

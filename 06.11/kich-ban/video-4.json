@@ -1,0 +1,88 @@
+{
+  "title": "Lãi tiết kiệm giảm, lãi vay nhà vẫn cao",
+  "caption": "Lãi tiền gửi đã giảm, nhưng theo số liệu Ngân hàng Nhà nước dẫn qua Dân Trí, lãi suất bình quân khoản vay mới chỉ giảm 0,2–0,5%/năm so với đầu tháng 10. Lãi vay mua nhà phổ biến 11–14%/năm, một số khoản thả nổi tới 15%/năm. Khoản vay của bạn sắp hết ưu đãi chưa? 🏠👇\nNguồn: Dân Trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#vaymuanha",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân Trí",
+      "title": "Người vay mua nhà chịu áp lực bán cắt lỗ, chuyên gia nói lãi suất khó giảm nhanh",
+      "url": "https://dantri.com.vn/bat-dong-san/nguoi-vay-mua-nha-chiu-ap-luc-ban-cat-lo-chuyen-gia-noi-lai-suat-kho-giam-nhanh-20261105172751930.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Tất cả 46 ngân hàng đã giảm lãi huy động, lãi cho vay giảm bao nhiêu?",
+      "url": "https://dantri.com.vn/kinh-doanh/tat-ca-46-ngan-hang-da-giam-lai-huy-dong-lai-cho-vay-giam-bao-nhieu-20261105095021470.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "46 ngân hàng giảm lãi suất tiền gửi, lãi vay giảm ra sao?",
+      "url": "https://tuoitre.vn/46-ngan-hang-giam-lai-suat-tien-gui-lai-vay-giam-ra-sao-100261104171534546.htm",
+      "date": "04/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lãi vay mua nhà sao chưa giảm?",
+      "voice": "Lãi tiết kiệm giảm, sao lãi vay mua nhà vẫn cao?"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi vay mới chỉ giảm",
+      "value": "0,2–0,5",
+      "unit": "điểm %/năm so với đầu tháng 10",
+      "voice": "Theo Ngân hàng Nhà nước, lãi bình quân khoản vay mới chỉ giảm không phẩy hai đến không phẩy năm phần trăm một năm."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi vay mua nhà phổ biến",
+      "bars": [
+        {
+          "label": "Thấp",
+          "value": 11
+        },
+        {
+          "label": "Cao",
+          "value": 14
+        },
+        {
+          "label": "Thả nổi",
+          "value": 15
+        }
+      ],
+      "unit": "%/năm",
+      "voice": "Lãi vay mua nhà phổ biến mười một đến mười bốn phần trăm, có khoản thả nổi tới mười lăm."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao chậm?",
+      "items": [
+        "Ưu tiên vay sản xuất kinh doanh",
+        "Tiền gửi cũ chưa đáo hạn hết"
+      ],
+      "voice": "Đợt giảm lãi ưu tiên vay sản xuất kinh doanh, còn tiền gửi lãi cao cũ chưa đáo hạn hết."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Xem ngày hết ưu đãi trong hợp đồng",
+        "Tính trước tiền trả khi thả nổi"
+      ],
+      "voice": "Hãy xem ngày hết ưu đãi trong hợp đồng và tính trước khoản trả khi thả nổi."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
