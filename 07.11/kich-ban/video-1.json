@@ -1,0 +1,83 @@
+{
+  "title": "Trung Quốc gom thêm 25,8 tấn vàng",
+  "caption": "Ngân hàng trung ương Trung Quốc mua thêm khoảng 25,8 tấn vàng trong tháng 10 – tháng thứ 24 liên tiếp, nâng lượng mua 10 tháng lên khoảng 129 tấn, dù giá vàng tháng 10 giảm gần 7%. Trong nước, sáng 7/11 vàng miếng SJC đứng yên ở 138 – 141 triệu đồng/lượng; cả tuần tăng khoảng 1 triệu. Bạn nghĩ sao về động thái này? 👇\nNguồn: Dân Trí, VietnamPlus, Thanh Niên, VnEconomy. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangsjc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân Trí",
+      "title": "Trung Quốc mua thêm gần 26 tấn vàng, kho dự trữ vẫn \"bốc hơi\" 17 tỷ USD",
+      "url": "https://dantri.com.vn/kinh-doanh/trung-quoc-mua-them-gan-26-tan-vang-kho-du-tru-van-boc-hoi-17-ty-usd-20261107125636722.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Ngân hàng Nhân dân Trung Quốc duy trì hoạt động mua vàng 24 tháng liên tiếp",
+      "url": "https://www.vietnamplus.vn/ngan-hang-nhan-dan-trung-quoc-duy-tri-hoat-dong-mua-vang-24-thang-lien-tiep-post1146796.vnp",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 7.11.2026: Giậm chân tại mức 141 triệu đồng",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-7112026-dam-chan-tai-muc-141-trieu-dong-185261107070326918.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giá vàng tăng 1 triệu đồng, chấm dứt chuỗi giảm 3 tuần",
+      "url": "https://vneconomy.vn/gia-vang-bat-tang-tro-lai-sau-chuoi-giam-3-tuan-lien-tiep.htm",
+      "date": "07/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Trung Quốc vừa gom thêm 26 tấn vàng?",
+      "voice": "Trung Quốc vừa gom thêm gần hai mươi sáu tấn vàng?"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng Trung Quốc mua thêm tháng 10",
+      "value": "25,8",
+      "unit": "tấn",
+      "note": "Tháng thứ 24 liên tiếp",
+      "voice": "Ngân hàng trung ương Trung Quốc mua thêm khoảng hai mươi lăm phẩy tám tấn vàng trong tháng mười, tháng thứ hai mươi tư liên tiếp."
+    },
+    {
+      "type": "points",
+      "heading": "Điều đáng chú ý",
+      "items": [
+        "10 tháng mua khoảng 129 tấn",
+        "Giá vàng tháng 10 giảm gần 7%"
+      ],
+      "voice": "Mười tháng qua, nước này mua khoảng một trăm hai mươi chín tấn, dù giá vàng tháng mười giảm gần bảy phần trăm."
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC bán ra sáng 7/11",
+      "value": "141",
+      "unit": "triệu đồng/lượng",
+      "note": "Đi ngang so với chiều 6/11",
+      "voice": "Trong nước, vàng miếng SJC sáng nay đứng yên ở một trăm bốn mươi mốt triệu đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Cả tuần tăng khoảng 1 triệu/lượng",
+        "Chênh mua – bán vẫn 3 triệu"
+      ],
+      "voice": "Cả tuần, giá tăng khoảng một triệu. Chênh lệch mua bán vẫn ba triệu, hãy xem giá mới nhất."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
