@@ -1,0 +1,19 @@
+{
+  "title": "VN-Index mất hơn 15 điểm phiên cuối tuần",
+  "caption": "Phiên 6/11, VN-Index giảm 15,37 điểm (−0,88%) về 1.725,36 điểm; trên HOSE có 223 mã giảm, 105 mã tăng. Chỉ số khép lại tuần giảm thứ hai liên tiếp, dù khối ngoại đảo chiều mua ròng khoảng 393 tỷ đồng trên HOSE. Bạn thấy thị trường tuần tới thế nào? 👇\nNguồn: VnExpress, Báo Đầu tư, Tuổi Trẻ, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#chungkhoan", "#vnindex", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Chứng khoán hôm nay 6/11: Áp lực bán bao phủ hơn 200 cổ phiếu", "url": "https://vnexpress.net/ap-luc-ban-bao-phu-hon-200-co-phieu-5141621.html", "date": "06/11/2026" },
+    { "name": "Báo Đầu tư", "title": "Chứng khoán phiên 6/11: VN-Index thu hẹp đà giảm, khối ngoại đảo chiều mua ròng", "url": "https://baodautu.vn/chung-khoan-phien-611-vn-index-thu-hep-da-giam-khoi-ngoai-dao-chieu-mua-rong-d738495.html", "date": "06/11/2026" },
+    { "name": "Tuổi Trẻ", "title": "Hòa cùng sắc đỏ chứng khoán châu Á, VN-Index giảm hơn 15 điểm", "url": "https://tuoitre.vn/hoa-cung-sac-do-chung-khoan-chau-a-vn-index-giam-hon-15-diem-100261106145242945.htm", "date": "06/11/2026" },
+    { "name": "VietnamPlus", "title": "VN-Index quay đầu giảm mạnh dù khối ngoại mua ròng gần 500 tỷ đồng", "url": "https://www.vietnamplus.vn/vn-index-quay-dau-giam-manh-du-khoi-ngoai-mua-rong-gan-500-ty-dong-post1146650.vnp", "date": "06/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Chứng khoán đỏ lửa phiên cuối tuần?", "voice": "Chứng khoán lại đỏ lửa phiên cuối tuần?" },
+    { "type": "stat", "label": "VN-Index đóng cửa 6/11", "value": "1.725,36", "unit": "điểm", "change": "−15,37", "voice": "Phiên sáu tháng mười một, VN-Index giảm mười lăm phẩy ba bảy điểm, về một nghìn bảy trăm hai mươi lăm điểm." },
+    { "type": "chart", "heading": "Số mã trên HOSE phiên 6/11", "bars": [{ "label": "Giảm", "value": 223 }, { "label": "Tăng", "value": 105 }], "unit": "mã", "voice": "Bên bán áp đảo, với hai trăm hai mươi ba mã giảm, gấp đôi số mã tăng." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Chứng khoán Mỹ, Nhật, Hàn giảm", "Chốt lời sau 2 phiên tăng", "Tuần giảm thứ hai liên tiếp"], "voice": "Nguyên nhân là chứng khoán Mỹ, Nhật, Hàn giảm mạnh, cùng áp lực chốt lời. Đây là tuần giảm thứ hai liên tiếp." },
+    { "type": "points", "heading": "Điểm đáng chú ý", "items": ["Khối ngoại mua ròng ~393 tỷ trên HOSE", "Biến động mạnh, cần thận trọng"], "voice": "Điểm sáng là khối ngoại mua ròng khoảng ba trăm chín mươi ba tỷ đồng. Thị trường biến động mạnh, hãy thận trọng." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

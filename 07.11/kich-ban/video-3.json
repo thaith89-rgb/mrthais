@@ -1,0 +1,18 @@
+{
+  "title": "Người Việt chi 6,6 triệu tỷ trong 10 tháng",
+  "caption": "10 tháng năm 2026, tổng mức bán lẻ hàng hoá và doanh thu dịch vụ tiêu dùng ước đạt 6.618,9 nghìn tỷ đồng, tăng 13,5%; riêng tháng 10 đạt 695,5 nghìn tỷ, tăng 14,7%. Loại trừ yếu tố giá, mức tăng 10 tháng là 7,7%. Cuối năm bạn định chi tiêu nhiều hơn hay tiết kiệm? 👇\nNguồn: VietnamPlus, VnEconomy (số liệu Cục Thống kê). Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#tieudung", "#banle", "#tintuc"],
+  "sources": [
+    { "name": "VietnamPlus", "title": "Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng 10 tháng tăng 13,5%", "url": "https://www.vietnamplus.vn/tong-muc-ban-le-hang-hoa-va-doanh-thu-dich-vu-tieu-dung-10-thang-tang-135-post1146090.vnp", "date": "11/2026" },
+    { "name": "VnEconomy", "title": "Thương mại dịch vụ tháng 10: Tăng trưởng ấn tượng 14,7%", "url": "https://vneconomy.vn/ban-le-va-dich-vu-10-thang-nam-2026-vuot-6618-nghin-ty-dong.htm", "date": "11/2026" },
+    { "name": "VietnamPlus", "title": "Doanh nghiệp bán lẻ tăng tốc kích cầu tiêu dùng cuối năm", "url": "https://www.vietnamplus.vn/doanh-nghiep-ban-le-tang-toc-kich-cau-tieu-dung-cuoi-nam-post1146656.vnp", "date": "06/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Người Việt chi hơn 6,6 triệu tỷ đồng?", "voice": "Người Việt đã chi hơn sáu triệu tỷ đồng trong mười tháng?" },
+    { "type": "stat", "label": "Bán lẻ hàng hoá & dịch vụ 10 tháng", "value": "6.618,9", "unit": "nghìn tỷ đồng", "change": "+13,5%", "voice": "Mười tháng năm nay, tổng mức bán lẻ hàng hoá và dịch vụ tiêu dùng ước đạt sáu nghìn sáu trăm mười tám nghìn tỷ đồng, tăng mười ba phẩy năm phần trăm." },
+    { "type": "chart", "heading": "Lũy kế qua các tháng", "bars": [{ "label": "8 tháng", "value": 5235.5 }, { "label": "9 tháng", "value": 5925.7 }, { "label": "10 tháng", "value": 6618.9 }], "unit": "nghìn tỷ đồng", "voice": "Riêng tháng mười đạt gần bảy trăm nghìn tỷ, tăng mười bốn phẩy bảy phần trăm." },
+    { "type": "points", "heading": "Con số thực", "items": ["Bỏ yếu tố giá: tăng 7,7%", "Hàng hoá chiếm 75% tổng mức"], "voice": "Nếu loại trừ yếu tố giá, mức tăng là bảy phẩy bảy phần trăm. Hàng hoá chiếm khoảng ba phần tư." },
+    { "type": "points", "heading": "Lưu ý mùa mua sắm", "items": ["Khuyến mãi cuối năm tăng tốc", "So giá, lập ngân sách trước"], "voice": "Cuối năm, khuyến mãi sẽ dày đặc. Hãy so giá và lập ngân sách trước khi mua sắm." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
