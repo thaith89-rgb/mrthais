@@ -1,0 +1,88 @@
+{
+  "title": "Giá heo hơi bật tăng trên cả nước",
+  "caption": "Giá heo hơi tăng trở lại sau khi chạm vùng 43.000 – 46.000 đồng/kg đầu tháng 11. Ngày 7/11, Quảng Ninh lên 49.000 đồng/kg – cao nhất miền Bắc; 7 tỉnh từ Hà Tĩnh đến Đắk Lắk tăng 3.000 đồng lên 46.000 đồng/kg; Đồng Tháp 47.000 đồng/kg. Giá thịt chỗ bạn đã đổi chưa? 👇\nNguồn: Thanh Niên, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaheohoi",
+    "#giacathitruong",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá heo hơi hôm nay 7.11.2026: Bật tăng trên cả nước",
+      "url": "https://thanhnien.vn/gia-heo-hoi-hom-nay-7112026-bat-tang-tren-ca-nuoc-185261106213515592.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá heo hơi hôm nay 2.11.2026: Thấp nhất 43.000 đồng/kg",
+      "url": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2112026-thap-nhat-43000-dong-kg-185261102080924732.htm",
+      "date": "02/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá heo hơi liệu có tăng đột biến dịp cuối năm?",
+      "url": "https://tuoitre.vn/gia-heo-hoi-lieu-co-tang-dot-bien-dip-cuoi-nam-100261104155529147.htm",
+      "date": "04/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá heo hơi tăng trở lại?",
+      "voice": "Giá heo hơi đã tăng trở lại?"
+    },
+    {
+      "type": "stat",
+      "label": "Heo hơi Quảng Ninh ngày 7/11",
+      "value": "49.000",
+      "unit": "đồng/kg",
+      "voice": "Ngày bảy tháng mười một, giá heo hơi tăng khắp cả nước. Quảng Ninh lên bốn mươi chín nghìn đồng một ký, cao nhất miền Bắc."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá heo hơi ngày 7/11 (nghìn đồng/kg)",
+      "bars": [
+        {
+          "label": "Quảng Ninh",
+          "value": 49
+        },
+        {
+          "label": "Đồng Tháp",
+          "value": 47
+        },
+        {
+          "label": "Khánh Hòa",
+          "value": 46
+        }
+      ],
+      "unit": "nghìn đồng/kg",
+      "voice": "Đồng Tháp lên bốn mươi bảy nghìn. Bảy tỉnh từ Hà Tĩnh đến Đắk Lắk lên bốn mươi sáu nghìn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Đầu tháng xuống 43.000–46.000 đ/kg",
+        "Sắp vào mùa cao điểm cuối năm"
+      ],
+      "voice": "Đầu tháng, giá từng xuống vùng bốn mươi ba đến bốn mươi sáu nghìn đồng. Thị trường đang bước vào mùa cao điểm cuối năm."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Khó tăng đột biến cuối năm",
+        "Giá mỗi tỉnh thay đổi hằng ngày"
+      ],
+      "voice": "Tuy vậy, Tuổi Trẻ dẫn nhận định giá khó tăng đột biến vì cung cầu ổn định."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

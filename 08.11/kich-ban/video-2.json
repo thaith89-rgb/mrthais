@@ -1,0 +1,83 @@
+{
+  "title": "Giá USD lùi sâu dưới 26.000 đồng",
+  "caption": "Sáng 8/11, Vietcombank niêm yết USD 25.400 – 25.780 đồng, thấp hơn cuối tuần trước 210 đồng. Tỷ giá trung tâm ngày 7/11 ở 25.615 đồng/USD; USD tự do tại TP.HCM khoảng 25.840 – 25.940 đồng. Bạn đang giữ USD hay VND? 👇\nNguồn: Thanh Niên, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tygia",
+    "#giausd",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá USD hôm nay 8.11.2026: Đồng loạt cùng euro, yen Nhật lao dốc",
+      "url": "https://thanhnien.vn/gia-usd-hom-nay-8112026-dong-loat-cung-euro-yen-nhat-lao-doc-185261108081222478.htm",
+      "date": "08/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá USD tự do và ngân hàng đồng loạt đi xuống",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-usd-tu-do-va-ngan-hang-dong-loat-di-xuong-20261107145331698.htm",
+      "date": "07/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá USD lại giảm mạnh?",
+      "voice": "Giá đô la Mỹ lại giảm mạnh?"
+    },
+    {
+      "type": "stat",
+      "label": "USD bán ra tại Vietcombank 8/11",
+      "value": "25.780",
+      "unit": "đồng/USD",
+      "change": "−210",
+      "voice": "Sáng tám tháng mười một, Vietcombank bán ra hai mươi lăm nghìn bảy trăm tám mươi đồng mỗi đô, giảm hai trăm mười đồng so với tuần trước."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá USD 7–8/11 (đồng)",
+      "bars": [
+        {
+          "label": "Trung tâm",
+          "value": 25615
+        },
+        {
+          "label": "NH bán ra",
+          "value": 25780
+        },
+        {
+          "label": "Tự do bán",
+          "value": 25940
+        }
+      ],
+      "unit": "đồng/USD",
+      "voice": "Tỷ giá trung tâm ở hai mươi lăm nghìn sáu trăm mười lăm đồng. Giá tự do cũng lùi dưới hai mươi sáu nghìn."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao đáng chú ý?",
+      "items": [
+        "Cả ngân hàng và tự do cùng giảm",
+        "Euro, yen cũng giảm theo"
+      ],
+      "voice": "Cả thị trường ngân hàng và tự do cùng đi xuống. Đồng euro và yen Nhật trong nước cũng giảm theo."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Giá đổi theo từng giờ",
+        "Chỉ mua bán ngoại tệ nơi được phép"
+      ],
+      "voice": "Tỷ giá thay đổi liên tục. Nếu cần đổi ngoại tệ, hãy giao dịch tại nơi được cấp phép."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

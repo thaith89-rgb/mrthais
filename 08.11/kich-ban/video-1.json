@@ -1,0 +1,95 @@
+{
+  "title": "Quốc hội giao mục tiêu GDP 2027 từ 10%",
+  "caption": "Sáng 7/11, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế – xã hội năm 2027 (467/469 đại biểu tán thành): GDP tăng từ 10% trở lên, GDP bình quân đầu người khoảng 6.100 USD, CPI tăng khoảng 4,5%, năng suất lao động tăng 8,6%. Theo bạn, chỉ tiêu nào tác động tới túi tiền nhiều nhất? 👇\nNguồn: VnExpress, Tuổi Trẻ, VnEconomy, Báo Đầu tư. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#gdp",
+    "#kinhtevietnam",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Quốc hội giao mục tiêu GDP 2027 tăng từ 10%",
+      "url": "https://vnexpress.net/quoc-hoi-giao-muc-tieu-gdp-2027-tang-tu-10-5141797.html",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Quốc hội xác định năm 2027 tăng tốc, bứt phá, giao 30 tỉnh thành tăng trưởng hai con số",
+      "url": "https://tuoitre.vn/quoc-hoi-xac-dinh-nam-2027-tang-toc-but-pha-giao-30-tinh-thanh-tang-truong-hai-con-so-100261107084322636.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Quốc hội thông qua kế hoạch phát triển kinh tế - xã hội năm 2027, mục tiêu tăng trưởng từ 10% trở lên",
+      "url": "https://vneconomy.vn/quoc-hoi-thong-qua-ke-hoach-phat-trien-kinh-te-xa-hoi-nam-2027-muc-tieu-tang-truong-tu-10-tro-len.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Báo Đầu tư",
+      "title": "Quốc hội “chốt” chỉ tiêu, giải pháp cho năm 2027 “tăng tốc, bứt phá”",
+      "url": "https://baodautu.vn/quoc-hoi-chot-chi-tieu-giai-phap-cho-nam-2027-tang-toc-but-pha-d738646.html",
+      "date": "07/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Năm 2027, kinh tế tăng từ 10%?",
+      "voice": "Năm tới, kinh tế phải tăng từ mười phần trăm?"
+    },
+    {
+      "type": "stat",
+      "label": "Mục tiêu tăng trưởng GDP 2027",
+      "value": "≥ 10",
+      "unit": "%",
+      "voice": "Sáng bảy tháng mười một, Quốc hội chốt mục tiêu GDP năm hai không hai bảy tăng từ mười phần trăm trở lên."
+    },
+    {
+      "type": "points",
+      "heading": "Các chỉ tiêu chính",
+      "items": [
+        "GDP/người ~6.100 USD",
+        "CPI tăng ~4,5%",
+        "Năng suất lao động +8,6%"
+      ],
+      "voice": "GDP bình quân đầu người khoảng sáu nghìn một trăm đô. Giá tiêu dùng tăng khoảng bốn phẩy năm phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Mục tiêu tăng trưởng một số địa phương",
+      "bars": [
+        {
+          "label": "Hải Phòng",
+          "value": 13
+        },
+        {
+          "label": "Hà Nội",
+          "value": 11.1
+        },
+        {
+          "label": "TP.HCM",
+          "value": 10.4
+        }
+      ],
+      "unit": "%",
+      "voice": "Hải Phòng được giao mười ba phần trăm, Hà Nội mười một phẩy một, Thành phố Hồ Chí Minh mười phẩy bốn."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Lạm phát mục tiêu ~4,5%",
+        "Để ý giá cả, lãi suất khi chi tiêu"
+      ],
+      "voice": "Lạm phát mục tiêu khoảng bốn phẩy năm phần trăm. Hãy để ý giá cả và lãi suất khi chi tiêu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
