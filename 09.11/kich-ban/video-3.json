@@ -1,0 +1,92 @@
+{
+  "title": "Giá dầu cao, lọc dầu Dung Quất lãi gấp 11 lần",
+  "caption": "Nhờ giá sản phẩm lọc dầu tăng nhanh hơn giá dầu thô, BSR (chủ nhà máy lọc dầu Dung Quất) lãi sau thuế hợp nhất gần 24.900 tỷ đồng sau 9 tháng, gấp khoảng 11,6 lần cùng kỳ. Riêng quý III lãi gần 9.000 tỷ đồng. Doanh nghiệp vừa nâng kế hoạch lợi nhuận năm lên gấp hơn 8 lần kế hoạch cũ. 🛢️👇\nNguồn: VnExpress, Dân Trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư. Video không phải khuyến nghị mua/bán cổ phiếu.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#doanhnghiep",
+    "#giadau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Chủ nhà máy lọc dầu Dung Quất nâng mục tiêu lãi kỷ lục",
+      "url": "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-nang-muc-tieu-lai-ky-luc-5142212.html",
+      "date": "09/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "BSR lãi hợp nhất gần 25.000 tỷ đồng sau 9 tháng",
+      "url": "https://vnexpress.net/bsr-lai-hop-nhat-gan-25-000-ty-dong-sau-9-thang-5140193.html",
+      "date": "11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá xăng dầu biến động mạnh, các \"ông lớn\" báo lãi đột biến",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-dau-bien-dong-manh-cac-ong-lon-bao-lai-dot-bien-20261101155156417.htm",
+      "date": "01/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Lợi nhuận Bình Sơn, Petrolimex, PVOIL đồng loạt tăng mạnh khi giá dầu lên cao",
+      "url": "https://tuoitre.vn/loi-nhuan-binh-son-petrolimex-pvoil-dong-loat-tang-manh-khi-gia-dau-len-cao-100261102115415542.htm",
+      "date": "02/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Lọc dầu lãi gấp 11 lần?",
+      "voice": "Nhà máy lọc dầu lãi gấp mười một lần?"
+    },
+    {
+      "type": "stat",
+      "label": "BSR – lãi sau thuế 9 tháng 2026",
+      "value": "24.902",
+      "unit": "tỷ đồng",
+      "change": "×11,6",
+      "voice": "Chủ nhà máy lọc dầu Dung Quất lãi gần hai mươi lăm nghìn tỷ đồng sau chín tháng, gấp hơn mười một lần cùng kỳ."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi quý III (tỷ đồng)",
+      "bars": [
+        {
+          "label": "Quý III/2025",
+          "value": 909
+        },
+        {
+          "label": "Quý III/2026",
+          "value": 8969
+        }
+      ],
+      "unit": "tỷ đồng",
+      "voice": "Riêng quý ba lãi gần chín nghìn tỷ, năm ngoái chỉ khoảng chín trăm tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao lãi lớn?",
+      "items": [
+        "Giá xăng dầu thành phẩm tăng nhanh hơn dầu thô",
+        "Vừa nâng kế hoạch lãi năm gấp hơn 8 lần"
+      ],
+      "voice": "Lý do là giá xăng dầu thành phẩm tăng nhanh hơn dầu thô. Công ty vừa nâng kế hoạch lãi năm gấp hơn tám lần."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Lợi nhuận phụ thuộc giá dầu",
+        "Giá dầu vừa giảm mạnh",
+        "Không phải khuyến nghị cổ phiếu"
+      ],
+      "voice": "Lợi nhuận này phụ thuộc giá dầu, mà giá dầu vừa giảm mạnh. Đây không phải khuyến nghị cổ phiếu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
