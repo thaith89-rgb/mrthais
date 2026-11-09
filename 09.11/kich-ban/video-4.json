@@ -1,0 +1,72 @@
+{
+  "title": "Từ 16/11: Vay chứng khoán phải bảo đảm 110%",
+  "caption": "Từ 16/11/2026, Thông tư 145/2026/TT-BTC của Bộ Tài chính có hiệu lực (thay Thông tư 119/2020). Với hoạt động vay và cho vay chứng khoán: bên vay phải có tài sản bảo đảm bằng tiền hoặc chứng khoán, tối thiểu 110% giá trị khoản vay; lãi suất do các bên thỏa thuận; VSDC làm trung gian vận hành. 📈👇\nNguồn: Tuổi Trẻ, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#phapluat",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Chính sách mới về xổ số, lưu trú, chứng khoán có hiệu lực từ tháng 11-2026",
+      "url": "https://tuoitre.vn/chinh-sach-moi-ve-xo-so-luu-tru-chung-khoan-co-hieu-luc-tu-thang-11-2026-10026102613244706.htm",
+      "date": "26/10/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Chứng khoán tháng 11: Dòng tiền còn thận trọng, thị trường chờ động lực mới",
+      "url": "https://www.vietnamplus.vn/chung-khoan-thang-11-dong-tien-con-than-trong-thi-truong-cho-dong-luc-moi-post1145522.vnp",
+      "date": "11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Từ 16/11: quy định mới khi vay chứng khoán",
+      "voice": "Từ mười sáu tháng mười một, có quy định mới về vay chứng khoán."
+    },
+    {
+      "type": "stat",
+      "label": "Tài sản bảo đảm tối thiểu",
+      "value": "110",
+      "unit": "% giá trị khoản vay",
+      "voice": "Thông tư mới của Bộ Tài chính yêu cầu bên vay có tài sản bảo đảm tối thiểu một trăm mười phần trăm khoản vay."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm chính",
+      "items": [
+        "Vay theo thỏa thuận hoặc khớp lệnh",
+        "Bảo đảm bằng tiền hoặc chứng khoán",
+        "VSDC làm trung gian vận hành"
+      ],
+      "voice": "Vay theo thỏa thuận hoặc khớp lệnh, bảo đảm bằng tiền hoặc chứng khoán, qua trung gian là VSDC."
+    },
+    {
+      "type": "points",
+      "heading": "Trả nợ thế nào?",
+      "items": [
+        "Lãi suất do các bên thỏa thuận",
+        "Trả bằng chứng khoán đã vay hoặc tiền"
+      ],
+      "voice": "Lãi suất do các bên thỏa thuận. Trả bằng chứng khoán đã vay, hoặc bằng tiền nếu bên cho vay đồng ý."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Thay thế Thông tư 119/2020",
+        "Hỏi kỹ rủi ro, chi phí trước khi tham gia"
+      ],
+      "voice": "Trước khi tham gia, hãy hỏi kỹ công ty chứng khoán về rủi ro và chi phí."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

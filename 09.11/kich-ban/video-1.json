@@ -1,0 +1,86 @@
+{
+  "title": "Vàng thế giới vượt 4.100 USD, SJC tăng 1 triệu",
+  "caption": "Sáng 9/11, vàng thế giới tăng hơn 1%, lên khoảng 4.110 USD/ounce. Vàng miếng SJC tăng khoảng 1 triệu đồng, bán ra quanh 142 triệu đồng/lượng; vàng nhẫn bán ra khoảng 140,5 triệu đồng/lượng. Chênh lệch giá trong nước – thế giới xuống thấp nhất 3 tuần. Giá thay đổi trong ngày, bạn nhớ kiểm tra lại nhé 👇\nNguồn: Thanh Niên, VietnamPlus, Tuổi Trẻ, VnEconomy. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangSJC",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 9.11.2026: Vàng miếng SJC tăng thêm 1 triệu đồng mỗi lượng",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-9112026-vang-mieng-sjc-tang-them-1-trieu-dong-moi-luong-185261109072343088.htm",
+      "date": "09/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng tăng 1 triệu đồng sáng đầu tuần, SJC giao dịch ở ngưỡng 142 triệu đồng",
+      "url": "https://www.vietnamplus.vn/gia-vang-tang-1-trieu-dong-sang-dau-tuan-sjc-giao-dich-o-nguong-142-trieu-dong-post1147042.vnp",
+      "date": "09/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng hôm nay 9-11: Vàng thế giới tăng mạnh đầu tuần, vượt 4.100 USD",
+      "url": "https://tuoitre.vn/gia-vang-hom-nay-9-11-vang-the-gioi-tang-manh-dau-tuan-vuot-4100-usd-10026110908193679.htm",
+      "date": "09/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Giá vàng trong nước tăng nhẹ, chênh lệch thấp nhất 3 tuần",
+      "url": "https://vneconomy.vn/chenh-lech-gia-vang-trong-nuoc-va-the-gioi-thap-nhat-trong-3-tuan-1307379.htm",
+      "date": "09/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng thế giới vượt 4.100 USD?",
+      "voice": "Vàng thế giới vượt bốn nghìn một trăm đô?"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC bán ra sáng 9/11",
+      "value": "142",
+      "unit": "triệu đồng/lượng",
+      "change": "+1",
+      "voice": "Sáng nay, vàng miếng SJC tăng khoảng một triệu, bán ra quanh một trăm bốn mươi hai triệu đồng mỗi lượng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Vàng thế giới tăng hơn 1%",
+        "Lo ngại lạm phát dịu bớt",
+        "Đồng USD yếu đi nhẹ"
+      ],
+      "voice": "Vàng thế giới tăng hơn một phần trăm, khi lo ngại lạm phát dịu bớt và đồng đô la yếu đi."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm đáng chú ý",
+      "items": [
+        "Chênh lệch với thế giới thấp nhất 3 tuần",
+        "Vàng nhẫn bán ra ~140,5 triệu"
+      ],
+      "voice": "Chênh lệch với giá thế giới xuống thấp nhất ba tuần. Vàng nhẫn bán ra khoảng một trăm bốn mươi triệu rưỡi."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Giá đổi nhiều lần trong ngày",
+        "Chênh lệch mua – bán ~3 triệu",
+        "Chỉ giao dịch nơi được cấp phép"
+      ],
+      "voice": "Giá đổi nhiều lần trong ngày, chênh lệch mua bán khoảng ba triệu. Hãy giao dịch ở nơi được cấp phép."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

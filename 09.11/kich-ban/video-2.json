@@ -1,0 +1,91 @@
+{
+  "title": "Dầu Brent có tuần giảm mạnh nhất từ 2020",
+  "caption": "Dầu Brent vừa giảm 17% trong tuần qua – mạnh nhất kể từ năm 2020, khi tín hiệu đàm phán Mỹ – Iran làm dịu lo ngại nguồn cung. Chiều 9/11, Brent giảm thêm 1,5% còn khoảng 96,91 USD/thùng. Trong nước, xăng đã 2 lần giảm từ đầu tháng 11; E5 RON 92 hiện tối đa 20.898 đồng/lít. ⛽👇\nNguồn: VietnamPlus, VnEconomy, Báo Chính phủ, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadau",
+    "#giaxang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Giá dầu Brent giảm 1,5% giữa tín hiệu hạ nhiệt từ Mỹ",
+      "url": "https://www.vietnamplus.vn/gia-dau-brent-giam-15-chieu-911-tai-chau-a-post1147144.vnp",
+      "date": "09/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá dầu Brent giảm 17%, mạnh nhất trong tuần từ năm 2020",
+      "url": "https://www.vietnamplus.vn/gia-dau-brent-tuan-qua-giam-manh-nhat-ke-tu-nam-2020-post1146758.vnp",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "VnEconomy",
+      "title": "Nasdaq hồi phục khi nhà đầu tư bắt đáy cổ phiếu chip, giá dầu giảm 17% cả tuần",
+      "url": "https://vneconomy.vn/nasdaq-hoi-phuc-khi-nha-dau-tu-bat-day-co-phieu-chip-gia-dau-giam-17-ca-tuan.htm",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Giá xăng dầu đồng loạt giảm mạnh, xăng E5 giảm hơn 2.300 đồng/lít",
+      "url": "https://baochinhphu.vn/gia-xang-dau-dong-loat-giam-manh-xang-e5-giam-hon-2300-dong-lit-102261105144135061.htm",
+      "date": "05/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Những chính sách kinh tế mới có hiệu lực từ tháng 11",
+      "url": "https://dantri.com.vn/kinh-doanh/nhung-chinh-sach-kinh-te-moi-co-hieu-luc-tu-thang-11-20261101095231174.htm",
+      "date": "01/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Dầu có tuần giảm mạnh nhất 6 năm?",
+      "voice": "Giá dầu vừa có tuần giảm mạnh nhất sáu năm?"
+    },
+    {
+      "type": "stat",
+      "label": "Dầu Brent chiều 9/11 (châu Á)",
+      "value": "96,91",
+      "unit": "USD/thùng",
+      "change": "−1,5%",
+      "note": "Cả tuần trước: giảm 17%",
+      "voice": "Tuần trước, dầu Brent mất mười bảy phần trăm. Chiều nay giảm thêm, còn khoảng chín mươi bảy đô một thùng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Tín hiệu đàm phán Mỹ – Iran",
+        "Lo ngại thiếu nguồn cung dịu bớt"
+      ],
+      "voice": "Tín hiệu đàm phán Mỹ và Iran làm nỗi lo thiếu dầu dịu bớt."
+    },
+    {
+      "type": "points",
+      "heading": "Trong nước thì sao?",
+      "items": [
+        "Xăng 2 lần giảm từ đầu tháng 11",
+        "E5 RON 92: tối đa 20.898 đ/lít"
+      ],
+      "voice": "Trong nước, xăng đã hai lần giảm từ đầu tháng. Xăng E năm hiện tối đa khoảng hai mươi mốt nghìn đồng một lít."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Giá dầu vẫn biến động rất mạnh",
+        "Theo dõi thông báo của Bộ Công Thương"
+      ],
+      "voice": "Giá dầu vẫn biến động mạnh. Hãy theo dõi thông báo giá chính thức của Bộ Công Thương."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
