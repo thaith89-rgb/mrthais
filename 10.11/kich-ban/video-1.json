@@ -1,0 +1,79 @@
+{
+  "title": "Ngân hàng Nhà nước sẽ mua USD giá 25.500 đồng",
+  "caption": "Từ 11/11, Ngân hàng Nhà nước mua USD giao ngay từ các ngân hàng với giá 25.500 đồng/USD, vào thứ Hai và thứ Tư hằng tuần, không cam kết bán lại. Mục đích: bổ sung dự trữ ngoại hối và đưa thêm tiền đồng vào hệ thống ngân hàng. Lần gần nhất NHNN mua lại ngoại tệ là nửa đầu 2023. Chi tiết trong video 👇\nNguồn: VnExpress, Thanh Niên, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tygia",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Ngân hàng Nhà nước sẽ định kỳ mua USD từ các nhà băng",
+      "url": "https://vnexpress.net/ngan-hang-nha-nuoc-se-dinh-ky-mua-usd-tu-cac-nha-bang-5142801.html",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Ngân hàng Nhà nước mua USD giao ngay, tăng thanh khoản cho ngân hàng thương mại",
+      "url": "https://thanhnien.vn/ngan-hang-nha-nuoc-mua-usd-giao-ngay-tang-thanh-khoan-cho-ngan-hang-thuong-mai-185261110082613938.htm",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Ngân hàng Nhà nước mua USD giao ngay, hỗ trợ thanh khoản hệ thống",
+      "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-mua-usd-giao-ngay-ho-tro-thanh-khoan-he-thong-20261110100211695.htm",
+      "date": "10/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng Nhà nước sắp mua USD?",
+      "voice": "Ngân hàng Nhà nước sắp mua đô la từ các ngân hàng?"
+    },
+    {
+      "type": "stat",
+      "label": "Giá NHNN mua USD",
+      "value": "25.500",
+      "unit": "đồng/USD",
+      "change": "Từ 11/11",
+      "note": "Thứ Hai, thứ Tư hằng tuần",
+      "voice": "Từ mười một tháng mười một, Ngân hàng Nhà nước mua đô la giao ngay giá hai mươi lăm nghìn năm trăm đồng, mỗi thứ Hai và thứ Tư."
+    },
+    {
+      "type": "points",
+      "heading": "Mua để làm gì?",
+      "items": [
+        "Thêm dự trữ ngoại hối",
+        "Thêm tiền đồng cho ngân hàng"
+      ],
+      "voice": "Mục đích: tăng dự trữ ngoại hối và đưa thêm tiền đồng vào ngân hàng."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm đáng chú ý",
+      "items": [
+        "Không cam kết bán lại",
+        "Lần trước: nửa đầu 2023"
+      ],
+      "voice": "Giao dịch không cam kết bán lại. Lần gần nhất Nhà nước mua lại ngoại tệ là nửa đầu năm hai không hai ba."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Giao dịch NHNN – ngân hàng",
+        "Xem tỷ giá chính thức"
+      ],
+      "voice": "Đây là giao dịch giữa Ngân hàng Nhà nước và các ngân hàng. Hãy theo dõi tỷ giá niêm yết chính thức."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Hà Nội nhận hồ sơ mua 164 căn nhà ở xã hội",
+  "caption": "Hà Nội sắp nhận hồ sơ mua 164 căn nhà ở xã hội tại 2 dự án ở phường Đại Mỗ và Xuân Phương, giá khoảng 16,6–20,2 triệu đồng/m² (gồm VAT), từ khoảng 720 triệu đồng/căn. Lưu ý: đây là căn đang cho thuê chuyển sang bán, theo báo chí chỉ người đang thuê tại dự án và đủ điều kiện mới được mua. Nhận hồ sơ 9/12/2026 – 22/1/2027. 🏠👇\nNguồn: VnExpress, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#nhaoxahoi",
+    "#batdongsan",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Hà Nội mở bán loạt nhà xã hội giá từ 16 triệu đồng một m2",
+      "url": "https://vnexpress.net/ha-noi-mo-ban-loat-nha-xa-hoi-gia-tu-16-trieu-dong-mot-m2-5142775.html",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Xuất hiện thêm căn hộ giá hơn 700 triệu đồng tại Hà Nội",
+      "url": "https://dantri.com.vn/bat-dong-san/xuat-hien-them-can-ho-gia-hon-700-trieu-dong-tai-ha-noi-20261110101548697.htm",
+      "date": "10/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Căn hộ Hà Nội 700 triệu: ai được mua?",
+      "voice": "Căn hộ Hà Nội hơn bảy trăm triệu, ai được mua?"
+    },
+    {
+      "type": "stat",
+      "label": "Nhà ở xã hội Hà Nội",
+      "value": "164",
+      "unit": "căn",
+      "change": "2 dự án",
+      "note": "Từ 16,6 triệu/m²",
+      "voice": "Hà Nội sắp nhận hồ sơ mua một trăm sáu mươi tư căn nhà ở xã hội tại Đại Mỗ và Xuân Phương."
+    },
+    {
+      "type": "points",
+      "heading": "Giá bao nhiêu?",
+      "items": [
+        "~16,6–20,2 triệu/m²",
+        "Từ khoảng 720 triệu/căn"
+      ],
+      "voice": "Giá khoảng mười sáu đến hai mươi triệu đồng một mét vuông, từ khoảng bảy trăm hai mươi triệu một căn."
+    },
+    {
+      "type": "points",
+      "heading": "Ai được mua?",
+      "items": [
+        "Người đang thuê tại dự án",
+        "Đủ điều kiện mua"
+      ],
+      "voice": "Lưu ý, đây là căn đang cho thuê. Chỉ người đang thuê tại dự án và đủ điều kiện mới được mua."
+    },
+    {
+      "type": "points",
+      "heading": "Mốc thời gian",
+      "items": [
+        "Hồ sơ: 9/12/2026 – 22/1/2027",
+        "Ký hợp đồng: dự kiến 2/2027"
+      ],
+      "voice": "Hồ sơ nhận từ chín tháng mười hai đến hai mươi hai tháng một năm sau. Hãy xem thông báo của Sở Xây dựng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

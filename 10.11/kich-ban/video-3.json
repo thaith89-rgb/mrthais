@@ -1,0 +1,91 @@
+{
+  "title": "Giá gạo xuất khẩu cao nhất gần 2 năm",
+  "caption": "Gạo 5% tấm của Việt Nam được chào bán 480–490 USD/tấn, cao nhất kể từ tháng 12/2024. Theo báo chí, Philippines mua trở lại, nguồn cung trong nước không còn dồi dào và lo ngại El Niño đẩy giá lên. Tháng 10, xuất khẩu gạo đạt 475.000 tấn, tăng 37,2% so với cùng kỳ. 🌾👇\nNguồn: VietnamPlus, Dân Trí, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giagao",
+    "#xuatkhau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Giá gạo Việt Nam và Thái Lan đạt mức cao nhất trong gần 2 năm",
+      "url": "https://www.vietnamplus.vn/gia-gao-viet-nam-va-thai-lan-dat-muc-cao-nhat-trong-gan-2-nam-post1146848.vnp",
+      "date": "07/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá gạo xuất khẩu tăng 30 USD/tấn, lên cao nhất gần 2 năm",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-gao-xuat-khau-tang-30-usdtan-len-cao-nhat-gan-2-nam-20261031212305595.htm",
+      "date": "01/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Siêu El Nino 'hâm nóng' giá gạo Việt",
+      "url": "https://thanhnien.vn/sieu-el-nino-ham-nong-gia-gao-viet-185261101213605172.htm",
+      "date": "01/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá gạo Việt cao nhất gần 2 năm?",
+      "voice": "Giá gạo Việt vừa lên cao nhất gần hai năm?"
+    },
+    {
+      "type": "stat",
+      "label": "Gạo 5% tấm xuất khẩu",
+      "value": "480–490",
+      "unit": "USD/tấn",
+      "change": "+10",
+      "note": "Cao nhất kể từ 12/2024",
+      "voice": "Gạo năm phần trăm tấm của Việt Nam được chào bán bốn trăm tám mươi đến bốn trăm chín mươi đô một tấn, cao nhất kể từ cuối năm hai nghìn không trăm hai mươi tư."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá chào bán gạo 5% tấm",
+      "bars": [
+        {
+          "label": "Đầu T10",
+          "value": 421
+        },
+        {
+          "label": "Cuối T10",
+          "value": 475
+        },
+        {
+          "label": "Đầu T11",
+          "value": 485
+        }
+      ],
+      "unit": "USD/tấn (giá giữa)",
+      "voice": "Chỉ trong khoảng một tháng, giá đã tăng hơn sáu mươi đô mỗi tấn."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Philippines mua lại",
+        "Vụ thu đông ít hơn",
+        "Lo ngại El Niño"
+      ],
+      "voice": "Philippines mua trở lại, vụ thu đông thu hoạch muộn và ít hơn, cộng thêm lo ngại El Niño."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm đáng chú ý",
+      "items": [
+        "Tháng 10: 475.000 tấn, +37,2%",
+        "10 tháng: lượng vẫn giảm"
+      ],
+      "voice": "Tháng mười, xuất khẩu gạo tăng hơn ba mươi bảy phần trăm. Nhưng cả mười tháng, lượng vẫn giảm nhẹ so với năm ngoái."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
