@@ -1,0 +1,79 @@
+{
+  "title": "VN-Index tăng gần 30 điểm, cao nhất nửa tháng",
+  "caption": "Phiên 10/11, VN-Index tăng gần 30 điểm, lên khoảng 1.743 điểm – cao nhất nửa tháng. Thanh khoản HOSE gần 17.000 tỷ đồng, khối ngoại quay lại mua ròng khoảng 500 tỷ. Theo báo chí, nhà đầu tư phản ứng tích cực với tin Ngân hàng Nhà nước mua USD, bổ sung tiền đồng cho hệ thống. 📈👇\nNguồn: VnExpress, Dân Trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư. Video không khuyến nghị mua/bán cổ phiếu.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#vnindex",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "VN-Index tăng gần 30 điểm lên cao nhất nửa tháng",
+      "url": "https://vnexpress.net/vn-index-tang-gan-30-diem-len-cao-nhat-nua-thang-5142982.html",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Ngân hàng Nhà nước mua ngoại tệ: Kỳ vọng lãi suất giảm, chứng khoán tăng",
+      "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-mua-ngoai-te-ky-vong-lai-suat-giam-chung-khoan-tang-20261110111759481.htm",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Sắc đỏ bao trùm thị trường chứng khoán, VN-Index giảm hơn 11 điểm",
+      "url": "https://www.vietnamplus.vn/sac-do-bao-trum-thi-truong-chung-khoan-vn-index-giam-hon-11-diem-post1147174.vnp",
+      "date": "09/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Chứng khoán bật tăng gần 30 điểm?",
+      "voice": "Chứng khoán vừa bật tăng gần ba mươi điểm?"
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index đóng cửa 10/11",
+      "value": "1.743",
+      "unit": "điểm",
+      "change": "+~30",
+      "note": "Cao nhất nửa tháng",
+      "voice": "Chiều nay, VN-Index tăng gần ba mươi điểm, lên khoảng một nghìn bảy trăm bốn mươi ba điểm, cao nhất nửa tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Diễn biến",
+      "items": [
+        "9/11: giảm 11 điểm",
+        "10/11: tăng gần 30 điểm"
+      ],
+      "voice": "Hôm qua chỉ số còn giảm mười một điểm, hôm nay đã lấy lại toàn bộ."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Tin NHNN mua USD",
+        "Khối ngoại mua ròng ~500 tỷ"
+      ],
+      "voice": "Theo báo chí, nhà đầu tư phản ứng tích cực với tin Ngân hàng Nhà nước mua đô la. Khối ngoại mua ròng khoảng năm trăm tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Một phiên chưa phải xu hướng",
+        "Kiểm soát rủi ro"
+      ],
+      "voice": "Một phiên tăng chưa nói lên xu hướng. Hãy tự tìm hiểu kỹ và kiểm soát rủi ro."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
