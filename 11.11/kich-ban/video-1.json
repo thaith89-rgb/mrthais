@@ -1,0 +1,18 @@
+{
+  "title": "Vàng miếng SJC mất mốc 140 triệu đồng",
+  "caption": "Trưa 11/11, vàng miếng SJC bán ra còn 139,5 triệu đồng/lượng, giảm 1,4 triệu so với phiên trước – mất mốc 140 triệu. Vàng thế giới lùi về quanh 4.040 USD/ounce sau khi lạm phát Mỹ cao hơn dự báo. Chênh lệch mua – bán vẫn 3 triệu đồng/lượng 👇\nNguồn: Dân Trí, VnExpress, Thanh Niên, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#tintuc"],
+  "sources": [
+    { "name": "Dân Trí", "title": "Giá vàng trong nước giảm mạnh, \"bốc hơi\" 1,4 triệu đồng/lượng trong vài giờ", "url": "https://dantri.com.vn/kinh-doanh/gia-vang-trong-nuoc-giam-manh-boc-hoi-14-trieu-dongluong-trong-vai-gio-20261111110403002.htm", "date": "11/11/2026" },
+    { "name": "VnExpress", "title": "Giá vàng miếng về dưới 140 triệu đồng", "url": "https://vnexpress.net/gia-vang-mieng-ve-duoi-140-trieu-dong-5143259.html", "date": "11/11/2026" },
+    { "name": "Thanh Niên", "title": "Giá vàng hôm nay 11.11.2026: Đột ngột quay đầu giảm", "url": "https://thanhnien.vn/gia-vang-hom-nay-11112026-dot-ngot-quay-dau-giam-185261111084545992.htm", "date": "11/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng miếng mất mốc 140 triệu?", "voice": "Vàng miếng vừa rơi xuống dưới một trăm bốn mươi triệu đồng?" },
+    { "type": "stat", "label": "SJC bán ra, trưa 11/11", "value": "139,5", "unit": "triệu đồng/lượng", "change": "−1,4", "note": "Mua vào 136,5 triệu", "voice": "Trưa nay, vàng miếng SJC bán ra còn một trăm ba mươi chín phẩy năm triệu đồng một lượng, giảm một phẩy bốn triệu so với phiên trước." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Vàng thế giới về quanh 4.040 USD", "Lạm phát Mỹ cao hơn dự báo", "USD, lợi suất Mỹ tăng"], "voice": "Vàng thế giới lùi về quanh bốn nghìn không trăm bốn mươi đô một ounce. Lạm phát Mỹ cao hơn dự báo, đồng đô và lợi suất trái phiếu Mỹ tăng." },
+    { "type": "points", "heading": "Điểm đáng chú ý", "items": ["Chênh mua – bán: 3 triệu/lượng", "Cao hơn thế giới gần 14 triệu"], "voice": "Chênh lệch mua bán vẫn ba triệu đồng một lượng. Giá trong nước cao hơn thế giới gần mười bốn triệu." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Giá đổi nhiều lần trong ngày", "Xem bảng giá chính thức"], "voice": "Giá vàng thay đổi nhiều lần trong ngày. Hãy xem bảng giá chính thức trước khi giao dịch." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

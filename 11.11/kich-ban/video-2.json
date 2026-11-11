@@ -1,0 +1,18 @@
+{
+  "title": "Ngân sách 2027: hơn 1/4 nguồn thu từ nhà, đất",
+  "caption": "Quốc hội vừa thông qua dự toán ngân sách 2027: tổng thu hơn 3,33 triệu tỷ đồng, trong đó thu từ nhà, đất khoảng 775.000 tỷ – hơn 1/4 tổng thu. Tổng chi khoảng 4,07 triệu tỷ, bội chi 4,5% GDP, 80.400 tỷ dành cho cải cách tiền lương 👇\nNguồn: VnExpress, Dân Trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#ngansach", "#batdongsan", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Ngân sách dự thu hơn 775.000 tỷ đồng từ nhà, đất năm sau", "url": "https://vnexpress.net/ngan-sach-du-thu-hon-775-000-ty-dong-tu-nha-dat-nam-sau-5142350.html", "date": "09/11/2026" },
+    { "name": "Dân Trí", "title": "Quốc hội chốt chi 80.400 tỷ đồng cho cải cách tiền lương", "url": "https://dantri.com.vn/thoi-su/quoc-hoi-chot-chi-80400-ty-dong-cho-cai-cach-tien-luong-20261109144341037.htm", "date": "09/11/2026" },
+    { "name": "VietnamPlus", "title": "Quốc hội thông qua Nghị quyết về dự toán ngân sách nhà nước năm 2027", "url": "https://www.vietnamplus.vn/quoc-hoi-thong-qua-nghi-quyet-ve-du-toan-ngan-sach-nha-nuoc-nam-2027-post1147041.vnp", "date": "09/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Hơn 1/4 thu ngân sách đến từ đất?", "voice": "Hơn một phần tư nguồn thu ngân sách năm sau đến từ nhà, đất?" },
+    { "type": "stat", "label": "Dự toán thu từ nhà, đất 2027", "value": "775.000", "unit": "tỷ đồng", "change": "~26% tổng thu", "note": "Tiền sử dụng đất: hơn 666.000 tỷ", "voice": "Dự toán năm hai không hai bảy, thu từ nhà, đất khoảng bảy trăm bảy mươi lăm nghìn tỷ đồng, hơn một phần tư tổng thu, lớn nhất trong các khoản." },
+    { "type": "points", "heading": "Ngân sách 2027", "items": ["Tổng thu: hơn 3,33 triệu tỷ", "Tổng chi: khoảng 4,07 triệu tỷ", "Bội chi: 4,5% GDP"], "voice": "Tổng thu hơn ba phẩy ba ba triệu tỷ, tổng chi khoảng bốn phẩy không bảy triệu tỷ. Bội chi khoảng bốn phẩy năm phần trăm GDP." },
+    { "type": "points", "heading": "Tiền chi vào đâu?", "items": ["Đầu tư phát triển: ~43% tổng chi", "80.400 tỷ cải cách tiền lương"], "voice": "Khoảng bốn mươi ba phần trăm tổng chi dành cho đầu tư phát triển. Tám mươi nghìn bốn trăm tỷ dành cho cải cách tiền lương." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Đây là dự toán, chưa phải thực thu", "Thu từ đất phụ thuộc thị trường"], "voice": "Đây là con số dự toán. Theo báo chí, thu tiền sử dụng đất còn phụ thuộc diễn biến thị trường." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

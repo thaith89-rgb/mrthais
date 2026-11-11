@@ -1,0 +1,17 @@
+{
+  "title": "Điện giảm, thuế xăng 0% – cước vận tải phải giảm",
+  "caption": "CPI bình quân 10 tháng tăng 4,57%. Giá điện bán lẻ bình quân giảm 2% từ 1/11, thuế tiêu thụ đặc biệt với xăng 0% đến 31/3/2027. Ngày 9/11, Phó Thủ tướng yêu cầu doanh nghiệp vận tải giảm cước khi chi phí nhiên liệu giảm và giữ ổn định giá do Nhà nước quản lý đến hết năm 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giaca", "#lamphat", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Phó thủ tướng yêu cầu hạ cước vận tải khi chi phí nhiên liệu giảm", "url": "https://vnexpress.net/pho-thu-tuong-yeu-cau-ha-cuoc-van-tai-khi-chi-phi-nhien-lieu-giam-5142502.html", "date": "09/11/2026" },
+    { "name": "VietnamPlus", "title": "Kiểm soát chặt giá cả, không để xảy ra biến động bất thường dịp cuối năm", "url": "https://www.vietnamplus.vn/kiem-soat-chat-gia-ca-khong-de-xay-ra-bien-dong-bat-thuong-dip-cuoi-nam-post1147124.vnp", "date": "09/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Điện giảm, xăng giảm thuế – cước xe thì sao?", "voice": "Giá điện giảm, thuế xăng về không. Vậy cước vận tải thì sao?" },
+    { "type": "stat", "label": "CPI bình quân 10 tháng", "value": "4,57", "unit": "%", "change": "Tháng 10: +0,2%", "note": "Lạm phát cơ bản 4,24%", "voice": "Mười tháng qua, chỉ số giá tiêu dùng bình quân tăng bốn phẩy năm bảy phần trăm. Riêng tháng mười tăng không phẩy hai phần trăm, chủ yếu do giá xăng." },
+    { "type": "points", "heading": "Đang áp dụng", "items": ["Thuế TTĐB xăng 0% đến 31/3/2027", "Giá điện bình quân −2% từ 1/11"], "voice": "Thuế tiêu thụ đặc biệt với xăng đang ở mức không phần trăm đến hết tháng ba năm sau. Giá điện bán lẻ bình quân giảm hai phần trăm từ đầu tháng mười một." },
+    { "type": "points", "heading": "Yêu cầu ngày 9/11", "items": ["Giảm cước khi nhiên liệu giảm", "Giữ ổn định giá Nhà nước quản lý đến hết 2026"], "voice": "Ngày chín tháng mười một, Phó Thủ tướng yêu cầu doanh nghiệp vận tải giảm cước khi chi phí nhiên liệu giảm, và giữ ổn định giá hàng hóa, dịch vụ do Nhà nước quản lý đến hết năm." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Dự báo CPI cả năm: 4,5–4,7%", "Xem giá niêm yết khi mua sắm Tết"], "voice": "Lạm phát cả năm được dự báo bốn phẩy năm đến bốn phẩy bảy phần trăm. Hãy để ý giá niêm yết khi mua sắm cuối năm." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
