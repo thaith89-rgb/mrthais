@@ -1,0 +1,79 @@
+{
+  "title": "Ngân hàng Nhà nước mua USD giá 25.500 đồng",
+  "caption": "Từ 11/11, Ngân hàng Nhà nước mua USD giao ngay giá 25.500 đồng/USD vào thứ Hai và thứ Tư hằng tuần, để bổ sung thanh khoản tiền đồng cho hệ thống ngân hàng. Cứ 1 tỷ USD mua vào tương đương khoảng 25.500 tỷ đồng được cung ứng. Ngày 12/11, giá bán USD tại Vietcombank, BIDV ở mức 25.850 đồng 👇\nNguồn: VietnamPlus, Dân Trí, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tygia",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Ngân hàng Nhà nước phối hợp các công cụ ổn định tỷ giá cuối năm",
+      "url": "https://www.vietnamplus.vn/ngan-hang-nha-nuoc-phoi-hop-cac-cong-cu-on-dinh-ty-gia-cuoi-nam-post1147879.vnp",
+      "date": "12/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Ngân hàng Nhà nước mua USD giao ngay, hỗ trợ thanh khoản hệ thống",
+      "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-mua-usd-giao-ngay-ho-tro-thanh-khoan-he-thong-20261110100211695.htm",
+      "date": "10/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng mới nhất hôm nay ngày 12/11 (mục tỷ giá)",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-11-5143682.html",
+      "date": "12/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng Nhà nước mua USD để làm gì?",
+      "voice": "Ngân hàng Nhà nước bắt đầu mua đô la. Để làm gì?"
+    },
+    {
+      "type": "stat",
+      "label": "Giá NHNN mua USD giao ngay",
+      "value": "25.500",
+      "unit": "đồng/USD",
+      "note": "Từ 11/11 · thứ Hai và thứ Tư hằng tuần",
+      "voice": "Từ ngày mười một tháng mười một, Ngân hàng Nhà nước mua đô la giao ngay với giá hai mươi lăm nghìn năm trăm đồng, vào thứ Hai và thứ Tư hằng tuần."
+    },
+    {
+      "type": "points",
+      "heading": "Mục đích",
+      "items": [
+        "Bổ sung tiền đồng cho ngân hàng",
+        "1 tỷ USD ≈ 25.500 tỷ đồng",
+        "Không kèm cam kết bán lại"
+      ],
+      "voice": "Mục đích là bổ sung tiền đồng cho hệ thống ngân hàng. Cứ một tỷ đô, khoảng hai mươi lăm nghìn năm trăm tỷ đồng được cung ứng."
+    },
+    {
+      "type": "points",
+      "heading": "Tỷ giá hiện tại",
+      "items": [
+        "Liên ngân hàng cuối tháng 10: −1,8% từ đầu năm",
+        "Giá bán USD ngân hàng 12/11: 25.850"
+      ],
+      "voice": "Tỷ giá liên ngân hàng cuối tháng mười đã giảm một phẩy tám phần trăm so với đầu năm. Hôm nay, giá bán đô tại Vietcombank và BIDV ở mức hai mươi lăm nghìn tám trăm năm mươi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Lãi suất chưa chắc giảm ngay",
+        "Theo dõi biểu lãi suất ngân hàng"
+      ],
+      "voice": "Theo các chuyên gia, lãi suất huy động và cho vay chưa chắc giảm ngay hay giảm rộng. Hãy theo dõi biểu lãi suất chính thức của ngân hàng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

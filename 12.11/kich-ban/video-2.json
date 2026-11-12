@@ -1,0 +1,80 @@
+{
+  "title": "Vàng thế giới thủng mốc 4.000 USD",
+  "caption": "Vàng thế giới rơi xuống quanh 3.980 USD/ounce, mất mốc 4.000 USD sau khi lạm phát Mỹ tháng 10 cao hơn dự báo. Sáng 12/11, vàng miếng SJC còn 136–139 triệu đồng/lượng, giảm 1 triệu; vàng nhẫn 134,8–138,8 triệu. Giá trong nước vẫn cao hơn thế giới khoảng 15 triệu đồng/lượng 👇\nNguồn: VnExpress, Dân Trí, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng mới nhất hôm nay ngày 12/11: Mỗi lượng vàng miếng giảm còn 139 triệu đồng",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-11-5143682.html",
+      "date": "12/11/2026"
+    },
+    {
+      "name": "Dân Trí",
+      "title": "Giá vàng tiếp tục giảm, người mua vào lỗ 9 triệu đồng sau 1 tháng",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-vang-tiep-tuc-giam-nguoi-mua-vao-lo-9-trieu-dong-sau-1-thang-20261112065901858.htm",
+      "date": "12/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá vàng hôm nay 12.11.2026: Quay đầu giảm 1 triệu đồng một lượng",
+      "url": "https://thanhnien.vn/gia-vang-hom-nay-12112026-quay-dau-giam-1-trieu-dong-mot-luong-185261112063014448.htm",
+      "date": "12/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng thế giới mất mốc 4.000 USD?",
+      "voice": "Vàng thế giới vừa rơi xuống dưới bốn nghìn đô một ounce!"
+    },
+    {
+      "type": "stat",
+      "label": "Vàng thế giới, sáng 12/11",
+      "value": "~3.980",
+      "unit": "USD/ounce",
+      "change": "−42",
+      "note": "Quy đổi ~124 triệu đồng/lượng",
+      "voice": "Vàng giao ngay lùi về quanh ba nghìn chín trăm tám mươi đô một ounce, giảm khoảng bốn mươi hai đô, quy đổi khoảng một trăm hai mươi tư triệu đồng một lượng."
+    },
+    {
+      "type": "points",
+      "heading": "Trong nước sáng 12/11",
+      "items": [
+        "SJC: 136 – 139 triệu/lượng",
+        "Nhẫn: 134,8 – 138,8 triệu",
+        "Cùng giảm 1 triệu"
+      ],
+      "voice": "Trong nước, vàng miếng SJC còn một trăm ba mươi sáu đến một trăm ba mươi chín triệu đồng một lượng. Vàng nhẫn cũng giảm một triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "CPI Mỹ tháng 10: +0,4% (dự báo 0,3%)",
+        "Lo Fed tăng lãi suất tháng 12",
+        "USD, lợi suất Mỹ tăng"
+      ],
+      "voice": "Lạm phát Mỹ tháng mười tăng không phẩy bốn phần trăm, cao hơn dự báo. Thị trường lo Fed tăng lãi suất vào tháng mười hai, đồng đô và lợi suất trái phiếu Mỹ tăng."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Trong nước cao hơn thế giới ~15 triệu",
+        "Chênh mua – bán SJC: 3 triệu"
+      ],
+      "voice": "Giá trong nước vẫn cao hơn thế giới khoảng mười lăm triệu đồng một lượng. Chênh lệch mua bán ba triệu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
