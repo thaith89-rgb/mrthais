@@ -1,0 +1,18 @@
+{
+  "title": "Xăng E5 còn 19.399 đồng/lít từ 15h hôm nay",
+  "caption": "Từ 15h ngày 12/11, xăng E5 RON92 giảm 1.499 đồng, còn tối đa 19.399 đồng/lít; E10 RON95-III còn 19.845 đồng/lít; dầu diesel giảm 1.874 đồng, còn 26.822 đồng/lít. Quỹ bình ổn không chi kỳ này 👇\nNguồn: Tuổi Trẻ, VietnamPlus, Thanh Niên (theo thông báo Bộ Công Thương). Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giaxang", "#xangdau", "#tintuc"],
+  "sources": [
+    { "name": "Tuổi Trẻ", "title": "Từ 15h, giá xăng dầu tiếp tục giảm, có mặt hàng giảm gần 2.300 đồng", "url": "https://tuoitre.vn/tu-15h-gia-xang-dau-tiep-tuc-giam-co-mat-hang-giam-gan-2300-dong-100261112090659368.htm", "date": "12/11/2026" },
+    { "name": "VietnamPlus", "title": "Giá xăng dầu tiếp tục giảm từ 15 giờ hôm nay, E10 xuống 19.845 đồng mỗi lít", "url": "https://www.vietnamplus.vn/gia-xang-dau-tiep-tuc-giam-tu-15-gio-hom-nay-e10-xuong-19845-dong-moi-lit-post1147881.vnp", "date": "12/11/2026" },
+    { "name": "Thanh Niên", "title": "Giá xăng dầu mới nhất, áp dụng từ 15 giờ hôm nay 12.11", "url": "https://thanhnien.vn/gia-xang-dau-moi-nhat-ap-dung-tu-15-gio-hom-nay-1211-185261112145042422.htm", "date": "12/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Xăng E5 rẻ hơn gần 1.500 đồng?", "voice": "Đổ đầy bình xăng từ chiều nay sẽ rẻ hơn đấy!" },
+    { "type": "stat", "label": "Xăng E5 RON92, từ 15h 12/11", "value": "19.399", "unit": "đồng/lít", "change": "−1.499", "note": "Giá bán tối đa", "voice": "Từ mười lăm giờ hôm nay, xăng E5 RON chín hai giảm một nghìn bốn trăm chín mươi chín đồng, còn tối đa mười chín nghìn ba trăm chín mươi chín đồng một lít." },
+    { "type": "chart", "heading": "Mức giảm kỳ này (đồng)", "bars": [{ "label": "E5", "value": 1499 }, { "label": "E10", "value": 1311 }, { "label": "Diesel", "value": 1874 }, { "label": "Mazut", "value": 2263 }], "unit": "đồng", "voice": "Xăng E10 giảm một nghìn ba trăm mười một đồng, còn mười chín nghìn tám trăm bốn mươi lăm đồng. Dầu diesel giảm một nghìn tám trăm bảy mươi tư đồng, mazut giảm mạnh nhất." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Giá xăng dầu thế giới chủ yếu giảm", "OPEC tăng sản lượng tháng 10", "Thuế TTĐB xăng vẫn 0%"], "voice": "Giá xăng dầu thế giới những ngày qua chủ yếu giảm, OPEC tăng sản lượng. Thuế tiêu thụ đặc biệt với xăng vẫn ở mức không phần trăm." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Đây là giá bán tối đa", "Giá áp dụng đến kỳ điều chỉnh sau"], "voice": "Đây là giá bán tối đa, áp dụng đến kỳ điều chỉnh tiếp theo của Bộ Công Thương." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
