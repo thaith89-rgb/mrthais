@@ -1,0 +1,79 @@
+{
+  "title": "Ngân hàng Nhà nước thanh tra việc giảm lãi suất",
+  "caption": "Ngân hàng Nhà nước yêu cầu các chi nhánh khu vực thanh tra, kiểm tra việc giảm lãi suất tại các ngân hàng ngay trong tháng 11. Yêu cầu: lãi tiết kiệm kỳ hạn từ 6 tháng giảm ít nhất 0,5 điểm %, lãi vay sản xuất kinh doanh giảm 1,5–2 điểm %/năm. Không tuân thủ có thể bị giao chỉ tiêu tín dụng thấp hơn 👇\nNguồn: Dân Trí, Thanh Niên, Tiền Phong. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#nganhang",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân Trí",
+      "title": "Ngân hàng Nhà nước thanh tra, xử lý nghiêm ngân hàng chây ì hạ lãi suất",
+      "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-nha-nuoc-thanh-tra-xu-ly-nghiem-ngan-hang-chay-i-ha-lai-suat-20261113114701931.htm",
+      "date": "13/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Ngân hàng Nhà nước thanh tra việc giảm lãi suất của các ngân hàng trong tháng 11",
+      "url": "https://thanhnien.vn/ngan-hang-nha-nuoc-thanh-tra-viec-giam-lai-suat-cua-cac-ngan-hang-trong-thang-11-185261113143008364.htm",
+      "date": "13/11/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "Thanh tra việc giảm lãi suất ngân hàng ngay tháng 11",
+      "url": "https://tienphong.vn/thanh-tra-viec-giam-lai-suat-ngan-hang-ngay-thang-11-post1894067.tpo",
+      "date": "13/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng giảm lãi chưa? Sắp bị kiểm tra",
+      "voice": "Ngân hàng đã giảm lãi suất chưa? Sắp bị thanh tra, kiểm tra!"
+    },
+    {
+      "type": "stat",
+      "label": "Lãi vay sản xuất, kinh doanh",
+      "value": "1,5 – 2",
+      "unit": "điểm %/năm cần giảm",
+      "note": "Thanh tra ngay trong tháng 11",
+      "voice": "Ngân hàng Nhà nước yêu cầu các chi nhánh khu vực thanh tra việc giảm lãi suất ngay trong tháng mười một. Mục tiêu là giảm lãi vay sản xuất kinh doanh một phẩy năm đến hai điểm phần trăm một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Yêu cầu cụ thể",
+      "items": [
+        "Tiết kiệm từ 6 tháng: giảm ≥ 0,5 điểm %",
+        "Lãi vay ưu tiên: giảm 1,5–2 điểm %",
+        "Báo cáo kết quả trong tháng 11"
+      ],
+      "voice": "Lãi tiết kiệm kỳ hạn từ sáu tháng phải giảm ít nhất không phẩy năm điểm phần trăm. Kết quả thanh tra phải báo cáo ngay trong tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Không tuân thủ thì sao?",
+      "items": [
+        "Có thể bị xem xét lại hạn mức tín dụng",
+        "Giao chỉ tiêu tín dụng năm tới thấp hơn"
+      ],
+      "voice": "Ngân hàng không thực hiện có thể bị xem xét lại hạn mức tín dụng, và bị giao chỉ tiêu tăng trưởng tín dụng năm tới thấp hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Người gửi: lãi tiết kiệm có thể thấp hơn",
+        "Người vay: hỏi ngân hàng về lãi mới"
+      ],
+      "voice": "Nếu bạn gửi tiết kiệm, lãi suất có thể thấp hơn trước. Nếu đang vay, hãy hỏi ngân hàng về mức lãi áp dụng mới."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
