@@ -1,0 +1,17 @@
+{
+  "title": "Đề xuất kêu gọi từ thiện phải công khai sao kê",
+  "caption": "Bộ Tài chính đề xuất người kêu gọi từ thiện phải công khai sao kê tài khoản và số tiền chưa dùng hết, cập nhật thu chi ít nhất mỗi tuần, lưu sổ sách 5 năm. Đây là dự thảo nghị định, đang lấy ý kiến. Bạn thấy quy định này thế nào? 👇\nNguồn: VnExpress, Dân Trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#tuthien", "#chinhsach", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Đề xuất người kêu gọi từ thiện phải sao kê tài khoản", "url": "https://vnexpress.net/de-xuat-nguoi-keu-goi-tu-thien-phai-sao-ke-tai-khoan-5144276.html", "date": "13/11/2026" },
+    { "name": "Dân Trí", "title": "Siết quản lý tiền từ thiện: Đề xuất công khai sao kê và tiền chưa sử dụng", "url": "https://dantri.com.vn/kinh-doanh/siet-quan-ly-tien-tu-thien-de-xuat-cong-khai-sao-ke-va-tien-chua-su-dung-20261113125348012.htm", "date": "13/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Kêu gọi từ thiện phải công khai sao kê?", "voice": "Kêu gọi từ thiện, sắp phải công khai sao kê?" },
+    { "type": "stat", "label": "Cập nhật thu chi từ thiện", "value": "7", "unit": "ngày/lần (tối thiểu)", "note": "Dự thảo của Bộ Tài chính", "voice": "Bộ Tài chính vừa đề xuất, người kêu gọi từ thiện phải cập nhật số liệu thu chi ít nhất mỗi tuần một lần." },
+    { "type": "points", "heading": "Điểm mới trong dự thảo", "items": ["Công khai sao kê tài khoản nhận tiền", "Công khai số tiền chưa dùng hết", "Lưu sổ sách, sao kê 5 năm"], "voice": "Điểm mới quan trọng nhất là công khai sao kê tài khoản tiếp nhận, và số tiền chưa dùng hết. Sổ sách, chứng từ phải lưu năm năm." },
+    { "type": "points", "heading": "Có giới hạn thời gian", "items": ["Nhận quyên góp tối đa 90 ngày", "Phân phối xong trong 45 ngày"], "voice": "Theo VnExpress, dự thảo còn giới hạn thời gian nhận quyên góp tối đa chín mươi ngày, và phải phân phối xong trong bốn mươi lăm ngày." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Mới là dự thảo, đang lấy ý kiến", "Trước khi góp: xem rõ tài khoản, mục đích"], "voice": "Đây mới là dự thảo, đang lấy ý kiến. Trước khi ủng hộ, hãy xem rõ tài khoản nhận và mục đích kêu gọi." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
