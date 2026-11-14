@@ -32,7 +32,7 @@ Nguồn: VnExpress – "Giá vàng miếng xuống mức thấp nhất hơn mộ
 1. `hook` – Màn hình: “Chỉ còn 1 sản phẩm” – sắp bị cấm?
    - Lời đọc: Chỉ còn một sản phẩm? Chiêu này sắp bị cấm!
 2. `stat` – Màn hình: Luật sửa đổi 4 luật thương mại – **1/7/2027** ngày có hiệu lực – 458/460 đại biểu tán thành
-   - Lời đọc: Chiều mười ba tháng mười một, Quốc hội thông qua luật sửa đổi bốn luật về thương mại, cạnh tranh và bảo vệ người tiêu dùng. Luật có hiệu lực từ một tháng bảy năm hai nghìn không trăm hai mươi bảy.
+   - Lời đọc: Quốc hội vừa thông qua luật sửa đổi bốn luật về thương mại, cạnh tranh và bảo vệ người tiêu dùng. Luật có hiệu lực từ một tháng bảy năm hai nghìn không trăm hai mươi bảy.
 3. `points` – Màn hình: **Web, app bị cấm gì?** – Hiển thị sai số hàng còn lại · Báo sai số người đang quan tâm · Làm khó khi muốn huỷ giao dịch
    - Lời đọc: Theo VnExpress, website và ứng dụng bị cấm hiển thị sai số lượng hàng còn lại, hay số người đang quan tâm, để tạo khan hiếm giả. Cố tình làm khó người dùng khi muốn huỷ giao dịch cũng bị cấm.
 4. `points` – Màn hình: **Dữ liệu cá nhân** – Được chọn riêng từng mục đích thu thập · Không bị ép khai thông tin thừa
