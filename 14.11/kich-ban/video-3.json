@@ -1,0 +1,17 @@
+{
+  "title": "IMF: Lạm phát Việt Nam được kiểm soát tốt",
+  "caption": "Đoàn tham vấn của Quỹ Tiền tệ Quốc tế (IMF) đánh giá rủi ro lạm phát tại Việt Nam đến nay được kiểm soát tốt, nhưng khuyên điều hành tiền tệ thận trọng, sẵn sàng điều chỉnh nếu giá cả tăng. Mục tiêu 2027: GDP tăng từ 10%, lạm phát khoảng 4,5% 👇\nNguồn: Báo Chính phủ, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#lamphat", "#IMF", "#tintuc"],
+  "sources": [
+    { "name": "Báo Chính phủ", "title": "Phó Thủ tướng Nguyễn Văn Thắng tiếp đoàn tham vấn Quỹ Tiền tệ Quốc tế", "url": "https://baochinhphu.vn/pho-thu-tuong-nguyen-van-thang-tiep-doan-tham-van-quy-tien-te-quoc-te-102261113183809749.htm", "date": "13/11/2026" },
+    { "name": "VnExpress", "title": "IMF đánh giá Việt Nam kiểm soát tốt rủi ro lạm phát", "url": "https://vnexpress.net/imf-danh-gia-viet-nam-kiem-soat-tot-rui-ro-lam-phat-5144481.html", "date": "13/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Giá cả có sắp tăng mạnh?", "voice": "Giá cả có sắp tăng mạnh không? IMF vừa lên tiếng." },
+    { "type": "stat", "label": "Mục tiêu lạm phát năm 2027", "value": "~4,5", "unit": "%", "note": "IMF: rủi ro lạm phát được kiểm soát tốt", "voice": "Chiều mười ba tháng mười một, đoàn của Quỹ Tiền tệ Quốc tế đánh giá rủi ro lạm phát tại Việt Nam đến nay được kiểm soát tốt. Mục tiêu năm tới là giữ lạm phát khoảng bốn phẩy năm phần trăm." },
+    { "type": "points", "heading": "IMF lưu ý gì?", "items": ["Tiền tệ cần điều hành thận trọng", "Sẵn sàng điều chỉnh nếu giá tăng", "2027 là năm cần theo dõi sát"], "voice": "Tuy vậy, IMF cho rằng chính sách tiền tệ cần điều hành thận trọng, sẵn sàng điều chỉnh nếu áp lực giá tăng. Năm hai nghìn không trăm hai mươi bảy là năm cần theo dõi sát." },
+    { "type": "points", "heading": "Rủi ro từ đâu?", "items": ["Bất ổn Trung Đông", "Cú sốc giá năng lượng", "Lạm phát nhập khẩu"], "voice": "Rủi ro lớn là bất ổn ở Trung Đông, có thể gây cú sốc giá năng lượng và đẩy lạm phát nhập khẩu tăng." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Mục tiêu GDP 2027: từ 10%", "Theo dõi giá xăng, điện mỗi kỳ", "Lập kế hoạch chi tiêu dự phòng"], "voice": "Việt Nam đặt mục tiêu tăng trưởng từ mười phần trăm trở lên. Bạn nên theo dõi giá xăng, điện mỗi kỳ, và có kế hoạch chi tiêu dự phòng." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
