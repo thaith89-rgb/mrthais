@@ -1,0 +1,17 @@
+{
+  "title": "Vàng miếng 137,5 triệu, thấp nhất hơn một năm",
+  "caption": "Sáng 14/11, vàng miếng SJC giảm thêm 500.000 đồng, còn 134,5–137,5 triệu đồng/lượng – ngày giảm thứ 4 liên tiếp, mất 4 triệu đồng/lượng. Vàng thế giới quanh 3.880 USD/ounce, trong nước vẫn cao hơn khoảng 16 triệu 👇\nNguồn: VnExpress, Tiền Phong. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#vangSJC", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Giá vàng miếng xuống mức thấp nhất hơn một năm", "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-11-5144582.html", "date": "14/11/2026" },
+    { "name": "Tiền Phong", "title": "Giá vàng thấp nhất từ đầu năm đến nay", "url": "https://tienphong.vn/gia-vang-thap-nhat-tu-dau-nam-den-nay-post1894265.tpo", "date": "14/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng miếng giảm 4 ngày liền!", "voice": "Vàng miếng vừa giảm bốn ngày liên tiếp!" },
+    { "type": "stat", "label": "Vàng miếng SJC, sáng 14/11", "value": "137,5", "unit": "triệu đồng/lượng (bán ra)", "change": "-0,5", "note": "Mua vào 134,5 triệu", "voice": "Sáng mười bốn tháng mười một, vàng miếng SJC giảm thêm năm trăm nghìn đồng, còn một trăm ba mươi tư phẩy năm đến một trăm ba mươi bảy phẩy năm triệu đồng một lượng." },
+    { "type": "points", "heading": "Giảm bao nhiêu?", "items": ["4 ngày giảm 4 triệu đồng/lượng", "Thấp nhất hơn một năm (VnExpress)", "Thấp hơn đỉnh tháng 3 khoảng 28%"], "voice": "Chỉ trong bốn ngày, vàng miếng mất bốn triệu đồng một lượng. Theo VnExpress, đây là mức thấp nhất hơn một năm, thấp hơn đỉnh hồi tháng ba khoảng hai mươi tám phần trăm." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Vàng thế giới ~3.880 USD/ounce", "Lo lạm phát, lãi suất Mỹ tăng", "Lãi suất cao, giữ vàng kém hấp dẫn"], "voice": "Vàng thế giới lùi về quanh ba nghìn tám trăm tám mươi đô một ounce. Giới đầu tư lo lãi suất Mỹ tăng, khiến việc giữ vàng kém hấp dẫn hơn." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Trong nước cao hơn thế giới ~16 triệu", "Chênh mua – bán: 3 triệu đồng", "Giá có thể đổi trong ngày"], "voice": "Giá trong nước vẫn cao hơn thế giới khoảng mười sáu triệu đồng. Chênh lệch mua bán ba triệu, và giá có thể thay đổi trong ngày." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

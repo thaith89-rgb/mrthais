@@ -1,0 +1,18 @@
+{
+  "title": "Cấm chiêu “sắp hết hàng” giả khi bán online",
+  "caption": "Quốc hội vừa thông qua luật sửa đổi 4 luật về thương mại. Từ 1/7/2027, website, app bị cấm hiển thị sai số lượng hàng còn lại hay số người đang xem để tạo khan hiếm giả, cấm làm khó người dùng khi muốn huỷ giao dịch. Bạn từng bị “chỉ còn 1 sản phẩm” dụ mua chưa? 👇\nNguồn: VnExpress, Báo Chính phủ, Nhân Dân. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#muasamonline", "#nguoitieudung", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Cấm chiêu tạo khan hiếm giả, ép người dùng mua hàng online", "url": "https://vnexpress.net/cam-chieu-tao-khan-hiem-gia-ep-nguoi-dung-mua-hang-online-5144339.html", "date": "13/11/2026" },
+    { "name": "Báo Chính phủ", "title": "Quốc hội thông qua Luật sửa đổi, bổ sung một số điều của 4 Luật thuộc lĩnh vực công thương", "url": "https://baochinhphu.vn/quoc-hoi-thong-qua-luat-sua-doi-bo-sung-mot-so-dieu-cua-4-luat-thuoc-linh-vuc-cong-thuong-102261113153743625.htm", "date": "13/11/2026" },
+    { "name": "Nhân Dân", "title": "Quốc hội thông qua luật sửa đổi 4 luật về thương mại", "url": "https://nhandan.vn/quoc-hoi-thong-qua-luat-sua-doi-bo-sung-4-luat-thuoc-linh-vuc-thuong-mai-post1002461.html", "date": "13/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "“Chỉ còn 1 sản phẩm” – sắp bị cấm?", "voice": "Chỉ còn một sản phẩm? Chiêu này sắp bị cấm!" },
+    { "type": "stat", "label": "Luật sửa đổi 4 luật thương mại", "value": "1/7/2027", "unit": "ngày có hiệu lực", "note": "458/460 đại biểu tán thành", "voice": "Quốc hội vừa thông qua luật sửa đổi bốn luật về thương mại, cạnh tranh và bảo vệ người tiêu dùng. Luật có hiệu lực từ một tháng bảy năm hai nghìn không trăm hai mươi bảy." },
+    { "type": "points", "heading": "Web, app bị cấm gì?", "items": ["Hiển thị sai số hàng còn lại", "Báo sai số người đang quan tâm", "Làm khó khi muốn huỷ giao dịch"], "voice": "Theo VnExpress, website và ứng dụng bị cấm hiển thị sai số lượng hàng còn lại, hay số người đang quan tâm, để tạo khan hiếm giả. Cố tình làm khó người dùng khi muốn huỷ giao dịch cũng bị cấm." },
+    { "type": "points", "heading": "Dữ liệu cá nhân", "items": ["Được chọn riêng từng mục đích thu thập", "Không bị ép khai thông tin thừa"], "voice": "Người tiêu dùng cũng được lựa chọn riêng từng mục đích thu thập thông tin, và không bị buộc cung cấp thông tin không cần thiết cho giao dịch." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Luật chưa có hiệu lực ngay", "Đừng vội mua vì “sắp hết hàng”", "So sánh giá trước khi chốt đơn"], "voice": "Luật chưa có hiệu lực ngay. Khi mua online, đừng vội chốt đơn chỉ vì dòng chữ sắp hết hàng, hãy so sánh giá trước." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
