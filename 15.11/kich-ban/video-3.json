@@ -1,0 +1,76 @@
+{
+  "title": "Gạo Việt được giá, giá lúa tăng theo",
+  "caption": "Giá gạo xuất khẩu của Việt Nam tăng mạnh mấy tuần qua: theo VnExpress, gạo 5% tấm tăng gần 9%, gạo ST25 được chào 900–1.000 USD/tấn. Philippines cấp phép nhập 300.000 tấn gạo Việt trong tháng 11, giá lúa ở ĐBSCL tăng vài trăm đồng mỗi kg 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giagao",
+    "#nongsan",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá gạo xuất khẩu tăng mạnh",
+      "url": "https://vnexpress.net/gia-gao-xuat-khau-tang-manh-5144309.html",
+      "date": "13/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Giá gạo xuất khẩu tăng mạnh, ST25 được chào bán 1.000 USD/tấn",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-gao-xuat-khau-tang-manh-st25-duoc-chao-ban-1000-usdtan-20261113212135594.htm",
+      "date": "14/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Gạo ST25 chào bán 1.000 đô/tấn!",
+      "voice": "Gạo ST25 được chào bán tới một nghìn đô một tấn!"
+    },
+    {
+      "type": "stat",
+      "label": "Giá gạo 5% tấm xuất khẩu, vài tuần qua",
+      "value": "~9",
+      "unit": "% tăng (theo VnExpress)",
+      "change": "tăng",
+      "note": "Philippines cấp phép 300.000 tấn trong tháng 11",
+      "voice": "Theo VnExpress, giá gạo năm phần trăm tấm xuất khẩu tăng gần chín phần trăm chỉ trong vài tuần. Philippines vừa cấp phép nhập ba trăm nghìn tấn gạo Việt trong tháng mười một."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Philippines mua lại mạnh",
+        "Nhu cầu cuối năm tăng",
+        "Lượng gạo còn để xuất không nhiều"
+      ],
+      "voice": "Thị trường lớn Philippines quay lại mua, nhu cầu cuối năm tăng, trong khi lượng gạo còn để xuất khẩu không nhiều."
+    },
+    {
+      "type": "points",
+      "heading": "Ai được hưởng lợi?",
+      "items": [
+        "Giá lúa ĐBSCL tăng vài trăm đồng/kg",
+        "Gạo thơm 5% tấm trên 500 USD/tấn",
+        "ST25 chào 900–1.000 USD/tấn"
+      ],
+      "voice": "Giá lúa tươi ở đồng bằng sông Cửu Long tăng vài trăm đồng mỗi ký. Gạo thơm lên trên năm trăm đô một tấn, ST25 được chào chín trăm đến một nghìn đô."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "10 tháng, xuất khẩu vẫn giảm 9,7%",
+        "Giá chào chưa phải giá chốt",
+        "Đà tăng tuỳ sức mua thực tế"
+      ],
+      "voice": "Tuy vậy, tính chung mười tháng, kim ngạch xuất khẩu gạo vẫn giảm chín phẩy bảy phần trăm. Giá chào bán chưa phải giá chốt, và đà tăng còn tuỳ sức mua thực tế."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
