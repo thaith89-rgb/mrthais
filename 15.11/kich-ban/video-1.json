@@ -1,0 +1,88 @@
+{
+  "title": "Thuế thu nhập cá nhân 2026: lương 25 triệu đóng bao nhiêu?",
+  "caption": "Từ kỳ tính thuế 2026, giảm trừ gia cảnh lên 15,5 triệu đồng/tháng cho bản thân, 6,2 triệu cho mỗi người phụ thuộc; biểu thuế lương rút còn 5 bậc. Theo ví dụ của Báo Chính phủ, người lương 25 triệu nuôi 1 con có thể bớt khoảng 7 triệu tiền thuế mỗi năm. Bạn đã đăng ký người phụ thuộc chưa? 👇\nNguồn: Báo Chính phủ, VnExpress, Người Lao Động. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#thuethunhapcanhan",
+    "#giamtrugiacanh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Chính phủ",
+      "title": "Cải cách thuế TNCN: Người lao động có thể có thêm hàng chục triệu đồng ngay năm nay",
+      "url": "https://baochinhphu.vn/cai-cach-thue-thu-nhap-ca-nhan-nguoi-lao-dong-co-the-co-them-hang-chuc-trieu-dong-moi-nam-102261113121825969.htm",
+      "date": "13/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giảm trừ gia cảnh lên 15,5 triệu đồng từ kỳ tính thuế 2026",
+      "url": "https://vnexpress.net/giam-tru-gia-canh-len-15-5-trieu-dong-tu-ky-tinh-thue-2026-4952515.html",
+      "date": "17/10/2025"
+    },
+    {
+      "name": "Người Lao Động",
+      "title": "Biểu thuế thu nhập cá nhân mới giảm bậc thuế và thuế suất",
+      "url": "https://nld.com.vn/thay-doi-lon-ve-bieu-thue-thu-nhap-ca-nhan-ap-dung-tu-1-7-2026-196251209194428594.htm",
+      "date": "09/12/2025"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Năm nay bạn được bớt thuế bao nhiêu?",
+      "voice": "Năm nay, bạn được bớt bao nhiêu tiền thuế?"
+    },
+    {
+      "type": "stat",
+      "label": "Giảm trừ cho bản thân, từ năm 2026",
+      "value": "15,5",
+      "unit": "triệu đồng/tháng",
+      "change": "+4,5",
+      "note": "Trước đây: 11 triệu đồng/tháng",
+      "voice": "Từ kỳ tính thuế năm nay, mức giảm trừ cho bản thân lên mười lăm phẩy năm triệu đồng một tháng, tăng bốn phẩy năm triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Có gì mới?",
+      "items": [
+        "Mỗi người phụ thuộc: 6,2 triệu/tháng",
+        "Biểu thuế lương còn 5 bậc",
+        "Bậc 5% kéo dài tới 10 triệu"
+      ],
+      "voice": "Mỗi người phụ thuộc được giảm trừ sáu phẩy hai triệu đồng một tháng. Biểu thuế tiền lương rút còn năm bậc, mức năm phần trăm áp dụng tới mười triệu đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "Ví dụ: lương 25 triệu, 1 con",
+      "bars": [
+        {
+          "label": "Cách cũ",
+          "value": 8.52
+        },
+        {
+          "label": "Cách mới",
+          "value": 1.38
+        }
+      ],
+      "unit": "triệu đồng thuế/năm",
+      "voice": "Theo ví dụ của Báo Chính phủ, người lương hai mươi lăm triệu, nuôi một con, trước nộp khoảng tám phẩy năm triệu đồng thuế một năm. Cách tính mới chỉ còn khoảng một phẩy bốn triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Ví dụ có tính chi y tế, giáo dục",
+        "Đăng ký người phụ thuộc đầy đủ",
+        "Mức mới tính cho cả năm 2026"
+      ],
+      "voice": "Ví dụ này có tính khoản chi y tế, giáo dục được khấu trừ. Hãy kiểm tra đã đăng ký người phụ thuộc chưa trước khi quyết toán thuế năm nay."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

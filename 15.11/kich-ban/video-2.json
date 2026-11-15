@@ -1,0 +1,76 @@
+{
+  "title": "Vé máy bay Tết: khứ hồi 4 người tăng 15 triệu",
+  "caption": "Còn khoảng 2,5 tháng nữa là Tết Đinh Mùi, nhiều chặng bay từ TP HCM về miền Bắc, miền Trung đã hết vé phổ thông giờ đẹp. Một gia đình 4 người bay TP HCM – Thanh Hóa khứ hồi: từ khoảng 23 triệu lên 38 triệu đồng chỉ trong chưa đầy 1 tháng. Bạn đã đặt vé Tết chưa? 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#vemaybaytet",
+    "#tet2027",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Giá vé máy bay Tết Đinh Mùi nhiều chặng tăng nhanh",
+      "url": "https://vnexpress.net/gia-ve-may-bay-tet-dinh-mui-nhieu-chang-tang-nhanh-5143344.html",
+      "date": "13/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Vietnam Airlines mở bán gần 3,7 triệu vé máy bay Tết Nguyên đán 2027",
+      "url": "https://www.vietnamplus.vn/vietnam-airlines-mo-ban-gan-37-trieu-ve-may-bay-tet-nguyen-dan-2027-post1131268.vnp",
+      "date": "08/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vé Tết tăng 15 triệu sau một tháng?",
+      "voice": "Vé máy bay Tết tăng mười lăm triệu chỉ sau một tháng?"
+    },
+    {
+      "type": "stat",
+      "label": "TP HCM – Thanh Hóa, khứ hồi 4 người",
+      "value": "38",
+      "unit": "triệu đồng",
+      "change": "+15",
+      "note": "Chưa đầy 1 tháng trước: khoảng 23 triệu",
+      "voice": "Theo VnExpress, vé khứ hồi Thành phố Hồ Chí Minh, Thanh Hóa cho gia đình bốn người dịp Tết đã tăng từ khoảng hai mươi ba lên ba mươi tám triệu đồng, trong chưa đầy một tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao đắt nhanh?",
+      "items": [
+        "Vé phổ thông giờ đẹp đã hết",
+        "Còn lại chủ yếu hạng cao hơn",
+        "Có chặng 3,9–5 triệu/chiều"
+      ],
+      "voice": "Nhiều chuyến cao điểm đã hết vé phổ thông giá rẻ. Chỗ còn lại chủ yếu là hạng vé cao hơn, có chặng lên ba phẩy chín đến năm triệu đồng một chiều."
+    },
+    {
+      "type": "points",
+      "heading": "Ghế không hề thiếu",
+      "items": [
+        "Nhóm hãng quốc gia: gần 3,7 triệu ghế",
+        "Tăng khoảng 11% so với Tết trước",
+        "Thêm nhiều chuyến bay đêm"
+      ],
+      "voice": "Dù vậy, nguồn cung vẫn tăng. Nhóm hãng bay quốc gia dự kiến gần ba phẩy bảy triệu ghế, tăng khoảng mười một phần trăm, thêm nhiều chuyến bay đêm."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Cân nhắc bay đêm, sáng sớm",
+        "Thử sân bay lân cận, đổi ngày",
+        "Chiều ngược chỉ 0,7–1,4 triệu"
+      ],
+      "voice": "Nếu chưa đặt vé, hãy cân nhắc chuyến đêm, sân bay lân cận hoặc lệch ngày. Vé chiều ngược về Thành phố Hồ Chí Minh chỉ khoảng bảy trăm nghìn đến một phẩy bốn triệu đồng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
