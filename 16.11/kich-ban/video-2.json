@@ -1,0 +1,75 @@
+{
+  "title": "Nợ thuế cũ: trả đủ gốc, được xóa tiền chậm nộp",
+  "caption": "Bộ Tài chính đang hoàn thiện dự thảo nghị quyết xử lý nợ thuế: người nộp thuế, chủ yếu doanh nghiệp, hộ kinh doanh đã ngừng hoạt động, nếu nộp đủ nợ gốc và làm hồ sơ khôi phục hoặc chấm dứt mã số thuế trước 30/6/2028 thì được xóa tiền chậm nộp. Còn khoảng 2,5 triệu mã số thuế cần xử lý. Bạn hay người thân có mã số thuế 'treo' không? 👇\nNguồn: Tuổi Trẻ, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#nothue",
+    "#hokinhdoanh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Xóa nợ thuế: Kiến nghị gỡ vướng cho người không còn khả năng trả nợ",
+      "url": "https://tuoitre.vn/xoa-no-thue-kien-nghi-go-vuong-cho-nguoi-khong-con-kha-nang-tra-no-100261115230537799.htm",
+      "date": "15/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Bộ Tài chính: Phải nộp đủ nợ gốc mới được xóa tiền chậm nộp",
+      "url": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-phai-nop-du-no-goc-moi-duoc-xoa-tien-cham-nop-20261116011205677.htm",
+      "date": "16/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Nợ thuế cũ có thể được xóa tiền phạt?",
+      "voice": "Nợ thuế cũ, có thể được xóa tiền chậm nộp?"
+    },
+    {
+      "type": "stat",
+      "label": "Mã số thuế cần xử lý",
+      "value": "2,5",
+      "unit": "triệu mã",
+      "note": "Đã làm sạch 777.000 mã từ đầu năm",
+      "voice": "Theo Tuổi Trẻ, còn khoảng hai phẩy năm triệu mã số thuế đã ngừng hoạt động cần xử lý. Từ đầu năm, ngành thuế đã làm sạch bảy trăm bảy mươi bảy nghìn mã."
+    },
+    {
+      "type": "points",
+      "heading": "Dự thảo đề xuất gì?",
+      "items": [
+        "Nộp đủ nợ gốc",
+        "Xóa tiền chậm nộp",
+        "Có thể nộp dần"
+      ],
+      "voice": "Dự thảo nghị quyết của Bộ Tài chính: người nộp thuế trả đủ nợ gốc sẽ được xóa tiền chậm nộp. Không bắt buộc trả một lần, có thể nộp dần nếu đúng hạn."
+    },
+    {
+      "type": "points",
+      "heading": "Điều kiện chính",
+      "items": [
+        "Hồ sơ khôi phục hoặc đóng mã số thuế",
+        "Hạn chót 30/6/2028",
+        "Tiền đã nộp không được hoàn lại"
+      ],
+      "voice": "Kèm theo là hồ sơ khôi phục hoặc chấm dứt mã số thuế, được cơ quan thuế nhận chậm nhất ngày ba mươi tháng sáu năm hai nghìn không trăm hai mươi tám. Khoản đã nộp trước đó không được hoàn lại."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Đây vẫn là dự thảo",
+        "Chưa xóa nợ gốc",
+        "Hỏi cơ quan thuế số nợ của mình"
+      ],
+      "voice": "Đây vẫn là dự thảo, và nợ gốc không được xóa. Nếu từng có hộ kinh doanh hay công ty đã ngừng, hãy hỏi cơ quan thuế số nợ của mình."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
