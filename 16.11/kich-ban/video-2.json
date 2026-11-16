@@ -25,7 +25,7 @@
   "scenes": [
     {
       "type": "hook",
-      "text": "Nợ thuế cũ có thể được xóa tiền phạt?",
+      "text": "Nợ thuế cũ được xóa tiền chậm nộp?",
       "voice": "Nợ thuế cũ, có thể được xóa tiền chậm nộp?"
     },
     {
@@ -34,7 +34,7 @@
       "value": "2,5",
       "unit": "triệu mã",
       "note": "Đã làm sạch 777.000 mã từ đầu năm",
-      "voice": "Theo Tuổi Trẻ, còn khoảng hai phẩy năm triệu mã số thuế đã ngừng hoạt động cần xử lý. Từ đầu năm, ngành thuế đã làm sạch bảy trăm bảy mươi bảy nghìn mã."
+      "voice": "Theo Tuổi Trẻ, còn khoảng hai phẩy năm triệu mã số thuế ngừng hoạt động cần xử lý."
     },
     {
       "type": "points",
@@ -54,7 +54,7 @@
         "Hạn chót 30/6/2028",
         "Tiền đã nộp không được hoàn lại"
       ],
-      "voice": "Kèm theo là hồ sơ khôi phục hoặc chấm dứt mã số thuế, được cơ quan thuế nhận chậm nhất ngày ba mươi tháng sáu năm hai nghìn không trăm hai mươi tám. Khoản đã nộp trước đó không được hoàn lại."
+      "voice": "Kèm hồ sơ khôi phục hoặc chấm dứt mã số thuế, nộp chậm nhất ngày ba mươi tháng sáu năm hai nghìn không trăm hai mươi tám. Khoản đã nộp trước đó không được hoàn lại."
     },
     {
       "type": "points",

@@ -34,7 +34,7 @@
       "value": "8",
       "unit": "nhóm người được mua",
       "note": "Luật hiện hành: bán cho bất kỳ ai",
-      "voice": "Theo dự thảo Luật Nhà ở sửa đổi, sau năm năm, chủ nhà chỉ được bán lại cho tám nhóm người được hưởng chính sách nhà ở xã hội."
+      "voice": "Theo dự thảo Luật Nhà ở sửa đổi, sau năm năm, chủ nhà chỉ được bán lại cho tám nhóm người được hưởng chính sách."
     },
     {
       "type": "points",
@@ -44,7 +44,7 @@
         "Giá do hai bên thỏa thuận",
         "Nhà trả đủ tiền trước luật mới: không giới hạn"
       ],
-      "voice": "Luật hiện hành cho phép bán cho bất kỳ ai. Theo VnExpress, giá bán lại dự kiến do hai bên tự thỏa thuận. Nhà đã trả đủ tiền trước khi luật mới có hiệu lực thì không bị giới hạn người mua."
+      "voice": "Luật hiện hành cho bán tự do. Theo VnExpress, giá bán lại dự kiến do hai bên thỏa thuận. Nhà trả đủ tiền trước luật mới thì không bị giới hạn."
     },
     {
       "type": "chart",
@@ -68,7 +68,7 @@
         }
       ],
       "unit": "căn",
-      "voice": "Đến năm hai nghìn không trăm ba mươi, cả nước được giao gần chín trăm nghìn căn. Riêng Thành phố Hồ Chí Minh hơn một trăm tám mươi nghìn căn, Hà Nội tám mươi tư nghìn căn."
+      "voice": "Đến năm hai nghìn không trăm ba mươi, cả nước được giao gần chín trăm nghìn căn, riêng Thành phố Hồ Chí Minh hơn một trăm tám mươi nghìn căn."
     },
     {
       "type": "points",
@@ -78,7 +78,7 @@
         "Quốc hội biểu quyết ngày 21/11",
         "Nếu thông qua: hiệu lực 1/7/2027"
       ],
-      "voice": "Đây vẫn là dự thảo. Quốc hội dự kiến biểu quyết ngày hai mươi mốt tháng mười một. Nếu thông qua, luật có hiệu lực từ một tháng bảy năm hai nghìn không trăm hai mươi bảy."
+      "voice": "Đây vẫn là dự thảo. Quốc hội dự kiến biểu quyết ngày hai mươi mốt tháng mười một, nếu thông qua sẽ có hiệu lực từ một tháng bảy năm sau."
     },
     {
       "type": "cta",
