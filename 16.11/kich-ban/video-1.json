@@ -1,0 +1,89 @@
+{
+  "title": "Nhà ở xã hội sau 5 năm: bán cho ai, giá nào?",
+  "caption": "Dự thảo Luật Nhà ở (sửa đổi): sau 5 năm kể từ khi trả đủ tiền, chủ nhà ở xã hội chỉ được bán lại cho người thuộc diện được hưởng chính sách – không còn bán tự do cho bất kỳ ai. Theo VnExpress, giá bán lại dự kiến do hai bên thỏa thuận. Quốc hội dự kiến biểu quyết ngày 21/11; nếu thông qua, luật có hiệu lực từ 1/7/2027. Bạn thấy hợp lý không? 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#nhaoxahoi",
+    "#luatnhao",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Nhà ở xã hội dự kiến vẫn được bán lại theo giá thị trường sau 5 năm",
+      "url": "https://vnexpress.net/nha-o-xa-hoi-du-kien-van-duoc-ban-lai-theo-gia-thi-truong-sau-5-nam-5144920.html",
+      "date": "15/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Trình Quốc hội đề xuất về điều kiện bán lại nhà ở xã hội sau 5 năm",
+      "url": "https://dantri.com.vn/thoi-su/trinh-quoc-hoi-de-xuat-ve-dieu-kien-ban-lai-nha-o-xa-hoi-sau-5-nam-20261022092055451.htm",
+      "date": "22/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Mua nhà ở xã hội, 5 năm sau bán cho ai?",
+      "voice": "Mua nhà ở xã hội, năm năm sau bạn được bán cho ai?"
+    },
+    {
+      "type": "stat",
+      "label": "Bán lại sau 5 năm, theo dự thảo",
+      "value": "8",
+      "unit": "nhóm người được mua",
+      "note": "Luật hiện hành: bán cho bất kỳ ai",
+      "voice": "Theo dự thảo Luật Nhà ở sửa đổi, sau năm năm, chủ nhà chỉ được bán lại cho tám nhóm người được hưởng chính sách."
+    },
+    {
+      "type": "points",
+      "heading": "Thay đổi chính",
+      "items": [
+        "Không còn bán tự do",
+        "Giá do hai bên thỏa thuận",
+        "Nhà trả đủ tiền trước luật mới: không giới hạn"
+      ],
+      "voice": "Luật hiện hành cho bán tự do. Theo VnExpress, giá bán lại dự kiến do hai bên thỏa thuận. Nhà trả đủ tiền trước luật mới thì không bị giới hạn."
+    },
+    {
+      "type": "chart",
+      "heading": "Chỉ tiêu nhà ở xã hội đến 2030",
+      "bars": [
+        {
+          "label": "TP HCM",
+          "value": 181257
+        },
+        {
+          "label": "Hà Nội",
+          "value": 84000
+        },
+        {
+          "label": "Đồng Nai",
+          "value": 60054
+        },
+        {
+          "label": "Hải Phòng",
+          "value": 32850
+        }
+      ],
+      "unit": "căn",
+      "voice": "Đến năm hai nghìn không trăm ba mươi, cả nước được giao gần chín trăm nghìn căn, riêng Thành phố Hồ Chí Minh hơn một trăm tám mươi nghìn căn."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Đây vẫn là dự thảo",
+        "Quốc hội biểu quyết ngày 21/11",
+        "Nếu thông qua: hiệu lực 1/7/2027"
+      ],
+      "voice": "Đây vẫn là dự thảo. Quốc hội dự kiến biểu quyết ngày hai mươi mốt tháng mười một, nếu thông qua sẽ có hiệu lực từ một tháng bảy năm sau."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

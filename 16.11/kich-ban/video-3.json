@@ -1,0 +1,100 @@
+{
+  "title": "Xăng rẻ, vì sao dầu diesel vẫn đắt?",
+  "caption": "Xăng E5 RON92 đã về khoảng 19.400 đồng/lít, nhưng dầu diesel vẫn hơn 26.800 đồng/lít – đắt hơn xăng khoảng 7.400 đồng. Một lý do: thuế tiêu thụ đặc biệt với xăng về 0% từ 1/11, còn diesel không chịu thuế này. Nhiều tuyến xe khách vẫn giữ giá vé cao. Bạn thấy vé xe quê mình đã giảm chưa? 👇\nNguồn: Dân trí, Tuổi Trẻ, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giaxangdau",
+    "#daudiesel",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Giá xăng giảm mạnh, dầu diesel vẫn gần 27.000 đồng/lít: Nhà xe nói lý do khó giảm giá vé",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-manh-dau-diesel-van-gan-27000-donglit-nha-xe-noi-ly-do-kho-giam-gia-ve-20261115130913557.htm",
+      "date": "15/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Từ 15h, giá xăng dầu tiếp tục giảm, có mặt hàng giảm gần 2.300 đồng",
+      "url": "https://tuoitre.vn/tu-15h-gia-xang-dau-tiep-tuc-giam-co-mat-hang-giam-gan-2300-dong-100261112090659368.htm",
+      "date": "12/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng dầu tiếp tục giảm từ 15 giờ hôm nay, E10 xuống 19.845 đồng mỗi lít",
+      "url": "https://www.vietnamplus.vn/gia-xang-dau-tiep-tuc-giam-tu-15-gio-hom-nay-e10-xuong-19845-dong-moi-lit-post1147881.vnp",
+      "date": "12/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Xăng đã rẻ, sao vé xe chưa giảm?",
+      "voice": "Xăng đã rẻ, sao vé xe khách vẫn chưa giảm?"
+    },
+    {
+      "type": "stat",
+      "label": "Dầu diesel, từ 15h ngày 12/11",
+      "value": "26.822",
+      "unit": "đồng/lít",
+      "change": "-1.874",
+      "note": "Xăng E5 RON92: 19.399 đồng/lít",
+      "voice": "Từ ngày mười hai tháng mười một, dầu diesel còn hai mươi sáu nghìn tám trăm đồng một lít, trong khi xăng E5 chỉ khoảng mười chín nghìn bốn trăm đồng."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá diesel năm 2026",
+      "bars": [
+        {
+          "label": "Cuối T2",
+          "value": 19.3
+        },
+        {
+          "label": "Đầu T4",
+          "value": 44.8
+        },
+        {
+          "label": "Cuối T6",
+          "value": 22.3
+        },
+        {
+          "label": "Cuối T10",
+          "value": 30.2
+        },
+        {
+          "label": "12/11",
+          "value": 26.8
+        }
+      ],
+      "unit": "nghìn đồng/lít",
+      "voice": "Theo Dân trí, diesel từng lên gần bốn mươi lăm nghìn đồng hồi tháng tư. Hiện vẫn cao hơn cuối tháng hai khoảng bảy nghìn rưỡi đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao diesel giảm chậm?",
+      "items": [
+        "Thuế tiêu thụ đặc biệt xăng về 0%",
+        "Diesel không chịu thuế này",
+        "Nhiên liệu ~50% chi phí chuyến xe"
+      ],
+      "voice": "Từ một tháng mười một, thuế tiêu thụ đặc biệt với xăng về không phần trăm, nhưng diesel không chịu thuế này nên không được giảm tương ứng. Nhiên liệu chiếm khoảng một nửa chi phí mỗi chuyến xe."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Bộ Xây dựng yêu cầu rà soát giá cước",
+        "Giá xăng dầu đổi mỗi thứ Năm",
+        "So sánh giá vé trước khi đặt"
+      ],
+      "voice": "Bộ Xây dựng đã yêu cầu kiểm tra doanh nghiệp vận tải chưa giảm cước. Giá xăng dầu điều chỉnh định kỳ vào thứ Năm, nên so sánh giá vé trước khi đặt."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
