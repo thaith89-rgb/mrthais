@@ -1,0 +1,17 @@
+{
+  "title": "Lãi tiết kiệm tiếp tục giảm",
+  "caption": "Lãi suất tiết kiệm tiếp tục giảm giữa tháng 11: VPBank hạ lãi online kỳ hạn 15–18 tháng từ 7,4% xuống 7,1%/năm, BIDV hạ 0,2 điểm cho kỳ hạn 15–18 tháng. Kỳ hạn 12 tháng hiện phổ biến 4,8–7%/năm. Các ngân hàng giảm lãi theo chỉ đạo của Chính phủ và Ngân hàng Nhà nước. Bạn đang gửi kỳ hạn bao lâu? 👇\nNguồn: Dân trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#laisuat", "#tietkiem", "#tintuc"],
+  "sources": [
+    { "name": "Dân trí", "title": "Loạt ngân hàng giảm lãi tiền gửi, mặt bằng lãi suất hiện ra sao?", "url": "https://dantri.com.vn/kinh-doanh/loat-ngan-hang-giam-lai-tien-gui-mat-bang-lai-suat-hien-ra-sao-20261117100956943.htm", "date": "17/11/2026" },
+    { "name": "VietnamPlus", "title": "Lãi suất ngân hàng 17/11/2026: Kỳ hạn 12 tháng hấp dẫn", "url": "https://www.vietnamplus.vn/lai-suat-ngan-hang-ngay-1711-ky-han-1-nam-huong-muc-lai-quanh-7-post1148737.vnp", "date": "17/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Lãi tiết kiệm lại giảm nữa?", "voice": "Lãi suất tiết kiệm lại vừa giảm thêm." },
+    { "type": "stat", "label": "VPBank online, kỳ hạn 15–18 tháng", "value": "7,1", "unit": "%/năm", "change": "-0,3", "note": "BIDV online 15–18 tháng: còn 6,6%/năm", "voice": "Theo Dân trí, VPBank hạ lãi gửi online kỳ hạn mười lăm đến mười tám tháng từ bảy phẩy bốn xuống bảy phẩy một phần trăm một năm. BIDV cũng giảm không phẩy hai điểm." },
+    { "type": "chart", "heading": "Lãi online kỳ hạn 12 tháng", "bars": [{ "label": "Thấp nhất", "value": 4.8 }, { "label": "VPBank", "value": 6.7 }, { "label": "BIDV", "value": 6.8 }, { "label": "Cao nhất", "value": 7 }], "unit": "%/năm", "voice": "Kỳ hạn mười hai tháng hiện dao động khoảng bốn phẩy tám đến bảy phần trăm một năm, tùy ngân hàng." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Chỉ đạo của Chính phủ và NHNN", "Hết tháng 10: 46 ngân hàng đã giảm", "Mục tiêu: hạ lãi vay cho doanh nghiệp"], "voice": "Các ngân hàng giảm lãi theo chỉ đạo của Chính phủ và Ngân hàng Nhà nước. Hết tháng mười, bốn mươi sáu ngân hàng đã giảm, nhằm hạ lãi vay cho doanh nghiệp." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Lãi khác nhau theo kỳ hạn, số tiền", "Gửi online thường cao hơn tại quầy", "Đọc kỹ điều kiện trước khi gửi"], "voice": "Lãi suất khác nhau theo kỳ hạn và số tiền gửi. Mức online thường cao hơn tại quầy. Hãy đọc kỹ điều kiện trước khi gửi." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

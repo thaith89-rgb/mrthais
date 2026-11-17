@@ -1,0 +1,18 @@
+{
+  "title": "Giá heo hơi tăng đồng loạt cả ba miền",
+  "caption": "Sáng 17/11, giá heo hơi tăng ở cả ba miền, có nơi tăng 3.000 đồng/kg, lên 53.000 đồng/kg. Nhưng theo Tuổi Trẻ, giá thành chăn nuôi khoảng 56.000–59.000 đồng/kg nên nhiều hộ nuôi vẫn lỗ. Tại chợ đầu mối Hóc Môn, heo mảnh tăng 3.000–5.000 đồng/kg. Giá thịt heo ở chợ nhà bạn đã tăng chưa? 👇\nNguồn: Thanh Niên, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giaheohoi", "#giathitheo", "#tintuc"],
+  "sources": [
+    { "name": "Thanh Niên", "title": "Giá heo hơi hôm nay 17.11.2026: Tăng đồng loạt, cao nhất 3.000 đồng", "url": "https://thanhnien.vn/gia-heo-hoi-hom-nay-17112026-tang-dong-loat-cao-nhat-3000-dong-185261116162333157.htm", "date": "17/11/2026" },
+    { "name": "Tuổi Trẻ", "title": "Giá cả đầu ngày: Xoài cát Hòa Lộc giá 60.000 đồng/kg, siêu thị đua giảm giá thực phẩm", "url": "https://tuoitre.vn/gia-ca-dau-ngay-xoai-cat-hoa-loc-gia-60000-dong-kg-sieu-thi-dua-giam-gia-thuc-pham-100261117094841144.htm", "date": "17/11/2026" },
+    { "name": "Tuổi Trẻ", "title": "Giá heo hơi quay đầu tăng sau khi chạm đáy, người nuôi vẫn bất an", "url": "https://tuoitre.vn/gia-heo-hoi-quay-dau-tang-sau-khi-cham-day-nguoi-nuoi-van-bat-an-100261112180114436.htm", "date": "12/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Giá heo hơi tăng khắp ba miền", "voice": "Giá heo hơi vừa tăng khắp ba miền." },
+    { "type": "stat", "label": "Heo hơi, sáng 17/11 (nơi cao nhất)", "value": "53.000", "unit": "đồng/kg", "change": "+3.000", "note": "Tăng 1.000–3.000 đồng/kg so với hôm trước", "voice": "Sáng mười bảy tháng mười một, giá heo hơi tăng ở cả ba miền, có nơi tăng ba nghìn đồng, lên năm mươi ba nghìn đồng một ký." },
+    { "type": "chart", "heading": "Giá heo hơi (nghìn đồng/kg)", "bars": [{ "label": "Đáy T9–10", "value": 38 }, { "label": "TB 12/11", "value": 48 }, { "label": "17/11", "value": 53 }, { "label": "Giá thành", "value": 56 }], "unit": "nghìn đồng/kg", "voice": "Theo Tuổi Trẻ, tháng chín và tháng mười có nơi chỉ bán ba mươi tám nghìn đồng. Dù đã tăng, giá vẫn dưới giá thành năm mươi sáu nghìn trở lên, nên nhiều hộ nuôi vẫn lỗ." },
+    { "type": "points", "heading": "Vì sao tăng?", "items": ["Đàn heo giảm sau thời gian giá thấp", "Nhu cầu cuối năm, gần Tết tăng", "Thịt heo nhập khẩu giảm"], "voice": "Giá thấp kéo dài khiến đàn heo giảm, thịt nhập khẩu cũng giảm, trong khi nhu cầu cuối năm tăng." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": ["Chợ đầu mối: heo mảnh +3.000–5.000đ/kg", "Doanh nghiệp: khó tăng đột biến", "So sánh giá chợ, siêu thị khi mua"], "voice": "Ở chợ đầu mối Hóc Môn, heo mảnh đã tăng ba đến năm nghìn đồng một ký. Doanh nghiệp nhận định giá khó tăng đột biến. Hãy so sánh giá khi đi chợ." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
