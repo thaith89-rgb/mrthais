@@ -1,0 +1,82 @@
+{
+  "title": "Vàng thế giới thấp nhất 14 tháng",
+  "caption": "Chiều 18/11, vàng thế giới có lúc chỉ còn 3.767 USD/ounce, thấp nhất kể từ tháng 9/2025, giảm gần 33% so với đỉnh tháng 1. Vàng miếng SJC giảm chậm hơn, còn 134,2–137,2 triệu đồng/lượng, cao hơn giá thế giới quy đổi khoảng 18–20 triệu đồng. Nguyên nhân: USD mạnh, thị trường chờ Fed tăng lãi suất tháng 12. Bạn đang theo dõi giá vàng hay đứng ngoài? 👇\nNguồn: Tuổi Trẻ, VietnamPlus, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangsjc",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng thế giới giảm mạnh, chỉ còn 3.767 USD/ounce",
+      "url": "https://tuoitre.vn/gia-vang-the-gioi-giam-manh-chi-con-3767-usd-ounce-100261118144929603.htm",
+      "date": "18/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá vàng giảm xuống mức thấp nhất trong vòng 14 tháng qua",
+      "url": "https://www.vietnamplus.vn/gia-vang-giam-xuong-muc-thap-nhat-trong-vong-14-thang-qua-post1149142.vnp",
+      "date": "18/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá vàng trong nước giảm chậm hơn thế giới, neo quanh 137 triệu đồng",
+      "url": "https://vnexpress.net/gia-vang-trong-nuoc-giam-cham-hon-the-gioi-neo-quanh-137-trieu-dong-5146017.html",
+      "date": "18/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng thế giới thấp nhất 14 tháng!",
+      "voice": "Vàng thế giới vừa về mức thấp nhất mười bốn tháng."
+    },
+    {
+      "type": "stat",
+      "label": "Vàng thế giới chiều 18/11",
+      "value": "3.767",
+      "unit": "USD/ounce",
+      "change": "-83",
+      "note": "Thấp nhất kể từ tháng 9/2025",
+      "voice": "Theo Tuổi Trẻ, chiều nay vàng thế giới có lúc chỉ còn ba nghìn bảy trăm sáu mươi bảy đô la một ounce, mất gần một phần ba so với đỉnh tháng một."
+    },
+    {
+      "type": "points",
+      "heading": "Trong nước giảm chậm hơn",
+      "items": [
+        "SJC: 134,2 – 137,2 triệu/lượng",
+        "Cao hơn thế giới 18–20 triệu",
+        "Đã thấp hơn đỉnh 54,8 triệu"
+      ],
+      "voice": "Vàng miếng SJC giảm chậm hơn, còn một trăm ba mươi bảy phẩy hai triệu đồng một lượng bán ra, cao hơn giá thế giới quy đổi khoảng mười tám đến hai mươi triệu."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao vàng giảm?",
+      "items": [
+        "Đồng USD lên gần đỉnh 19 tháng",
+        "Thị trường chờ Fed tăng lãi suất",
+        "Vàng không sinh lãi, kém hấp dẫn hơn"
+      ],
+      "voice": "Nguyên nhân là đồng đô la mạnh lên, thị trường chờ Fed tăng lãi suất tháng mười hai, khiến vàng kém hấp dẫn hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Chênh lệch mua – bán khoảng 3 triệu",
+        "Giá thay đổi nhiều lần trong ngày",
+        "Chỉ giao dịch ở nơi được cấp phép"
+      ],
+      "voice": "Lưu ý, chênh lệch mua bán khoảng ba triệu đồng một lượng, giá đổi nhiều lần trong ngày. Chỉ giao dịch tại nơi được cấp phép."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

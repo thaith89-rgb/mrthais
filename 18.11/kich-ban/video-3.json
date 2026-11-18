@@ -1,0 +1,82 @@
+{
+  "title": "Ngân hàng tinh gọn hàng nghìn nhân sự",
+  "caption": "Theo báo cáo tài chính quý III, 25 ngân hàng niêm yết còn gần 229.000 nhân sự cuối tháng 9, giảm hơn 3.800 người so với đầu năm. Sacombank giảm hơn 4.200 người trong 9 tháng và vừa công bố hoàn tất tinh gọn bộ máy. Lý do chính: tái cấu trúc, số hóa, AI thay thế việc lặp lại – trong khi nhân sự công nghệ, dữ liệu vẫn được tuyển. Nghề của bạn có đang thay đổi vì AI? 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#nganhang",
+    "#vieclam",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Nhiều ngân hàng mạnh tay tinh gọn nhân sự",
+      "url": "https://vnexpress.net/nhieu-ngan-hang-manh-tay-tinh-gon-nhan-su-5145273.html",
+      "date": "17/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Sacombank hoàn tất tinh gọn bộ máy",
+      "url": "https://dantri.com.vn/kinh-doanh/sacombank-hoan-tat-tinh-gon-bo-may-20261117151825271.htm",
+      "date": "17/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Thêm cả nghìn nhân sự ngành ngân hàng, chứng khoán bị cắt giảm trong quý III",
+      "url": "https://dantri.com.vn/kinh-doanh/them-ca-nghin-nhan-su-nganh-ngan-hang-chung-khoan-bi-cat-giam-trong-quy-iii-20261028104757188.htm",
+      "date": "28/10/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngân hàng giảm hàng nghìn nhân sự?",
+      "voice": "Ngân hàng đang giảm hàng nghìn nhân sự?"
+    },
+    {
+      "type": "stat",
+      "label": "25 ngân hàng niêm yết, 9 tháng",
+      "value": "3.800",
+      "unit": "người",
+      "change": "-1,6%",
+      "note": "Còn gần 229.000 nhân sự cuối tháng 9",
+      "voice": "Theo VnExpress, hai mươi lăm ngân hàng niêm yết còn gần hai trăm hai mươi chín nghìn nhân sự, giảm hơn ba nghìn tám trăm người sau chín tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Ai giảm nhiều?",
+      "items": [
+        "Sacombank: giảm hơn 4.200 người",
+        "Eximbank: giảm khoảng 770 người",
+        "9 ngân hàng vẫn tăng nhân sự"
+      ],
+      "voice": "Giảm mạnh nhất là Sacombank, hơn bốn nghìn hai trăm người, và vừa công bố hoàn tất tinh gọn bộ máy. Eximbank giảm khoảng bảy trăm bảy mươi người. Chín ngân hàng vẫn tăng nhân sự."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tinh gọn?",
+      "items": [
+        "Tái cấu trúc, giảm tầng trung gian",
+        "Số hóa, AI thay việc lặp lại",
+        "Vẫn tuyển công nghệ, dữ liệu"
+      ],
+      "voice": "Lý do chính là tái cấu trúc, và số hóa, trí tuệ nhân tạo thay thế việc lặp lại. Nhân sự công nghệ, dữ liệu vẫn được tuyển."
+    },
+    {
+      "type": "points",
+      "heading": "Người lao động nên lưu ý",
+      "items": [
+        "Kỹ năng số ngày càng quan trọng",
+        "Theo dõi tin tuyển dụng chính thức",
+        "Cập nhật kỹ năng thường xuyên"
+      ],
+      "voice": "Với người lao động, kỹ năng số ngày càng quan trọng. Hãy cập nhật kỹ năng thường xuyên."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
