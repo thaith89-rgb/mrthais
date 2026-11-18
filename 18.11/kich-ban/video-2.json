@@ -1,0 +1,17 @@
+{
+  "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD",
+  "caption": "10 tháng năm 2026, tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt khoảng 1.010 tỷ USD, tăng 32,3%, lần đầu vượt mốc 1.000 tỷ USD. Xuất khẩu khoảng 499 tỷ USD. Lũy kế vẫn nhập siêu khoảng 12 tỷ USD, nhưng tháng 9 và 10 đã xuất siêu. Hơn nửa kim ngạch xuất khẩu đến từ điện tử, máy tính, máy móc. Bạn có làm trong ngành xuất khẩu không? 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#xuatkhau", "#kinhtevietnam", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Triển vọng thương mại thế nào sau mốc kim ngạch 1.000 tỷ USD?", "url": "https://vnexpress.net/trien-vong-thuong-mai-the-nao-sau-moc-kim-ngach-1-000-ty-usd-5145303.html", "date": "17/11/2026" },
+    { "name": "VietnamPlus", "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, cán cân thương mại cải thiện", "url": "https://www.vietnamplus.vn/xuat-nhap-khau-lan-dau-vuot-1000-ty-usd-can-can-thuong-mai-cai-thien-post1145192.vnp", "date": "30/10/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "1.000 tỷ USD chỉ trong 10 tháng!", "voice": "Một nghìn tỷ đô la, chỉ trong mười tháng." },
+    { "type": "stat", "label": "Xuất nhập khẩu 10 tháng 2026", "value": "1.010", "unit": "tỷ USD", "change": "+32,3%", "note": "Lần đầu vượt mốc 1.000 tỷ USD", "voice": "Mười tháng năm nay, tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt khoảng một nghìn không trăm mười tỷ đô la, tăng ba mươi hai phẩy ba phần trăm, lần đầu vượt mốc một nghìn tỷ." },
+    { "type": "chart", "heading": "Gấp đôi sau 7 năm", "bars": [{ "label": "Năm 2019", "value": 500 }, { "label": "10T/2026", "value": 1010 }], "unit": "tỷ USD", "voice": "Năm hai nghìn không trăm mười chín, con số này mới khoảng năm trăm tỷ. Chỉ sau bảy năm đã tăng gấp đôi." },
+    { "type": "points", "heading": "Bức tranh chi tiết", "items": ["Xuất khẩu khoảng 499 tỷ USD", "Lũy kế nhập siêu khoảng 12 tỷ USD", "Tháng 9 và 10 đã xuất siêu"], "voice": "Xuất khẩu đạt khoảng bốn trăm chín mươi chín tỷ đô. Tính cả mười tháng vẫn nhập siêu khoảng mười hai tỷ, nhưng tháng chín và tháng mười đã xuất siêu trở lại." },
+    { "type": "points", "heading": "Điều đáng lưu ý", "items": ["Hơn nửa là điện tử, máy tính, máy móc", "Khối FDI chiếm khoảng 73% xuất khẩu", "Thách thức: thuế quan, chi phí, lao động"], "voice": "Hơn một nửa kim ngạch xuất khẩu là điện tử, máy tính, máy móc. Doanh nghiệp vốn nước ngoài chiếm khoảng bảy mươi ba phần trăm. Thuế quan, chi phí năng lượng và thiếu lao động là những thách thức lớn." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
