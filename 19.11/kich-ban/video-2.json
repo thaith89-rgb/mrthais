@@ -1,0 +1,17 @@
+{
+  "title": "Quét QR Việt Nam để trả tiền ở Singapore",
+  "caption": "Từ 18/11, người Việt sang Singapore có thể dùng app ngân hàng hoặc ví điện tử trong nước để quét mã NETSQR, thanh toán tại hơn 150.000 điểm: taxi, cửa hàng tiện lợi, trung tâm thương mại, nhà hàng. Tiền quy đổi trực tiếp đồng Việt Nam – đô la Singapore theo thời gian thực. Hiện có 12 ngân hàng và 2 ví điện tử tham gia (Napas kết nối với NETS). Bạn đã từng đi Singapore chưa? 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#thanhtoanqr", "#dulich", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Người Việt có thể quét mã QR thanh toán tại Singapore", "url": "https://vnexpress.net/nguoi-viet-co-the-quet-ma-qr-thanh-toan-tai-singapore-5146319.html", "date": "19/11/2026" },
+    { "name": "VietnamPlus", "title": "Thanh toán QR Việt Nam - Singapore: tiện lợi tại 150.000 điểm", "url": "https://www.vietnamplus.vn/mo-rong-thanh-toan-qr-xuyen-bien-gioi-viet-nam-singapore-post1149173.vnp", "date": "18/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Sang Singapore không cần đổi tiền?", "voice": "Sang Singapore, không cần đổi tiền mặt nữa?" },
+    { "type": "stat", "label": "Điểm chấp nhận mã NETSQR", "value": "150.000+", "unit": "điểm tại Singapore", "note": "Triển khai từ 18/11/2026", "voice": "Từ ngày mười tám tháng mười một, người Việt có thể dùng app ngân hàng trong nước quét mã QR tại hơn một trăm năm mươi nghìn điểm ở Singapore." },
+    { "type": "points", "heading": "Dùng thế nào?", "items": [ "Mở app ngân hàng hoặc ví Việt Nam", "Quét mã NETSQR tại quầy", "Quy đổi VND – SGD ngay lập tức" ], "voice": "Bạn chỉ cần mở app ngân hàng hoặc ví điện tử, quét mã NETSQR tại taxi, cửa hàng tiện lợi hay nhà hàng. Tiền được quy đổi trực tiếp từ đồng Việt Nam sang đô la Singapore." },
+    { "type": "points", "heading": "Ai dùng được?", "items": [ "12 ngân hàng Việt Nam", "2 ví điện tử", "Napas kết nối với NETS" ], "voice": "Hiện có mười hai ngân hàng và hai ví điện tử tham gia. Đây là kết nối giữa Napas của Việt Nam và NETS của Singapore." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": [ "Kiểm tra app ngân hàng đã hỗ trợ chưa", "Hỏi rõ phí và tỷ giá áp dụng", "Vẫn nên mang ít tiền mặt dự phòng" ], "voice": "Trước chuyến đi, hãy kiểm tra ngân hàng của bạn đã hỗ trợ chưa, hỏi rõ phí và tỷ giá, và vẫn nên mang một ít tiền mặt dự phòng." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

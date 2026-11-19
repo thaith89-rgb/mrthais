@@ -1,0 +1,17 @@
+{
+  "title": "Giá cá tra cao nhất 3 năm",
+  "caption": "Giá cá tra nguyên liệu ở miền Tây lên khoảng 38.500 đồng/kg, cao nhất 3 năm, cao hơn cùng kỳ năm trước khoảng 3.000–5.000 đồng/kg. Nguyên nhân: thời tiết thất thường đầu năm làm hao hụt cá giống, nguồn cá thu hoạch cuối năm thiếu. Nhiều nhà máy chế biến chạy dưới công suất, trong khi xuất khẩu 9 tháng vẫn đạt khoảng 1,74 tỷ USD, tăng 10%. Bạn có hay ăn cá tra không? 👇\nNguồn: VnExpress, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#catra", "#nongsan", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Giá cá tra cao nhất ba năm", "url": "https://vnexpress.net/gia-ca-tra-cao-nhat-ba-nam-5146400.html", "date": "19/11/2026" },
+    { "name": "Tuổi Trẻ", "title": "Cá tra được giá, doanh nghiệp ở Đồng Tháp đỏ mắt tìm nguồn cung", "url": "https://tuoitre.vn/ca-tra-duoc-gia-doanh-nghiep-o-dong-thap-do-mat-tim-nguon-cung-100261116170512538.htm", "date": "16/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Cá tra lên giá cao nhất 3 năm!", "voice": "Giá cá tra vừa lên mức cao nhất ba năm." },
+    { "type": "stat", "label": "Cá tra nguyên liệu miền Tây", "value": "38.500", "unit": "đồng/kg", "note": "Cao nhất 3 năm qua", "voice": "Theo VnExpress, cá tra nguyên liệu ở miền Tây lên khoảng ba mươi tám nghìn năm trăm đồng một ký, cao hơn cùng kỳ năm ngoái khoảng ba đến năm nghìn đồng." },
+    { "type": "points", "heading": "Vì sao tăng?", "items": [ "Thời tiết thất thường đầu năm", "Hao hụt cá giống lớn", "Cá thu hoạch cuối năm bị thiếu" ], "voice": "Nguyên nhân là thời tiết thất thường đầu năm làm hao hụt cá giống. Cá tra cần sáu đến tám tháng mới thu hoạch, nên đến cuối năm nguồn cá bị thiếu." },
+    { "type": "points", "heading": "Ai bị ảnh hưởng?", "items": [ "Người nuôi: được giá, có lãi", "Nhà máy thiếu nguyên liệu", "Xuất khẩu 9 tháng: 1,74 tỷ USD" ], "voice": "Người nuôi được giá. Nhưng nhiều nhà máy chế biến thiếu nguyên liệu, có nơi phải giảm ca. Xuất khẩu chín tháng vẫn đạt khoảng một phẩy bảy bốn tỷ đô, tăng mười phần trăm." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": [ "Thiếu cá có thể kéo dài tới quý I/2027", "Giá cá ở chợ có thể nhích theo", "Giá khác nhau theo vùng, cỡ cá" ], "voice": "Theo doanh nghiệp, tình trạng thiếu cá có thể kéo dài tới quý một năm sau. Giá ở chợ có thể nhích theo, và khác nhau tùy vùng." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

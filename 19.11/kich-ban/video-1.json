@@ -1,0 +1,18 @@
+{
+  "title": "Xăng giảm lần thứ 5 liên tiếp",
+  "caption": "Từ 15h hôm nay 19/11, giá xăng dầu đồng loạt giảm. Xăng E10 RON95-III còn 19.100 đồng/lít (giảm 745 đồng), E5 RON92 còn 18.576 đồng/lít (giảm hơn 800 đồng), diesel còn 26.347 đồng/lít (giảm 475 đồng). Đây là lần giảm thứ 5 liên tiếp. Lý do chính: dự báo thị trường dầu dư cung quý IV. Đổ đầy bình xe máy 4 lít, bạn tiết kiệm khoảng 3.000 đồng. 👇\nNguồn: Tuổi Trẻ, VietnamPlus, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giaxang", "#xangdau", "#tintuc"],
+  "sources": [
+    { "name": "Tuổi Trẻ", "title": "Đồng loạt giảm giá xăng dầu từ 15h ngày 19-11", "url": "https://tuoitre.vn/dong-loat-giam-gia-xang-dau-tu-15h-ngay-19-11-100261119142302038.htm", "date": "19/11/2026" },
+    { "name": "VietnamPlus", "title": "Giá xăng tiếp tục giảm từ 15 giờ ngày 19/11, E10RON95 còn 19.100 đồng mỗi lít", "url": "https://www.vietnamplus.vn/gia-xang-tiep-tuc-giam-tu-15-gio-ngay-1911-e10ron95-con-19100-dong-moi-lit-post1149380.vnp", "date": "19/11/2026" },
+    { "name": "Dân trí", "title": "Giá xăng giảm tiếp, có loại giảm gần 1.000 đồng/lít", "url": "https://dantri.com.vn/kinh-doanh/gia-xang-giam-tiep-co-loai-giam-gan-1000-donglit-20261119134340709.htm", "date": "19/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Xăng lại giảm giá từ 15h!", "voice": "Xăng lại giảm giá từ mười lăm giờ chiều nay." },
+    { "type": "stat", "label": "Xăng E10 RON95-III", "value": "19.100", "unit": "đồng/lít", "change": "-745", "note": "Áp dụng từ 15h ngày 19/11", "voice": "Theo liên Bộ Công Thương và Tài chính, xăng E10 RON chín lăm còn mười chín nghìn một trăm đồng một lít, giảm bảy trăm bốn mươi lăm đồng." },
+    { "type": "chart", "heading": "Giá mới từ 15h (đồng/lít)", "bars": [ { "label": "E5 RON92", "value": 18576 }, { "label": "E10 RON95", "value": 19100 }, { "label": "Diesel", "value": 26347 } ], "unit": "đồng/lít", "voice": "Xăng E5 RON chín hai còn khoảng mười tám nghìn sáu trăm đồng, giảm hơn tám trăm. Dầu diesel còn khoảng hai mươi sáu nghìn ba trăm đồng, giảm gần năm trăm." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": [ "Lần giảm thứ 5 liên tiếp", "Dự báo dầu thế giới dư cung", "Quỹ bình ổn không chi" ], "voice": "Đây là lần giảm thứ năm liên tiếp. Bộ Công Thương cho biết thị trường dầu được dự báo dư cung trong quý bốn, giá thành phẩm thế giới chủ yếu giảm." },
+    { "type": "points", "heading": "Bạn nên lưu ý", "items": [ "Bình xe máy 4 lít: bớt khoảng 3.000đ", "Diesel vẫn đắt hơn xăng nhiều", "Giá có thể đổi kỳ tới" ], "voice": "Đổ đầy bình xe máy bốn lít, bạn bớt khoảng ba nghìn đồng. Giá dầu thế giới còn biến động, kỳ điều hành tới có thể thay đổi." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
