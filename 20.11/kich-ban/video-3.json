@@ -1,0 +1,87 @@
+{
+  "title": "Gần 300 cổ phiếu HNX chuyển sang HoSE",
+  "caption": "Toàn bộ cổ phiếu niêm yết trên sàn HNX (gần 300 mã) sẽ chuyển sang HoSE. Lịch dự kiến: 23/12 là phiên cuối trên HNX, tạm ngừng giao dịch 24–25/12, 28/12 là phiên đầu tiên trên HoSE. Biên độ giá trong ngày từ 10% (HNX) sẽ theo mức 7% của HoSE. Mục tiêu: thống nhất quy tắc giao dịch, giảm chi phí, minh bạch dữ liệu cho nhà đầu tư. Sau chuyển giao, HNX tập trung vào trái phiếu, phái sinh, UPCoM. Bạn có đang giữ cổ phiếu sàn HNX không? 👇\nNguồn: VnExpress, Dân trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#chungkhoan",
+    "#hose",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Vì sao Việt Nam gom cổ phiếu về một sàn?",
+      "url": "https://vnexpress.net/vi-sao-viet-nam-gom-co-phieu-ve-mot-san-5146316.html",
+      "date": "19/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Vì sao phải hợp nhất, chuyển toàn bộ cổ phiếu từ HNX sang HoSE?",
+      "url": "https://dantri.com.vn/kinh-doanh/vi-sao-phai-hop-nhat-chuyen-toan-bo-co-phieu-tu-hnx-sang-hose-20261119160817808.htm",
+      "date": "20/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Toàn bộ cổ phiếu HNX sẽ sang HOSE từ 28-12",
+      "url": "https://tuoitre.vn/toan-bo-co-phieu-tren-hnx-se-chuyen-sang-hose-tu-28-12-100260930201353937.htm",
+      "date": "30/09/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Sàn HNX sắp hết cổ phiếu niêm yết?",
+      "voice": "Sàn chứng khoán Hà Nội sắp không còn cổ phiếu niêm yết?"
+    },
+    {
+      "type": "stat",
+      "label": "Cổ phiếu chuyển từ HNX sang HoSE",
+      "value": "~300",
+      "unit": "mã",
+      "note": "Phiên đầu trên HoSE: 28/12",
+      "voice": "Gần ba trăm cổ phiếu niêm yết trên sàn HNX sẽ chuyển sang HoSE trong tháng mười hai, gom về một sàn."
+    },
+    {
+      "type": "points",
+      "heading": "Lịch dự kiến",
+      "items": [
+        "23/12: phiên cuối ở HNX",
+        "24–25/12: tạm ngừng",
+        "28/12: phiên đầu ở HoSE"
+      ],
+      "voice": "Theo lịch công bố, hai mươi ba tháng mười hai là phiên cuối ở HNX. Hai ngày sau tạm ngừng giao dịch. Ngày hai mươi tám là phiên đầu trên HoSE."
+    },
+    {
+      "type": "chart",
+      "heading": "Biên độ giá trong ngày",
+      "bars": [
+        {
+          "label": "HNX hiện nay",
+          "value": 10
+        },
+        {
+          "label": "HoSE",
+          "value": 7
+        }
+      ],
+      "unit": "%",
+      "voice": "Biên độ giá trong ngày ở HoSE là bảy phần trăm, hẹp hơn mức mười phần trăm ở HNX. Mục tiêu là thống nhất quy tắc, giảm chi phí và minh bạch dữ liệu."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Nghỉ giao dịch 24–25/12",
+        "Biên độ hẹp hơn",
+        "Xem thông báo công ty chứng khoán"
+      ],
+      "voice": "Nếu đang giữ cổ phiếu sàn HNX, hãy nhớ hai ngày không giao dịch và biên độ mới hẹp hơn. Theo dõi thông báo của công ty chứng khoán bạn đang dùng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

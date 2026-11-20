@@ -1,0 +1,82 @@
+{
+  "title": "Vàng miếng giảm tới 4 triệu đồng/lượng",
+  "caption": "Trưa 20/11, vàng miếng SJC mua vào còn 129,2 triệu đồng/lượng (giảm 4 triệu), bán ra 134,2 triệu (giảm 2 triệu). Chênh lệch mua – bán nới lên 5 triệu đồng/lượng. Vàng thế giới về quanh 3.520–3.530 USD/ounce, thấp nhất hơn một năm, do USD mạnh lên và thị trường kỳ vọng Fed tăng lãi suất tháng 12. So với đỉnh đầu năm, vàng miếng đã giảm khoảng 57 triệu đồng/lượng (khoảng 30%). Giá có thể thay đổi trong ngày. 👇\nNguồn: VnExpress, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangmieng",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+      "url": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+      "date": "20/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá vàng trưa nay về sát 3.500 USD/ounce",
+      "url": "https://tuoitre.vn/gia-vang-trua-nay-ve-sat-3500-usd-ounce-100261120123717525.htm",
+      "date": "20/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng miếng giảm tới 4 triệu đồng/lượng!",
+      "voice": "Vàng miếng vừa giảm tới bốn triệu đồng một lượng."
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC – giá mua vào",
+      "value": "129,2",
+      "unit": "triệu đồng/lượng",
+      "change": "-4",
+      "note": "Bán ra 134,2 triệu (-2) · trưa 20/11",
+      "voice": "Trưa nay, vàng miếng SJC mua vào còn một trăm hai mươi chín triệu hai, giảm bốn triệu. Bán ra một trăm ba mươi tư triệu hai, giảm hai triệu."
+    },
+    {
+      "type": "chart",
+      "heading": "Vàng miếng bán ra (triệu đồng/lượng)",
+      "bars": [
+        {
+          "label": "Đỉnh 3/2026",
+          "value": 191
+        },
+        {
+          "label": "20/11",
+          "value": 134.2
+        }
+      ],
+      "unit": "triệu đồng/lượng",
+      "voice": "So với đỉnh hồi tháng ba, vàng miếng đã giảm khoảng năm mươi bảy triệu đồng một lượng, tức khoảng ba mươi phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Vàng thế giới thấp nhất hơn 1 năm",
+        "USD mạnh lên",
+        "Kỳ vọng Fed tăng lãi suất"
+      ],
+      "voice": "Vàng thế giới về quanh ba nghìn năm trăm hai mươi đô la một ounce, thấp nhất hơn một năm, do đô la mạnh lên và kỳ vọng Fed tăng lãi suất tháng mười hai."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Chênh mua – bán: 5 triệu",
+        "Cao hơn thế giới hơn 23 triệu",
+        "Giá đổi liên tục"
+      ],
+      "voice": "Chênh lệch mua bán đã lên năm triệu đồng một lượng. Giá trong nước vẫn cao hơn thế giới hơn hai mươi ba triệu, và thay đổi liên tục trong ngày."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
