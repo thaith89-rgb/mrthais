@@ -1,0 +1,75 @@
+{
+  "title": "Doanh nghiệp nhỏ và vừa: ngưỡng mới 400 tỷ",
+  "caption": "Sáng 20/11, Quốc hội thông qua Luật Phát triển doanh nghiệp nhỏ và vừa. Doanh nghiệp được xác định là nhỏ và vừa nếu có không quá 300 lao động và tổng nguồn vốn không quá 150 tỷ đồng hoặc doanh thu không quá 400 tỷ đồng. Doanh nghiệp siêu nhỏ, nhỏ được hưởng thuế suất thuế thu nhập doanh nghiệp thấp hơn mức thông thường; doanh nghiệp siêu nhỏ có kế toán, thủ tục thuế đơn giản; gói thầu ngân sách đến 20 tỷ đồng dành cho doanh nghiệp nhỏ và vừa. Luật có hiệu lực từ 1/7/2027. Bạn đang kinh doanh hay làm cho doanh nghiệp nhỏ? 👇\nNguồn: VnExpress, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#doanhnghiep",
+    "#thue",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Nâng ngưỡng doanh thu xác định doanh nghiệp nhỏ và vừa lên 400 tỷ đồng",
+      "url": "https://vnexpress.net/nang-nguong-doanh-thu-xac-dinh-doanh-nghiep-nho-va-vua-len-400-ty-dong-5146872.html",
+      "date": "20/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ được hưởng thuế suất thuế thu nhập thấp hơn",
+      "url": "https://tuoitre.vn/doanh-nghiep-sieu-nho-doanh-nghiep-nho-duoc-huong-thue-suat-thue-thu-nhap-thap-hon-100261120084925304.htm",
+      "date": "20/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Doanh nghiệp nhỏ sắp được giảm thuế?",
+      "voice": "Doanh nghiệp nhỏ sắp được hưởng thuế thấp hơn?"
+    },
+    {
+      "type": "stat",
+      "label": "Ngưỡng doanh thu doanh nghiệp nhỏ và vừa",
+      "value": "400",
+      "unit": "tỷ đồng/năm",
+      "change": "+100",
+      "note": "Luật thông qua sáng 20/11",
+      "voice": "Sáng nay, Quốc hội thông qua Luật Phát triển doanh nghiệp nhỏ và vừa, nâng ngưỡng doanh thu lên bốn trăm tỷ đồng một năm, tăng một trăm tỷ."
+    },
+    {
+      "type": "points",
+      "heading": "Tiêu chí mới",
+      "items": [
+        "≤ 300 lao động",
+        "Vốn ≤ 150 tỷ hoặc doanh thu ≤ 400 tỷ",
+        "Hiệu lực 1/7/2027"
+      ],
+      "voice": "Doanh nghiệp không quá ba trăm lao động, vốn không quá một trăm năm mươi tỷ hoặc doanh thu không quá bốn trăm tỷ, là nhỏ và vừa. Luật có hiệu lực từ một tháng bảy năm sau."
+    },
+    {
+      "type": "points",
+      "heading": "Được hỗ trợ gì?",
+      "items": [
+        "Thuế thu nhập thấp hơn",
+        "Siêu nhỏ: thủ tục thuế đơn giản",
+        "Gói thầu ngân sách đến 20 tỷ"
+      ],
+      "voice": "Doanh nghiệp siêu nhỏ và nhỏ được hưởng thuế suất thu nhập thấp hơn. Doanh nghiệp siêu nhỏ có thủ tục thuế đơn giản. Gói thầu ngân sách đến hai mươi tỷ dành cho nhóm này."
+    },
+    {
+      "type": "points",
+      "heading": "Bạn nên lưu ý",
+      "items": [
+        "Hộ kinh doanh lên doanh nghiệp: báo cáo tối giản",
+        "Mức thuế cụ thể: chờ hướng dẫn"
+      ],
+      "voice": "Hộ kinh doanh chuyển lên doanh nghiệp được báo cáo tối giản trong ba mươi sáu tháng. Mức thuế cụ thể sẽ theo luật thuế và văn bản hướng dẫn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
