@@ -1,0 +1,89 @@
+{
+  "title": "Cấm thu tiền giữ chỗ mua nhà",
+  "caption": "Sáng 21/11, Quốc hội thông qua Luật Kinh doanh bất động sản (sửa đổi), có hiệu lực từ 1/7/2027. Chủ đầu tư không được thu tiền dưới bất kỳ hình thức nào (giữ chỗ, thiện chí, ưu tiên…) trước khi nhà hình thành trong tương lai đủ điều kiện bán. Đặt cọc tối đa 5%, lần thanh toán đầu tối đa 30% giá trị hợp đồng (gồm cả cọc); trước khi nhận nhà không quá 70%; trước khi có sổ không quá 95%. Bạn từng nộp tiền \"giữ chỗ\" mua nhà chưa? 👇\nNguồn: VnExpress, Báo Chính phủ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#batdongsan",
+    "#muanha",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Cấm thu tiền giữ chỗ mua nhà hình thành trong tương lai",
+      "url": "https://vnexpress.net/cam-thu-tien-giu-cho-mua-nha-hinh-thanh-trong-tuong-lai-5147383.html",
+      "date": "21/11/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Luật Kinh doanh bất động sản (sửa đổi): Siết đặt cọc, thanh toán, tăng bảo vệ người mua nhà",
+      "url": "https://baochinhphu.vn/luat-kinh-doanh-bat-dong-san-sua-doi-siet-dat-coc-thanh-toan-tang-bao-ve-nguoi-mua-nha-102261121104739579.htm",
+      "date": "21/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Sắp cấm thu tiền giữ chỗ mua nhà!",
+      "voice": "Mua nhà trên giấy, sắp không còn phải nộp tiền giữ chỗ."
+    },
+    {
+      "type": "stat",
+      "label": "Đặt cọc tối đa",
+      "value": "5",
+      "unit": "% giá trị hợp đồng",
+      "note": "Hiệu lực 1/7/2027",
+      "voice": "Sáng nay, Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi. Tiền đặt cọc tối đa chỉ năm phần trăm, và chỉ được thu khi dự án đủ điều kiện bán."
+    },
+    {
+      "type": "points",
+      "heading": "Cấm thu khi chưa đủ điều kiện",
+      "items": [
+        "Tiền giữ chỗ, ưu tiên",
+        "Thu qua môi giới",
+        "Chung cư chưa xong móng"
+      ],
+      "voice": "Trước khi đủ điều kiện, chủ đầu tư không được thu tiền dưới mọi tên gọi, kể cả thu qua bên trung gian. Với chung cư, phải xây xong phần móng mới được bán."
+    },
+    {
+      "type": "chart",
+      "heading": "Mức thu tối đa (% hợp đồng)",
+      "bars": [
+        {
+          "label": "Đặt cọc",
+          "value": 5
+        },
+        {
+          "label": "Lần đầu",
+          "value": 30
+        },
+        {
+          "label": "Trước bàn giao",
+          "value": 70
+        },
+        {
+          "label": "Trước khi có sổ",
+          "value": 95
+        }
+      ],
+      "unit": "%",
+      "voice": "Lần thanh toán đầu tối đa ba mươi phần trăm. Trước khi nhận nhà, không quá bảy mươi phần trăm. Trước khi có sổ, không quá chín mươi lăm phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Áp dụng từ 1/7/2027",
+        "Hỏi rõ điều kiện bán",
+        "Đọc kỹ tiến độ thanh toán"
+      ],
+      "voice": "Luật áp dụng từ một tháng bảy năm hai không hai bảy. Trước khi xuống tiền, hãy hỏi rõ dự án đã đủ điều kiện bán chưa, và đọc kỹ tiến độ thanh toán."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

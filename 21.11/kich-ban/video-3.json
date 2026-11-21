@@ -1,0 +1,81 @@
+{
+  "title": "Giá điện sinh hoạt sẽ tính theo giờ?",
+  "caption": "Sáng 21/11, Quốc hội thông qua Luật Điện lực (sửa đổi) với 488/489 đại biểu tán thành. Bộ Công Thương sẽ xây dựng lộ trình áp dụng giá điện sinh hoạt theo giờ cao điểm, thấp điểm, bình thường khi đủ điều kiện kỹ thuật – chưa áp dụng ngay. Hiện hộ gia đình vẫn trả theo 5 bậc lũy tiến, từ 1.901 đến 3.844 đồng/kWh (chưa VAT). Luật có hiệu lực từ 1/6/2027. Nhà bạn hay dùng điện nhiều vào giờ nào? 👇\nNguồn: VnExpress, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giadien",
+    "#tiendien",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Sẽ nghiên cứu tính giá điện sinh hoạt theo khung giờ",
+      "url": "https://vnexpress.net/se-nghien-cuu-tinh-gia-dien-sinh-hoat-theo-khung-gio-5147315.html",
+      "date": "21/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Quốc hội cho phép tính giá điện sinh hoạt theo giờ",
+      "url": "https://thanhnien.vn/quoc-hoi-cho-phep-tinh-gia-dien-sinh-hoat-theo-gio-185261121093751466.htm",
+      "date": "21/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tiền điện nhà bạn sắp tính theo giờ?",
+      "voice": "Tiền điện nhà bạn có thể sẽ tính theo giờ."
+    },
+    {
+      "type": "stat",
+      "label": "Đại biểu tán thành",
+      "value": "488/489",
+      "unit": "đại biểu",
+      "note": "Hiệu lực 1/6/2027",
+      "voice": "Sáng nay, Quốc hội thông qua Luật Điện lực sửa đổi, với bốn trăm tám mươi tám trên bốn trăm tám mươi chín đại biểu tán thành."
+    },
+    {
+      "type": "points",
+      "heading": "Điểm mới",
+      "items": [
+        "Lộ trình giá theo giờ",
+        "Khi đủ điều kiện kỹ thuật",
+        "Bỏ dần bù chéo giá điện"
+      ],
+      "voice": "Bộ Công Thương sẽ xây dựng lộ trình tính giá điện sinh hoạt theo giờ cao điểm, thấp điểm và bình thường, khi đủ điều kiện kỹ thuật. Luật cũng đặt lộ trình bỏ bù chéo giá điện."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá điện sinh hoạt hiện nay (chưa VAT)",
+      "bars": [
+        {
+          "label": "Bậc thấp nhất",
+          "value": 1901
+        },
+        {
+          "label": "Bậc cao nhất",
+          "value": 3844
+        }
+      ],
+      "unit": "đồng/kWh",
+      "voice": "Hiện hộ gia đình vẫn trả theo năm bậc lũy tiến, từ một nghìn chín trăm lẻ một đến ba nghìn tám trăm bốn mươi bốn đồng một ki lô oát giờ, chưa gồm thuế."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Chưa áp dụng ngay",
+        "Chờ biểu giá chính thức",
+        "Để ý giờ dùng điện"
+      ],
+      "voice": "Giá theo giờ chưa áp dụng ngay, mức giá cụ thể sẽ do cơ quan chức năng công bố. Bạn có thể bắt đầu để ý nhà mình dùng điện nhiều vào giờ nào."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
