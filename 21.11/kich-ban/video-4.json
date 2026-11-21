@@ -1,0 +1,81 @@
+{
+  "title": "Xóa nợ lệ phí môn bài cho hơn 2,5 triệu người nộp thuế",
+  "caption": "Chiều 21/11, Quốc hội thông qua nghị quyết xử lý nợ lệ phí môn bài và tiền chậm nộp, áp dụng từ 21/11/2026 đến 30/6/2028. Hơn 2,5 triệu người nộp thuế đã ngừng hoạt động hoặc không còn ở địa chỉ đăng ký được xem xét. Nợ gốc lệ phí môn bài khoảng 1.250 tỷ đồng, tiền chậm nộp kèm theo khoảng 438 tỷ. Không cần làm hồ sơ xin xóa nợ môn bài; xóa tiền chậm nộp thuế cần nộp đủ thuế gốc, tiền phạt và hồ sơ hợp lệ. Không áp dụng với trốn thuế, gian lận thuế, dùng hóa đơn bất hợp pháp. Bạn có mã số thuế cũ chưa đóng? 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#thue",
+    "#doanhnghiep",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Xóa nợ lệ phí môn bài cho hơn 2,5 triệu người nộp thuế",
+      "url": "https://vnexpress.net/xoa-no-le-phi-mon-bai-cho-hon-2-5-trieu-nguoi-nop-thue-5147424.html",
+      "date": "21/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Quốc hội chốt cơ chế xử lý nợ thuế liên quan hơn 2,5 triệu trường hợp",
+      "url": "https://dantri.com.vn/kinh-doanh/quoc-hoi-chot-co-che-xu-ly-no-thue-lien-quan-hon-25-trieu-truong-hop-20261121150221785.htm",
+      "date": "21/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Hơn 2,5 triệu người được xóa nợ môn bài?",
+      "voice": "Hơn hai triệu rưỡi người nộp thuế sắp được xử lý nợ môn bài."
+    },
+    {
+      "type": "stat",
+      "label": "Người nộp thuế diện xem xét",
+      "value": "2,5",
+      "unit": "triệu",
+      "note": "Đã ngừng hoạt động",
+      "voice": "Chiều nay, Quốc hội thông qua nghị quyết xử lý nợ lệ phí môn bài và tiền chậm nộp, cho hơn hai triệu rưỡi người nộp thuế đã ngừng hoạt động."
+    },
+    {
+      "type": "chart",
+      "heading": "Nợ môn bài được xem xét xóa",
+      "bars": [
+        {
+          "label": "Nợ gốc",
+          "value": 1250
+        },
+        {
+          "label": "Tiền chậm nộp",
+          "value": 438
+        }
+      ],
+      "unit": "tỷ đồng",
+      "voice": "Nợ gốc lệ phí môn bài khoảng một nghìn hai trăm năm mươi tỷ đồng, kèm khoảng bốn trăm ba mươi tám tỷ tiền chậm nộp."
+    },
+    {
+      "type": "points",
+      "heading": "Điều kiện",
+      "items": [
+        "Nợ môn bài: không cần hồ sơ",
+        "Chậm nộp: nộp đủ thuế gốc",
+        "Trừ trốn thuế, gian lận"
+      ],
+      "voice": "Nợ môn bài được cơ quan thuế tự xử lý, không cần làm hồ sơ. Muốn xóa tiền chậm nộp thuế, phải nộp đủ thuế gốc, tiền phạt và hồ sơ hợp lệ. Trốn thuế hay gian lận không được áp dụng."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Áp dụng đến 30/6/2028",
+        "Xem tài khoản thuế điện tử",
+        "Thuế gốc vẫn phải nộp"
+      ],
+      "voice": "Nghị quyết áp dụng đến ba mươi tháng sáu năm hai không hai tám. Kết quả được gửi qua tài khoản thuế điện tử. Lưu ý, tiền thuế gốc vẫn phải nộp đủ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Hộ kinh doanh đến 10 tỷ được chọn cách tính thuế",
+  "caption": "Chiều 20/11, Quốc hội thông qua luật sửa đổi các luật thuế thu nhập doanh nghiệp, thu nhập cá nhân, sử dụng đất phi nông nghiệp. Hộ, cá nhân kinh doanh có doanh thu trên 1 tỷ đến 10 tỷ đồng/năm (trước đây là 3 tỷ) được chọn nộp thuế theo thu nhập hoặc theo tỷ lệ % trên doanh thu. Áp dụng từ kỳ tính thuế 2027. Hộ có doanh thu từ 1 tỷ đồng/năm trở xuống không phải nộp thuế thu nhập cá nhân. Bạn đang kinh doanh và chọn cách tính thuế nào? 👇\nNguồn: Tuổi Trẻ, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#thue",
+    "#hokinhdoanh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Chính thức: Hộ kinh doanh doanh thu đến 10 tỉ đồng/năm được chọn cách tính thuế",
+      "url": "https://tuoitre.vn/chinh-thuc-ho-kinh-doanh-doanh-thu-den-10-ti-dong-nam-duoc-chon-tinh-thue-theo-ti-le-100261120212627122.htm",
+      "date": "20/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Cá nhân kinh doanh doanh thu 10 tỉ được nộp thuế theo doanh thu",
+      "url": "https://thanhnien.vn/ca-nhan-kinh-doanh-doanh-thu-10-ti-duoc-nop-thue-theo-doanh-thu-185261120161640497.htm",
+      "date": "20/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Hộ kinh doanh được chọn cách tính thuế?",
+      "voice": "Hộ kinh doanh vừa được chọn cách tính thuế."
+    },
+    {
+      "type": "stat",
+      "label": "Ngưỡng được chọn cách tính thuế",
+      "value": "10",
+      "unit": "tỷ đồng/năm",
+      "note": "Trước đây 3 tỷ",
+      "voice": "Chiều hai mươi tháng mười một, Quốc hội thông qua luật sửa đổi các luật thuế. Ngưỡng doanh thu được chọn cách tính thuế nâng từ ba tỷ lên mười tỷ đồng một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Doanh thu 1–10 tỷ/năm",
+      "items": [
+        "Tính trên thu nhập",
+        "Hoặc theo % doanh thu",
+        "Dưới 1 tỷ: miễn thuế TNCN"
+      ],
+      "voice": "Hộ và cá nhân có doanh thu trên một tỷ đến mười tỷ đồng được chọn tính thuế trên thu nhập, hoặc theo tỷ lệ phần trăm trên doanh thu. Doanh thu từ một tỷ trở xuống không phải nộp thuế thu nhập cá nhân."
+    },
+    {
+      "type": "chart",
+      "heading": "Ngưỡng được chọn cách tính thuế",
+      "bars": [
+        {
+          "label": "Trước đây",
+          "value": 3
+        },
+        {
+          "label": "Từ 2027",
+          "value": 10
+        }
+      ],
+      "unit": "tỷ đồng/năm",
+      "voice": "Theo Bộ Tài chính, gần như toàn bộ hộ kinh doanh có doanh thu từ mười tỷ đồng trở xuống, nên đa số sẽ được lựa chọn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Áp dụng kỳ thuế 2027",
+        "Sổ sách đơn giản hơn",
+        "Chờ nghị định hướng dẫn"
+      ],
+      "voice": "Quy định áp dụng từ kỳ tính thuế năm hai không hai bảy. Cách tính theo doanh thu giúp sổ sách đơn giản hơn. Chi tiết sẽ có trong nghị định hướng dẫn."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
