@@ -17,11 +17,11 @@ Chấm điểm (túi tiền / độ mới / tò mò / dễ giải thích / an to
 
 **Cảnh 2 (stat)** – Màn hình: Đặt cọc tối đa · 5 · % giá trị hợp đồng · Hiệu lực 1/7/2027
 
-> Lời đọc: Sáng nay, Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi. Tiền đặt cọc tối đa chỉ năm phần trăm, và chỉ được thu khi dự án đủ điều kiện bán.
+> Lời đọc: Sáng nay, Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi. Tiền đặt cọc tối đa năm phần trăm, chỉ thu khi dự án đủ điều kiện bán.
 
 **Cảnh 3 (points)** – Màn hình: Cấm thu khi chưa đủ điều kiện: Tiền giữ chỗ, ưu tiên / Thu qua môi giới / Chung cư chưa xong móng
 
-> Lời đọc: Trước khi đủ điều kiện, chủ đầu tư không được thu tiền dưới mọi tên gọi, kể cả thu qua bên trung gian. Với chung cư, phải xây xong phần móng mới được bán.
+> Lời đọc: Trước đó, chủ đầu tư không được thu tiền dưới mọi tên gọi, kể cả qua môi giới. Chung cư phải xong móng mới được bán.
 
 **Cảnh 4 (chart)** – Màn hình: Mức thu tối đa (% hợp đồng): Đặt cọc 5 / Lần đầu 30 / Trước bàn giao 70 / Trước khi có sổ 95 (%)
 
@@ -29,7 +29,7 @@ Chấm điểm (túi tiền / độ mới / tò mò / dễ giải thích / an to
 
 **Cảnh 5 (points)** – Màn hình: Lưu ý: Áp dụng từ 1/7/2027 / Hỏi rõ điều kiện bán / Đọc kỹ tiến độ thanh toán
 
-> Lời đọc: Luật áp dụng từ một tháng bảy năm hai không hai bảy. Trước khi xuống tiền, hãy hỏi rõ dự án đã đủ điều kiện bán chưa, và đọc kỹ tiến độ thanh toán.
+> Lời đọc: Luật áp dụng từ một tháng bảy năm hai không hai bảy. Hãy hỏi rõ dự án đủ điều kiện bán chưa, và đọc kỹ tiến độ thanh toán.
 
 **Cảnh 6 (cta)** – Màn hình: Theo dõi để cập nhật 17h mỗi ngày
 

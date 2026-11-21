@@ -34,7 +34,7 @@
       "value": "5",
       "unit": "% giá trị hợp đồng",
       "note": "Hiệu lực 1/7/2027",
-      "voice": "Sáng nay, Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi. Tiền đặt cọc tối đa chỉ năm phần trăm, và chỉ được thu khi dự án đủ điều kiện bán."
+      "voice": "Sáng nay, Quốc hội thông qua Luật Kinh doanh bất động sản sửa đổi. Tiền đặt cọc tối đa năm phần trăm, chỉ thu khi dự án đủ điều kiện bán."
     },
     {
       "type": "points",
@@ -44,7 +44,7 @@
         "Thu qua môi giới",
         "Chung cư chưa xong móng"
       ],
-      "voice": "Trước khi đủ điều kiện, chủ đầu tư không được thu tiền dưới mọi tên gọi, kể cả thu qua bên trung gian. Với chung cư, phải xây xong phần móng mới được bán."
+      "voice": "Trước đó, chủ đầu tư không được thu tiền dưới mọi tên gọi, kể cả qua môi giới. Chung cư phải xong móng mới được bán."
     },
     {
       "type": "chart",
@@ -78,7 +78,7 @@
         "Hỏi rõ điều kiện bán",
         "Đọc kỹ tiến độ thanh toán"
       ],
-      "voice": "Luật áp dụng từ một tháng bảy năm hai không hai bảy. Trước khi xuống tiền, hãy hỏi rõ dự án đã đủ điều kiện bán chưa, và đọc kỹ tiến độ thanh toán."
+      "voice": "Luật áp dụng từ một tháng bảy năm hai không hai bảy. Hãy hỏi rõ dự án đủ điều kiện bán chưa, và đọc kỹ tiến độ thanh toán."
     },
     {
       "type": "cta",
