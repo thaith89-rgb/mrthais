@@ -1,0 +1,75 @@
+{
+  "title": "Chỉ thị kích cầu tiêu dùng cuối năm",
+  "caption": "Ngày 21/11, Thủ tướng ban hành Chỉ thị 40/CT-TTg về kích cầu tiêu dùng, phát triển thị trường trong nước những tháng cuối năm 2026 và Tết Nguyên đán 2027. Yêu cầu: kiểm soát giá hàng thiết yếu, xử lý đầu cơ, găm hàng; ngân hàng xem xét giảm lãi vay, phát triển tín dụng tiêu dùng; tổ chức khuyến mại, hội chợ, kích cầu du lịch. CPI bình quân 10 tháng tăng 4,57%. Bạn đã lên kế hoạch mua sắm Tết chưa? 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tieudung",
+    "#muasamtet",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Thủ tướng chỉ thị kích cầu tiêu dùng cuối năm",
+      "url": "https://vnexpress.net/thu-tuong-chi-thi-kich-cau-tieu-dung-cuoi-nam-5147500.html",
+      "date": "21/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Thủ tướng chỉ thị kích cầu tiêu dùng dịp cuối năm và Tết",
+      "url": "https://www.vietnamplus.vn/thu-tuong-chinh-phu-chi-thi-thuc-hien-cac-giai-phap-kich-cau-tieu-dung-phat-trien-thi-truong-trong-nuoc-post1149868.vnp",
+      "date": "21/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Mua sắm Tết sắp được kích cầu?",
+      "voice": "Mua sắm cuối năm và Tết sắp được kích cầu."
+    },
+    {
+      "type": "stat",
+      "label": "CPI bình quân 10 tháng",
+      "value": "4,57",
+      "unit": "%",
+      "note": "Chỉ thị 40/CT-TTg ngày 21/11",
+      "voice": "Thủ tướng vừa ban hành chỉ thị bốn mươi về kích cầu tiêu dùng cuối năm và Tết. Chỉ thị nêu giá tiêu dùng bình quân mười tháng đã tăng bốn phẩy năm bảy phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Giữ giá",
+      "items": [
+        "Kiểm soát giá thiết yếu",
+        "Xử lý găm hàng",
+        "Đủ xăng dầu, điện"
+      ],
+      "voice": "Các bộ, ngành phải kiểm soát giá hàng thiết yếu, xử lý đầu cơ, găm hàng, bảo đảm đủ xăng dầu và điện dịp Tết."
+    },
+    {
+      "type": "points",
+      "heading": "Kích cầu",
+      "items": [
+        "Xem xét giảm lãi vay",
+        "Khuyến mại, hội chợ",
+        "Kích cầu du lịch"
+      ],
+      "voice": "Ngân hàng được yêu cầu xem xét giảm lãi vay, phát triển tín dụng tiêu dùng. Sẽ có khuyến mại, hội chợ lớn và kích cầu du lịch."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Lên danh sách mua",
+        "So giá trước",
+        "Cân nhắc vay tiêu dùng"
+      ],
+      "voice": "Bạn nên lên danh sách mua sắm, so giá trước khi mua, và cân nhắc kỹ trước khi vay tiêu dùng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
