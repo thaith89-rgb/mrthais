@@ -1,0 +1,82 @@
+{
+  "title": "Rau xanh giảm giá tới 75%",
+  "caption": "Rau xanh, gia vị ở TP HCM hạ nhiệt mạnh sau đợt giá cao tháng 10. Ngò rí từ 120.000 xuống khoảng 30.000 đồng/kg (giảm 75%), cải xanh từ 50.000 còn 25.000–30.000 đồng/kg, bầu bí dưa leo giảm khoảng một nửa. Nguyên nhân: nắng ráo, vùng trồng phục hồi, rau về chợ nhiều hơn. Hành tím vẫn neo cao. Chợ gần nhà bạn rau giá bao nhiêu? 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#giaca",
+    "#giarau",
+    "#chitieu",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Nhiều loại rau xanh và gia vị giảm giá một nửa",
+      "url": "https://vnexpress.net/nhieu-loai-rau-xanh-va-gia-vi-giam-gia-mot-nua-5147620.html",
+      "date": "22/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Giá rau xanh ở TPHCM giảm mạnh, nhiều loại giảm đến 60%",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-rau-xanh-o-tphcm-giam-manh-nhieu-loai-giam-den-60-20261123133704427.htm",
+      "date": "23/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Ngò rí giảm giá tới 75%!",
+      "voice": "Ngò rí giảm giá tới bảy mươi lăm phần trăm."
+    },
+    {
+      "type": "stat",
+      "label": "Ngò rí ở chợ TP HCM",
+      "value": "30.000",
+      "unit": "đồng/kg",
+      "change": "-75%",
+      "note": "Trước đó 120.000 đồng/kg",
+      "voice": "Ở chợ truyền thống thành phố Hồ Chí Minh, ngò rí từ một trăm hai mươi nghìn xuống còn khoảng ba mươi nghìn đồng một ký."
+    },
+    {
+      "type": "chart",
+      "heading": "Cải xanh trước và nay",
+      "bars": [
+        {
+          "label": "Tháng 10",
+          "value": 50000
+        },
+        {
+          "label": "Nay",
+          "value": 30000
+        }
+      ],
+      "unit": "đồng/kg",
+      "voice": "Cải xanh từ năm mươi nghìn còn hai mươi lăm đến ba mươi nghìn đồng. Bầu, bí, dưa leo giảm khoảng một nửa."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Trời nắng ráo",
+        "Vùng trồng phục hồi",
+        "Rau về chợ nhiều hơn"
+      ],
+      "voice": "Lý do là thời tiết nắng ráo, vùng trồng phục hồi, rau sinh trưởng tốt nên hàng về chợ dồi dào hơn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Hành tím vẫn đắt",
+        "Giá mỗi chợ khác",
+        "So giá vài nơi"
+      ],
+      "voice": "Tuy vậy, hành tím vẫn neo giá cao, và giá mỗi chợ một khác. Bạn nên so sánh vài nơi trước khi mua."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Tỷ giá trung tâm lập kỷ lục mới",
+  "caption": "Sáng 23/11, Ngân hàng Nhà nước công bố tỷ giá trung tâm 25.668 đồng/USD, tăng 9 đồng – mức cao nhất từ trước đến nay. Vietcombank niêm yết bán ra khoảng 25.990–26.030 đồng/USD tùy thời điểm trong ngày. Giá USD ngân hàng tăng hơn 300 đồng trong hai tuần, nhưng vẫn thấp hơn đầu năm khoảng 1,3%. Bạn có đang cần mua USD cho du học, du lịch? 👇\nNguồn: VnExpress, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#tygia",
+    "#giausd",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Tỷ giá trung tâm lập kỷ lục mới",
+      "url": "https://vnexpress.net/ty-gia-trung-tam-lap-ky-luc-moi-5148005.html",
+      "date": "23/11/2026"
+    },
+    {
+      "name": "Thanh Niên",
+      "title": "Giá USD hôm nay 23.11.2026: Tỷ giá trung tâm lên kỷ lục",
+      "url": "https://thanhnien.vn/gia-usd-hom-nay-23112026-ty-gia-trung-tam-len-ky-luc-185261123083727506.htm",
+      "date": "23/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Tỷ giá USD vừa lập kỷ lục?",
+      "voice": "Tỷ giá trung tâm vừa lập kỷ lục mới."
+    },
+    {
+      "type": "stat",
+      "label": "Tỷ giá trung tâm 23/11",
+      "value": "25.668",
+      "unit": "đồng/USD",
+      "change": "+9",
+      "note": "Cao nhất từ trước đến nay",
+      "voice": "Sáng nay, Ngân hàng Nhà nước công bố tỷ giá trung tâm hai mươi lăm nghìn sáu trăm sáu mươi tám đồng một đô la, tăng chín đồng, cao nhất từ trước đến nay."
+    },
+    {
+      "type": "points",
+      "heading": "USD ngân hàng",
+      "items": [
+        "+300 đồng trong 2 tuần",
+        "Vượt 26.000 đồng",
+        "Thấp hơn đầu năm 1,3%"
+      ],
+      "voice": "Giá đô la ở ngân hàng đã tăng hơn ba trăm đồng trong hai tuần, vượt hai mươi sáu nghìn đồng. Dù vậy, vẫn thấp hơn đầu năm khoảng một phẩy ba phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Biên độ ±5% cho ngân hàng",
+      "bars": [
+        {
+          "label": "Sàn",
+          "value": 24385
+        },
+        {
+          "label": "Trung tâm",
+          "value": 25668
+        },
+        {
+          "label": "Trần",
+          "value": 26951
+        }
+      ],
+      "unit": "đồng/USD",
+      "voice": "Với biên độ năm phần trăm, giá trần cho ngân hàng là gần hai mươi bảy nghìn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Ai bị ảnh hưởng?",
+      "items": [
+        "Du học, du lịch",
+        "Hàng nhập khẩu",
+        "Khoản vay USD"
+      ],
+      "voice": "Tỷ giá tăng ảnh hưởng chi phí du học, du lịch, hàng nhập khẩu và khoản vay bằng đô la. Nếu cần ngoại tệ, hãy xem giá niêm yết ở ngân hàng."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

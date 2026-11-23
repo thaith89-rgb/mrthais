@@ -1,0 +1,81 @@
+{
+  "title": "Giá heo hơi tăng trở lại",
+  "caption": "Sau khi xuống đáy khoảng 43.000–45.000 đồng/kg hồi tháng 10, giá heo hơi tăng trở lại, phổ biến khoảng 49.000–56.000 đồng/kg tùy vùng (theo VnExpress 23/11). Nhu cầu chế biến cho Tết tăng, thức ăn chăn nuôi tăng giá. Tổng đàn khoảng 32 triệu con nên giá được dự báo khó tăng đột biến cuối năm. Giá thịt heo chợ bạn đã tăng chưa? 👇\nNguồn: VnExpress, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#giaca",
+    "#giaheohoi",
+    "#thitheo",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Heo hơi tăng giá gần 30% sau khi chạm đáy 3 năm",
+      "url": "https://vnexpress.net/heo-hoi-tang-gia-gan-30-sau-khi-cham-day-3-nam-5148039.html",
+      "date": "23/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Giá heo hơi liệu có tăng đột biến dịp cuối năm?",
+      "url": "https://tuoitre.vn/gia-heo-hoi-lieu-co-tang-dot-bien-dip-cuoi-nam-100261104155529147.htm",
+      "date": "05/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá heo hơi tăng trở lại!",
+      "voice": "Giá heo hơi đang tăng trở lại."
+    },
+    {
+      "type": "stat",
+      "label": "Giá heo hơi phổ biến",
+      "value": "49–56",
+      "unit": "nghìn đồng/kg",
+      "note": "Tùy vùng, cuối tháng 11",
+      "voice": "Sau khi xuống đáy khoảng bốn mươi ba đến bốn mươi lăm nghìn đồng một ký hồi tháng mười, giá heo hơi nay phổ biến từ bốn mươi chín đến năm mươi sáu nghìn đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Nhu cầu hàng Tết",
+        "Thức ăn chăn nuôi tăng",
+        "Lo ngại dịch bệnh"
+      ],
+      "voice": "Lý do là nhu cầu chế biến thực phẩm cho Tết tăng, thức ăn chăn nuôi liên tục tăng giá, cùng lo ngại dịch bệnh."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá heo hơi (nghìn đồng/kg)",
+      "bars": [
+        {
+          "label": "Đáy tháng 10",
+          "value": 43
+        },
+        {
+          "label": "Cao nhất nay",
+          "value": 56
+        }
+      ],
+      "unit": "nghìn đồng/kg",
+      "voice": "Người nuôi cho biết giá thành trên năm mươi nghìn đồng, nên mức giá hiện nay chỉ quanh hòa vốn."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Đàn ~32 triệu con",
+        "Khó tăng đột biến",
+        "Thịt lẻ có thể nhích"
+      ],
+      "voice": "Tổng đàn khoảng ba mươi hai triệu con, nên giá được dự báo khó tăng đột biến cuối năm. Giá thịt bán lẻ có thể nhích theo, bạn nên để ý."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
