@@ -174,7 +174,10 @@ function localChromium() {
       .filter((d) => d.startsWith("chromium_headless_shell-"))
       .sort()
       .reverse()
-      .map((d) => path.join(root, d, "chrome-linux", "headless_shell"))
+      .flatMap((d) => [
+        path.join(root, d, "chrome-linux", "headless_shell"),
+        path.join(root, d, "chrome-headless-shell-linux64", "chrome-headless-shell"), // Playwright mới
+      ])
       .find((p) => fs.existsSync(p)) ?? null
   );
 }

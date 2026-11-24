@@ -1,0 +1,87 @@
+{
+  "title": "Giá dầu thế giới thấp nhất 3 tháng",
+  "caption": "Phiên 23/11, dầu Brent giảm 3,2 USD (3,46%) xuống 89,37 USD/thùng, WTI còn 80,17 USD/thùng – thấp nhất khoảng 3 tháng, do đường ống Sharara của Libya hoạt động lại và nguồn cung Trung Đông tăng. Trong nước, xăng E5 RON 92 đang khoảng 18.670 đồng/lít từ 19/11. Kỳ điều hành ngày 26/11 được dự báo có thể giảm, nhưng mức thực tế còn tùy giá thế giới, tỷ giá và quyết định của liên Bộ. Bạn đổ xăng mỗi tuần hết bao nhiêu? 👇\nNguồn: Thanh Niên, VietnamPlus, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#giaxang",
+    "#giadau",
+    "#xangdau",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Thanh Niên",
+      "title": "Giá xăng dầu hôm nay 24.11.2026: Giảm sâu, xuống mức thấp nhất trong 3 tháng",
+      "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-24112026-giam-sau-xuong-muc-thap-nhat-trong-3-thang-185261124084913483.htm",
+      "date": "24/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Căng thẳng Trung Đông tiếp tục chi phối diễn biến giá dầu thế giới",
+      "url": "https://vietnamplus.vn/cang-thang-trung-dong-tiep-tuc-chi-phoi-dien-bien-gia-dau-the-gioi-post1150162.vnp",
+      "date": "23/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Giá xăng về sát 19.000 đồng một lít",
+      "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-19-11-5146582.html",
+      "date": "19/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Giá dầu thế giới vừa giảm mạnh!",
+      "voice": "Giá dầu thế giới vừa giảm mạnh nhất nhiều tuần."
+    },
+    {
+      "type": "stat",
+      "label": "Dầu Brent phiên 23/11",
+      "value": "89,37",
+      "unit": "USD/thùng",
+      "change": "-3,46%",
+      "note": "Thấp nhất khoảng 3 tháng",
+      "voice": "Phiên hai mươi ba tháng mười một, dầu Brent giảm hơn ba phần trăm, còn tám mươi chín phẩy ba bảy đô la một thùng, thấp nhất khoảng ba tháng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Dầu Libya chảy lại",
+        "Trung Đông tăng cung",
+        "Lo dư cung 2027"
+      ],
+      "voice": "Nguyên nhân là đường ống dầu Sharara của Libya hoạt động trở lại, nguồn cung Trung Đông tăng, và thị trường lo dư cung năm sau."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá dầu phiên 23/11",
+      "bars": [
+        {
+          "label": "Brent",
+          "value": 89.37
+        },
+        {
+          "label": "WTI",
+          "value": 80.17
+        }
+      ],
+      "unit": "USD/thùng",
+      "voice": "Dầu WTI của Mỹ cũng giảm gần bốn phần trăm, còn khoảng tám mươi đô la một thùng."
+    },
+    {
+      "type": "points",
+      "heading": "Xăng trong nước",
+      "items": [
+        "E5: 18.670 đ/lít",
+        "Điều hành tới: 26/11"
+      ],
+      "voice": "Trong nước, xăng E5 đang khoảng mười tám nghìn sáu trăm bảy mươi đồng một lít. Kỳ điều hành ngày hai mươi sáu được dự báo có thể giảm, nhưng còn chờ quyết định của liên Bộ."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

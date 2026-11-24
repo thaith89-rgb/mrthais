@@ -1,0 +1,84 @@
+{
+  "title": "Đi làm ngày 24/11 được trả ít nhất 300% lương",
+  "caption": "Hôm nay 24/11 – Ngày Văn hóa Việt Nam – lần đầu là ngày nghỉ hưởng nguyên lương. Cán bộ, công chức nghỉ đúng 1 ngày, không hoán đổi. Nếu đồng ý đi làm hôm nay, người lao động được trả ít nhất 300% tiền lương, chưa kể lương ngày lễ, tổng tương đương khoảng 400%. Làm ban đêm còn được cộng thêm. Doanh nghiệp chỉ được huy động khi người lao động đồng ý; tiền thưởng dịp lễ không bắt buộc. Hôm nay bạn được nghỉ hay đi làm? 👇\nNguồn: Dân trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#tienluong",
+    "#nguoilaodong",
+    "#ngayvanhoavietnam",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Điều kiện lương, thưởng với người lao động trong ngày Văn hóa VN 24/11",
+      "url": "https://dantri.com.vn/lao-dong-viec-lam/dieu-kien-luong-thuong-voi-nguoi-lao-dong-trong-ngay-van-hoa-vn-2411-20261118150708522.htm",
+      "date": "19/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "38 luật, 18 nghị quyết được thông qua: Người dân cần chú ý gì?",
+      "url": "https://tuoitre.vn/38-luat-18-nghi-quyet-duoc-thong-qua-nguoi-dan-can-chu-y-gi-100261123095415339.htm",
+      "date": "23/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Đi làm hôm nay, lương gấp mấy lần?",
+      "voice": "Đi làm hôm nay, bạn được trả lương gấp mấy lần?"
+    },
+    {
+      "type": "stat",
+      "label": "Lương làm ngày lễ 24/11",
+      "value": "300",
+      "unit": "% tiền lương",
+      "note": "Mức tối thiểu",
+      "voice": "Hôm nay, Ngày Văn hóa Việt Nam, lần đầu là ngày nghỉ hưởng nguyên lương. Ai đi làm được trả ít nhất ba trăm phần trăm tiền lương."
+    },
+    {
+      "type": "chart",
+      "heading": "Tổng mức hưởng so với ngày thường",
+      "bars": [
+        {
+          "label": "Ngày thường",
+          "value": 100
+        },
+        {
+          "label": "Làm ngày lễ",
+          "value": 300
+        },
+        {
+          "label": "Tổng cộng",
+          "value": 400
+        }
+      ],
+      "unit": "% tiền lương",
+      "voice": "Cộng thêm tiền lương ngày lễ đã có trong lương tháng, tổng mức hưởng tương đương khoảng bốn trăm phần trăm."
+    },
+    {
+      "type": "points",
+      "heading": "Cần biết",
+      "items": [
+        "Công chức nghỉ 1 ngày",
+        "Phải được đồng ý",
+        "Ban đêm cộng thêm"
+      ],
+      "voice": "Cán bộ, công chức nghỉ đúng một ngày, không hoán đổi. Doanh nghiệp chỉ được huy động khi người lao động đồng ý. Làm ban đêm còn được cộng thêm."
+    },
+    {
+      "type": "points",
+      "heading": "Lưu ý",
+      "items": [
+        "Thưởng không bắt buộc",
+        "Giữ bảng chấm công"
+      ],
+      "voice": "Tiền thưởng dịp lễ không bắt buộc, tùy quy chế từng công ty. Nếu đi làm hôm nay, hãy giữ lại bảng chấm công để đối chiếu lương."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
