@@ -1,0 +1,82 @@
+{
+  "title": "Tháng 12: Cao điểm trả nợ trái phiếu doanh nghiệp",
+  "caption": "Theo dữ liệu FiinGroup, tháng 12/2026 doanh nghiệp phải trả khoảng 55.800 tỷ đồng gốc và lãi trái phiếu – cao nhất năm, gấp hơn 2 lần tháng 11 (24.700 tỷ). Từ đầu năm đến 10/11 đã trả 219.200 tỷ, khoảng 74% nghĩa vụ cả năm. Bất động sản là nhóm có nghĩa vụ lớn nhất. Năm 2027, tổng nghĩa vụ dự kiến 394.100 tỷ đồng. Nếu bạn đang nắm trái phiếu, hãy theo dõi công bố thông tin của tổ chức phát hành. 👇\nNguồn: Báo Đầu tư, Tuổi Trẻ (số liệu FiinGroup). Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#traiphieu",
+    "#doanhnghiep",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Báo Đầu tư",
+      "title": "Áp lực đáo hạn trái phiếu dự kiến tăng mạnh trong tháng 12",
+      "url": "https://baodautu.vn/ap-luc-dao-han-trai-phieu-du-kien-tang-manh-trong-thang-12-d747441.html",
+      "date": "23/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Tin tức sáng 24-11: TP.HCM tổ chức hội nghị giới thiệu Luật Phát triển đô thị đến đối tác quốc tế",
+      "url": "https://tuoitre.vn/tin-tuc-sang-24-11-tphcm-to-chuc-hoi-nghi-gioi-thieu-luat-phat-trien-do-thi-den-doi-tac-quoc-te-100261123192509685.htm",
+      "date": "24/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "55.800 tỷ trái phiếu đến hạn tháng 12",
+      "voice": "Năm mươi lăm nghìn tám trăm tỷ đồng trái phiếu đến hạn trong tháng mười hai."
+    },
+    {
+      "type": "stat",
+      "label": "Gốc + lãi tháng 12",
+      "value": "55.800",
+      "unit": "tỷ đồng",
+      "change": "+125,6%",
+      "note": "Cao nhất năm – FiinGroup",
+      "voice": "Theo FiinGroup, tháng mười hai doanh nghiệp phải trả khoảng năm mươi lăm nghìn tám trăm tỷ đồng gốc và lãi trái phiếu, cao nhất năm nay."
+    },
+    {
+      "type": "chart",
+      "heading": "Nghĩa vụ trả nợ",
+      "bars": [
+        {
+          "label": "Tháng 11",
+          "value": 24700
+        },
+        {
+          "label": "Tháng 12",
+          "value": 55800
+        }
+      ],
+      "unit": "tỷ đồng",
+      "voice": "Con số này gấp hơn hai lần tháng mười một, vốn chỉ khoảng hai mươi bốn nghìn bảy trăm tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Toàn cảnh",
+      "items": [
+        "Đã trả 74% cả năm",
+        "Bất động sản lớn nhất",
+        "2027: 394.100 tỷ"
+      ],
+      "voice": "Từ đầu năm, doanh nghiệp đã trả khoảng bảy mươi tư phần trăm nghĩa vụ. Bất động sản là nhóm có nghĩa vụ lớn nhất. Năm sau, tổng nghĩa vụ dự kiến gần bốn trăm nghìn tỷ đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Người giữ trái phiếu",
+      "items": [
+        "Theo dõi công bố",
+        "Xem lịch trả",
+        "Hỏi đơn vị bán"
+      ],
+      "voice": "Nếu đang nắm trái phiếu, hãy theo dõi công bố thông tin của tổ chức phát hành, kiểm tra lịch trả gốc lãi và hỏi rõ đơn vị phân phối."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

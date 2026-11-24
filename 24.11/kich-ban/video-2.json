@@ -1,0 +1,82 @@
+{
+  "title": "Lãi suất tiết kiệm tiếp tục giảm",
+  "caption": "Theo Dân trí, đến cuối tháng 10, cả 46/46 ngân hàng thương mại đã giảm lãi suất tiền gửi niêm yết 0,5–0,7 điểm % với kỳ hạn từ 6 tháng. Kỳ hạn 12 tháng hiện khoảng 4,8–7%/năm. Ngân hàng Nhà nước đang thanh tra, kiểm tra việc giảm lãi suất trong tháng 11; lãi vay cho sản xuất, kinh doanh cũng được yêu cầu giảm 1,5–2 điểm %. Lãi cao hơn chủ yếu đến từ ưu đãi có thời hạn – nhớ đọc kỹ điều kiện. Bạn đang gửi kỳ hạn bao lâu? 👇\nNguồn: Dân trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#laisuat",
+    "#guitietkiem",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Gửi tiết kiệm 500 triệu đồng, lãi suất cao nhất ở ngân hàng bao nhiêu?",
+      "url": "https://dantri.com.vn/kinh-doanh/gui-tiet-kiem-500-trieu-dong-lai-suat-cao-nhat-o-ngan-hang-bao-nhieu-20261124114431139.htm",
+      "date": "24/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Lãi suất tiết kiệm tiếp tục giảm, SCB đưa nhiều kỳ hạn về 0%",
+      "url": "https://www.vietnamplus.vn/lai-suat-tiet-kiem-tiep-tuc-xu-huong-giam-co-ngan-hang-dua-ve-0-post1149186.vnp",
+      "date": "18/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Gửi tiết kiệm đang lãi ít đi?",
+      "voice": "Gửi tiết kiệm đang ngày càng ít lãi hơn?"
+    },
+    {
+      "type": "stat",
+      "label": "Đã giảm lãi tiền gửi",
+      "value": "46/46",
+      "unit": "ngân hàng",
+      "change": "-0,5 → -0,7 điểm %",
+      "note": "Từ kỳ hạn 6 tháng",
+      "voice": "Đến cuối tháng mười, cả bốn mươi sáu ngân hàng thương mại đã giảm lãi suất tiền gửi từ không phẩy năm đến không phẩy bảy điểm phần trăm."
+    },
+    {
+      "type": "chart",
+      "heading": "Lãi tiết kiệm 12 tháng hiện nay",
+      "bars": [
+        {
+          "label": "Thấp nhất",
+          "value": 4.8
+        },
+        {
+          "label": "Cao nhất",
+          "value": 7.0
+        }
+      ],
+      "unit": "%/năm",
+      "voice": "Kỳ hạn mười hai tháng hiện chỉ còn khoảng bốn phẩy tám đến bảy phần trăm một năm."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Giảm ít nhất 0,5 điểm",
+        "NHNN thanh tra",
+        "Hạ lãi vay"
+      ],
+      "voice": "Ngân hàng được yêu cầu giảm ít nhất không phẩy năm điểm phần trăm, Ngân hàng Nhà nước đang thanh tra. Mục tiêu là hạ lãi vay cho sản xuất, kinh doanh."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Ưu đãi có hạn",
+        "Đọc kỹ điều kiện",
+        "So lãi niêm yết"
+      ],
+      "voice": "Mức lãi cao hơn thường đến từ ưu đãi có thời hạn. Hãy đọc kỹ điều kiện và so sánh biểu lãi niêm yết trước khi gửi."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
