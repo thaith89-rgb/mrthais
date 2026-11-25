@@ -1,0 +1,17 @@
+{
+  "title": "Xăng E5 rẻ hơn 7.450 đồng/lít sau 3 tuần",
+  "caption": "Từ đầu tháng 11, giá xăng dầu đã giảm 5 kỳ liên tiếp. Theo Dân trí, xăng E5 RON 92 giảm tổng cộng 7.450 đồng/lít, còn 18.570 đồng/lít; xăng E10 RON 95-III giảm 6.630 đồng, còn 19.100 đồng/lít; dầu diesel giảm 3.900 đồng, còn 26.340 đồng/lít. Giá dầu thế giới từng về mức thấp nhất 3 tháng nhưng sáng 25/11 đã tăng trở lại hơn 2%. Kỳ điều hành tiếp theo vào chiều thứ Năm 26/11 – mức giá cụ thể chờ liên Bộ Công Thương – Tài chính công bố. Bạn đổ xăng mỗi tuần hết bao nhiêu? 👇\nNguồn: Dân trí, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#giaxang", "#xangdau", "#tieudung", "#tintuc"],
+  "sources": [
+    { "name": "Dân trí", "title": "Giá dầu thế giới giảm sâu, xăng dầu trong nước sắp điều chỉnh", "url": "https://dantri.com.vn/kinh-doanh/gia-dau-the-gioi-giam-sau-xang-dau-trong-nuoc-sap-dieu-chinh-20261124184521132.htm", "date": "24/11/2026" },
+    { "name": "Thanh Niên", "title": "Giá xăng dầu hôm nay 25.11.2026: Thế giới tăng, trong nước chiều mai thế nào?", "url": "https://thanhnien.vn/gia-xang-dau-hom-nay-25112026-the-gioi-tang-trong-nuoc-chieu-mai-the-nao-185261125083843421.htm", "date": "25/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Xăng rẻ hơn 7.450 đồng mỗi lít?", "voice": "Đổ một lít xăng, bạn đang trả ít hơn bảy nghìn bốn trăm đồng?" },
+    { "type": "stat", "label": "Xăng E5 RON 92", "value": "18.570", "unit": "đồng/lít", "change": "-7.450", "note": "5 kỳ giảm từ đầu tháng 11", "voice": "Từ đầu tháng mười một, giá xăng đã giảm năm kỳ liên tiếp. Xăng E năm RON chín hai giảm tổng cộng bảy nghìn bốn trăm năm mươi đồng, còn mười tám nghìn năm trăm bảy mươi đồng một lít." },
+    { "type": "chart", "heading": "Đã giảm từ đầu tháng 11", "bars": [ { "label": "E5 RON 92", "value": 7450 }, { "label": "E10 RON 95", "value": 6630 }, { "label": "Diesel", "value": 3900 } ], "unit": "đồng/lít", "voice": "Xăng E mười RON chín lăm giảm sáu nghìn sáu trăm ba mươi đồng. Dầu diesel giảm ba nghìn chín trăm đồng một lít." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Dầu thế giới thấp nhất 3 tháng", "Lo ngại dư cung", "Sáng 25/11 dầu tăng lại 2%"], "voice": "Giá dầu thế giới từng xuống thấp nhất ba tháng do lo ngại dư cung. Tuy vậy, sáng nay dầu Brent đã tăng trở lại hơn hai phần trăm." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Điều chỉnh chiều 26/11", "Chờ giá công bố chính thức", "Dầu thế giới còn biến động"], "voice": "Kỳ điều hành tiếp theo vào chiều thứ Năm, hai mươi sáu tháng mười một. Hãy chờ giá công bố chính thức, vì dầu thế giới vẫn biến động." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

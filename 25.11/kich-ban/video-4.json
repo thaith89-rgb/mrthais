@@ -1,0 +1,17 @@
+{
+  "title": "Công đoàn TP.HCM chuyển khoản Tết sớm",
+  "caption": "Công đoàn TP.HCM bắt đầu chăm lo Tết Đinh Mùi 2027: dự kiến hỗ trợ khoảng 370.000 đoàn viên, người lao động khó khăn. Mức hỗ trợ tối đa 1 triệu đồng/người, chuyển khoản trực tiếp từ tối 23/11; trường hợp đặc biệt khó khăn (tai nạn lao động, bệnh nặng…) tối đa 2 triệu đồng. Ngoài ra có khoảng 7.500 vé xe, tàu, máy bay về quê và chợ Tết công đoàn. Công đoàn cũng đề nghị doanh nghiệp sớm công bố kế hoạch thưởng Tết, có thể tạm ứng trong tháng 11–12. Danh sách do công đoàn cơ sở lập – hãy hỏi công đoàn nơi bạn làm việc. Công ty bạn đã công bố thưởng Tết chưa? 👇\nNguồn: VietnamPlus, Thanh Niên. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#nguoilaodong", "#tet2027", "#congdoan", "#tintuc"],
+  "sources": [
+    { "name": "VietnamPlus", "title": "Chăm lo Tết Đinh Mùi 2027 cho 370.000 công nhân, người lao động khó khăn", "url": "https://www.vietnamplus.vn/cham-lo-tet-dinh-mui-2027-cho-370000-cong-nhan-nguoi-lao-dong-kho-khan-post1150213.vnp", "date": "23/11/2026" },
+    { "name": "Thanh Niên", "title": "Người lao động khó khăn ở TP.HCM được chuyển khoản 1 triệu đồng từ tối nay", "url": "https://thanhnien.vn/nguoi-lao-dong-kho-khan-o-tphcm-duoc-chuyen-khoan-1-trieu-dong-tu-toi-nay-185261123154407565.htm", "date": "23/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Tết chưa tới, đã có tiền chuyển khoản?", "voice": "Tết chưa tới, người lao động đã nhận tiền chuyển khoản?" },
+    { "type": "stat", "label": "Người lao động khó khăn dự kiến được hỗ trợ", "value": "370.000", "unit": "người", "note": "Công đoàn TP.HCM – Tết Đinh Mùi 2027", "voice": "Công đoàn Thành phố Hồ Chí Minh dự kiến chăm lo Tết cho khoảng ba trăm bảy mươi nghìn đoàn viên, người lao động khó khăn." },
+    { "type": "chart", "heading": "Mức hỗ trợ tối đa", "bars": [ { "label": "Khó khăn", "value": 1 }, { "label": "Đặc biệt khó khăn", "value": 2 } ], "unit": "triệu đồng/người", "voice": "Mỗi người được tối đa một triệu đồng, chuyển khoản trực tiếp từ tối hai mươi ba tháng mười một. Trường hợp đặc biệt khó khăn được tối đa hai triệu đồng." },
+    { "type": "points", "heading": "Còn có gì?", "items": ["7.500 vé về quê", "Chợ Tết công đoàn", "Đề nghị công bố thưởng sớm"], "voice": "Ngoài ra có khoảng bảy nghìn năm trăm vé xe, tàu, máy bay về quê và chợ Tết công đoàn. Công đoàn cũng đề nghị doanh nghiệp sớm công bố thưởng Tết." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Ưu tiên người khó khăn", "Danh sách qua công đoàn cơ sở", "Hỏi công đoàn nơi làm việc"], "voice": "Hỗ trợ ưu tiên người mất việc, bị nợ lương, tai nạn lao động hay bệnh nặng. Danh sách lập qua công đoàn cơ sở, hãy hỏi công đoàn nơi bạn làm việc." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

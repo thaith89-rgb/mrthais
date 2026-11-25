@@ -1,0 +1,18 @@
+{
+  "title": "Vàng quay đầu giảm mạnh",
+  "caption": "Sáng 25/11, vàng miếng SJC giảm 1,5 triệu đồng/lượng, còn 128,5–133,5 triệu đồng/lượng (mua vào – bán ra). Vàng thế giới mất khoảng 75–97 USD, về quanh 3.540–3.555 USD/ounce, do thị trường kỳ vọng Fed tăng lãi suất trong tháng 12 và chứng khoán Mỹ bị bán tháo. Giá trong nước vẫn cao hơn thế giới khoảng 22–23 triệu đồng/lượng; chênh lệch mua – bán SJC 5 triệu đồng. Giá biến động mạnh theo giờ – hãy xem bảng giá niêm yết mới nhất. Bạn đang theo dõi giá vàng hằng ngày chứ? 👇\nNguồn: VietnamPlus, Dân trí, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#vangSJC", "#tintuc"],
+  "sources": [
+    { "name": "VietnamPlus", "title": "Giá vàng trong nước giảm 1,5 triệu đồng, SJC về ngưỡng 133,5 triệu đồng", "url": "https://www.vietnamplus.vn/gia-vang-trong-nuoc-giam-15-trieu-dong-sjc-ve-nguong-1335-trieu-dong-post1150430.vnp", "date": "25/11/2026" },
+    { "name": "Dân trí", "title": "Vàng trong nước, quốc tế quay đầu giảm mạnh", "url": "https://dantri.com.vn/kinh-doanh/vang-trong-nuoc-quoc-te-quay-dau-giam-manh-20261125084422926.htm", "date": "25/11/2026" },
+    { "name": "Tuổi Trẻ", "title": "Giá vàng hôm nay 25-11: Vàng thế giới đảo chiều giảm sâu, bạc mất hơn 5%", "url": "https://tuoitre.vn/gia-vang-hom-nay-25-11-vang-the-gioi-dao-chieu-giam-sau-bac-mat-hon-5-100261125070231117.htm", "date": "25/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng vừa mất 1,5 triệu mỗi lượng?", "voice": "Sáng nay, mỗi lượng vàng miếng mất một triệu rưỡi đồng." },
+    { "type": "stat", "label": "Vàng miếng SJC (bán ra)", "value": "133,5", "unit": "triệu đồng/lượng", "change": "-1,5", "note": "Sáng 25/11", "voice": "Sáng hai mươi lăm tháng mười một, vàng miếng SJC giảm một triệu rưỡi, còn một trăm hai mươi tám phẩy năm triệu mua vào và một trăm ba mươi ba phẩy năm triệu đồng một lượng bán ra." },
+    { "type": "chart", "heading": "Trong nước và thế giới", "bars": [ { "label": "SJC bán ra", "value": 133.5 }, { "label": "Thế giới quy đổi", "value": 110.7 } ], "unit": "triệu đồng/lượng", "voice": "Vàng thế giới quy đổi chỉ khoảng một trăm mười một triệu đồng. Vàng trong nước vẫn đắt hơn khoảng hai mươi hai đến hai mươi ba triệu mỗi lượng." },
+    { "type": "points", "heading": "Vì sao giảm?", "items": ["Kỳ vọng Fed tăng lãi suất", "Chứng khoán Mỹ bị bán tháo", "Chờ số liệu lạm phát Mỹ"], "voice": "Thị trường kỳ vọng Fed tăng lãi suất trong tháng mười hai. Chứng khoán Mỹ bị bán tháo, nhà đầu tư phải bán vàng. Mọi người cũng đang chờ số liệu lạm phát của Mỹ." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Chênh mua – bán 5 triệu", "Giá đổi theo giờ", "Xem bảng giá niêm yết"], "voice": "Chênh lệch mua bán vàng miếng vẫn khoảng năm triệu đồng. Giá thay đổi theo từng giờ, hãy xem bảng giá niêm yết mới nhất." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

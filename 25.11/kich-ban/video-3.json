@@ -1,0 +1,17 @@
+{
+  "title": "Đường dây điện 1.050 km kéo điện ra Bắc",
+  "caption": "Bộ Công Thương đề xuất nghiên cứu sớm đường dây truyền tải điện một chiều (HVDC) ±800 kV dài khoảng 1.050 km, từ Nam Trung Bộ ra Đồng bằng sông Hồng, công suất 6.000–8.000 MW, vốn sơ bộ khoảng 3,47 tỷ USD. Đề xuất nằm trong đề án điều chỉnh Quy hoạch điện VIII đang lấy ý kiến; thời gian chuẩn bị và xây dựng có thể 7–10 năm. Hiện 4 mạch 500 kV Bắc – Nam có ngày cao điểm cấp gần 20% điện cho miền Bắc. Bạn có nhớ những đợt nắng nóng thiếu điện? 👇\nNguồn: VnExpress, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#nangluong", "#dien", "#quyhoachdien8", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Đề xuất nghiên cứu đường dây siêu cao áp hơn 1.000 km kéo điện ra Bắc", "url": "https://vnexpress.net/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-000-km-keo-dien-ra-bac-5148461.html", "date": "25/11/2026" },
+    { "name": "VietnamPlus", "title": "Đề xuất sớm nghiên cứu tuyến truyền tải điện siêu cao áp với tổng vốn đầu tư gần 3,5 tỷ USD", "url": "https://www.vietnamplus.vn/de-xuat-som-nghien-cuu-tuyen-truyen-tai-dien-sieu-cao-ap-voi-tong-von-dau-tu-gan-35-ty-usd-post1150465.vnp", "date": "25/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Đường dây điện dài 1.050 km?", "voice": "Một đường dây điện dài hơn một nghìn ki lô mét để kéo điện ra Bắc?" },
+    { "type": "stat", "label": "Vốn sơ bộ tuyến HVDC ±800 kV", "value": "3,47", "unit": "tỷ USD", "note": "Nam Trung Bộ → Đồng bằng sông Hồng", "voice": "Bộ Công Thương đề xuất nghiên cứu đường dây điện một chiều siêu cao áp, từ Nam Trung Bộ ra Đồng bằng sông Hồng. Vốn sơ bộ khoảng ba phẩy bốn bảy tỷ đô la Mỹ." },
+    { "type": "chart", "heading": "Điện truyền từ miền Trung ra Bắc", "bars": [ { "label": "2027", "value": 32.8 }, { "label": "2030", "value": 47.4 }, { "label": "2035", "value": 90.5 } ], "unit": "tỷ kWh", "voice": "Lượng điện truyền ra Bắc dự báo tăng từ ba mươi hai tỷ ki lô oát giờ năm hai không hai bảy, lên khoảng chín mươi tỷ vào năm hai không ba lăm." },
+    { "type": "points", "heading": "Vì sao cần?", "items": ["4 mạch 500 kV đã căng", "Cao điểm cấp gần 20% điện miền Bắc", "Chi phí thấp nhất các phương án"], "voice": "Bốn mạch năm trăm ki lô vôn hiện nay khó đáp ứng. Ngày nắng nóng, chúng cấp gần hai mươi phần trăm điện cho miền Bắc. Phương án này có chi phí thấp nhất trong các phương án được so sánh." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Mới là đề xuất", "Đang lấy ý kiến", "Cần 7–10 năm"], "voice": "Đây mới là đề xuất trong đề án điều chỉnh Quy hoạch điện tám, đang lấy ý kiến. Chuẩn bị và xây dựng có thể mất bảy đến mười năm." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
