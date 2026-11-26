@@ -1,0 +1,86 @@
+{
+  "title": "Dầu diesel giảm gần 1.400 đồng/lít",
+  "caption": "Từ 15h ngày 26/11, giá xăng dầu tiếp tục giảm. Theo Dân trí, dầu diesel giảm 1.380 đồng, còn 24.960 đồng/lít; xăng E5 RON 92 giảm 180 đồng, còn 18.390 đồng/lít; xăng E10 RON 95-III giảm 50 đồng, còn 19.050 đồng/lít; dầu mazut giảm 1.100 đồng/kg. Kỳ này liên Bộ Công Thương – Tài chính trích quỹ bình ổn 1.400 đồng/lít xăng, 500 đồng/lít diesel, không chi quỹ. Đây là mức giá bán lẻ tối đa, có thể lệch vài đồng giữa các doanh nghiệp. Bạn đổ xăng hay dầu nhiều hơn? 👇\nNguồn: Dân trí, VietnamPlus. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#giaxang",
+    "#xangdau",
+    "#tieudung",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Giá xăng dầu tiếp tục giảm, dầu diesel giảm gần 1.400 đồng/lít",
+      "url": "https://dantri.com.vn/kinh-doanh/gia-xang-dau-tiep-tuc-giam-dau-diesel-giam-gan-1400-donglit-20261126131300023.htm",
+      "date": "26/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "Giá xăng tiếp tục điều chỉnh, dầu diesel giảm gần 1.400 đồng từ 15 giờ hôm nay",
+      "url": "https://www.vietnamplus.vn/gia-xang-tiep-tuc-dieu-chinh-dau-diesel-giam-gan-1400-dong-tu-15-gio-hom-nay-post1150673.vnp",
+      "date": "26/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Dầu diesel vừa giảm gần 1.400 đồng?",
+      "voice": "Từ ba giờ chiều nay, mỗi lít dầu diesel rẻ đi gần một nghìn bốn trăm đồng."
+    },
+    {
+      "type": "stat",
+      "label": "Dầu diesel",
+      "value": "24.960",
+      "unit": "đồng/lít",
+      "change": "-1.380",
+      "note": "Từ 15h ngày 26/11",
+      "voice": "Từ ba giờ chiều nay, dầu diesel giảm một nghìn ba trăm tám mươi đồng, còn hai mươi bốn nghìn chín trăm sáu mươi đồng một lít."
+    },
+    {
+      "type": "chart",
+      "heading": "Giá mới (nghìn đồng/lít)",
+      "bars": [
+        {
+          "label": "Xăng E5",
+          "value": 18.39
+        },
+        {
+          "label": "Xăng E10",
+          "value": 19.05
+        },
+        {
+          "label": "Diesel",
+          "value": 24.96
+        }
+      ],
+      "unit": "nghìn đồng/lít",
+      "voice": "Xăng E năm còn mười tám nghìn ba trăm chín mươi đồng. Xăng E mười còn mười chín nghìn không trăm năm mươi đồng một lít."
+    },
+    {
+      "type": "points",
+      "heading": "Xăng giảm nhẹ",
+      "items": [
+        "E5: -180 đồng/lít",
+        "E10: -50 đồng/lít",
+        "Mazut: -1.100 đồng/kg"
+      ],
+      "voice": "Lần này xăng chỉ giảm nhẹ. E năm giảm một trăm tám mươi đồng, E mười giảm năm mươi đồng. Mazut giảm một nghìn một trăm đồng mỗi ký."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Giá bán tối đa",
+        "Có trích quỹ bình ổn",
+        "Đổi giá mỗi thứ Năm"
+      ],
+      "voice": "Đây là giá bán lẻ tối đa. Kỳ này có trích quỹ bình ổn. Giá được xem xét điều chỉnh vào thứ Năm hằng tuần."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
