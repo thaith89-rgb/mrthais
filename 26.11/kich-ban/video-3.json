@@ -1,0 +1,85 @@
+{
+  "title": "Sàn carbon gần 5 tháng, chỉ 7 giao dịch",
+  "caption": "Sàn giao dịch carbon tại HNX khai trương 29/6 với giá 130.000–136.000 đồng/tấn CO2. Theo Dân trí, đến 17/11 mới có 7 giao dịch hạn ngạch, khoảng 1.310 tấn CO2, trong khi tổng hạn ngạch phân bổ hơn 511 triệu tấn cho 110 cơ sở thép, xi măng, nhiệt điện than. Tại hội thảo sáng 26/11 (VnExpress), chuyên gia nhận định sàn gần như không có giao dịch: hạn ngạch miễn phí còn dư, doanh nghiệp thiếu động lực mua, chế tài chưa đủ mạnh. Kỳ thí điểm kéo dài đến 24/12/2027, đấu giá hạn ngạch dự kiến từ 2029. Bạn đã nghe về tín chỉ carbon chưa? 👇\nNguồn: VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#carbon",
+    "#moitruong",
+    "#doanhnghiep",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Sàn carbon Việt Nam gần như không có giao dịch",
+      "url": "https://vnexpress.net/san-carbon-viet-nam-gan-nhu-khong-co-giao-dich-5149207.html",
+      "date": "26/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Sàn giao dịch carbon ra sao sau gần 5 tháng vận hành?",
+      "url": "https://dantri.com.vn/kinh-doanh/san-giao-dich-carbon-ra-sao-sau-gan-5-thang-van-hanh-20261118074053085.htm",
+      "date": "18/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Gần 5 tháng, sàn carbon chỉ 7 giao dịch?",
+      "voice": "Gần năm tháng hoạt động, sàn carbon chỉ có bảy giao dịch?"
+    },
+    {
+      "type": "stat",
+      "label": "Giao dịch hạn ngạch carbon",
+      "value": "7",
+      "unit": "giao dịch",
+      "note": "29/6 – 17/11, theo Dân trí",
+      "voice": "Sàn carbon tại Sở Giao dịch Chứng khoán Hà Nội mở từ hai mươi chín tháng sáu. Đến mười bảy tháng mười một, mới có bảy giao dịch, khoảng một nghìn ba trăm tấn."
+    },
+    {
+      "type": "chart",
+      "heading": "Khối lượng giao dịch",
+      "bars": [
+        {
+          "label": "Ngày 29/6",
+          "value": 1210
+        },
+        {
+          "label": "Ngày 15/9",
+          "value": 100
+        },
+        {
+          "label": "15/9–17/11",
+          "value": 0
+        }
+      ],
+      "unit": "tấn CO2",
+      "voice": "Phần lớn giao dịch diễn ra ngay ngày khai trương. Từ giữa tháng chín, gần như không có thêm lệnh nào."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao ít?",
+      "items": [
+        "Hạn ngạch còn dư",
+        "Thiếu động lực mua",
+        "Chế tài chưa mạnh"
+      ],
+      "voice": "Theo chuyên gia, hạn ngạch cấp miễn phí còn dư, doanh nghiệp chưa có động lực mua, còn chế tài chưa đủ mạnh."
+    },
+    {
+      "type": "points",
+      "heading": "Sắp tới",
+      "items": [
+        "Thí điểm đến 24/12/2027",
+        "2027: thẩm tra độc lập",
+        "2029: đấu giá"
+      ],
+      "voice": "Thí điểm kéo dài đến cuối năm hai không hai bảy. Từ năm sau cần thẩm tra độc lập. Đấu giá hạn ngạch dự kiến từ năm hai không hai chín."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Mỹ đề xuất thuế bổ sung tới 35% với hàng Việt",
+  "caption": "Tối 25/11 (giờ Việt Nam), Cơ quan Đại diện Thương mại Mỹ (USTR) công bố kết luận sơ bộ cuộc điều tra theo Mục 301 về dư thừa công suất, đề xuất thuế bổ sung tối đa 35% với hàng nhập khẩu từ Việt Nam vào Mỹ. Mức này có thể giảm còn 20% nếu hai nước đạt hiệp định thương mại đối ứng. USTR cũng đề xuất miễn trừ 2.121 mặt hàng. Theo Bộ Công Thương, đây mới là đề xuất, chưa có hiệu lực; phiên điều trần dự kiến từ 25/1/2027, quyết định cuối cùng sớm nhất tháng 2 và muộn nhất 11/3/2027. Việt Nam sẽ tham gia phản biện và tiếp tục đàm phán. Bạn làm trong ngành xuất khẩu không? 👇\nNguồn: VietnamPlus, Tiền Phong. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#xuatkhau",
+    "#thuequan",
+    "#thuongmai",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VietnamPlus",
+      "title": "Mỹ đề xuất thuế bổ sung tối đa 35% với hàng hóa nhập khẩu từ Việt Nam",
+      "url": "https://www.vietnamplus.vn/hoa-ky-ban-hanh-ket-luan-so-bo-vu-dieu-tra-theo-muc-301-ve-du-thua-cong-suat-post1150591.vnp",
+      "date": "26/11/2026"
+    },
+    {
+      "name": "Tiền Phong",
+      "title": "Bộ Công Thương nói gì việc Mỹ đề xuất áp thuế bổ sung tới 35% với hàng Việt?",
+      "url": "https://tienphong.vn/bo-cong-thuong-noi-gi-viec-my-de-xuat-ap-thue-bo-sung-toi-35-voi-hang-viet-post1897565.tpo",
+      "date": "26/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Hàng Việt sang Mỹ có thể chịu thêm 35% thuế?",
+      "voice": "Hàng Việt bán sang Mỹ có thể chịu thêm thuế tới ba mươi lăm phần trăm?"
+    },
+    {
+      "type": "stat",
+      "label": "Thuế bổ sung đề xuất",
+      "value": "35",
+      "unit": "%",
+      "note": "Kết luận sơ bộ, chưa có hiệu lực",
+      "voice": "Tối qua, Cơ quan Đại diện Thương mại Mỹ công bố kết luận sơ bộ điều tra theo Mục ba trăm linh một, đề xuất thuế bổ sung tối đa ba mươi lăm phần trăm với hàng Việt Nam."
+    },
+    {
+      "type": "chart",
+      "heading": "Mức thuế đề xuất",
+      "bars": [
+        {
+          "label": "Tối đa",
+          "value": 35
+        },
+        {
+          "label": "Nếu có hiệp định",
+          "value": 20
+        }
+      ],
+      "unit": "%",
+      "voice": "Mức này có thể giảm còn hai mươi phần trăm, nếu hai nước đạt hiệp định thương mại đối ứng."
+    },
+    {
+      "type": "points",
+      "heading": "Điều cần biết",
+      "items": [
+        "14/16 nền kinh tế",
+        "Miễn trừ 2.121 mặt hàng",
+        "Việt Nam sẽ đàm phán"
+      ],
+      "voice": "Đề xuất áp cho mười bốn nền kinh tế, kèm hai nghìn một trăm hai mươi mốt mặt hàng được miễn trừ. Bộ Công Thương cho biết sẽ phản biện và tiếp tục đàm phán."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Chưa có hiệu lực",
+        "Điều trần từ 25/1/2027",
+        "Chốt muộn nhất 11/3/2027"
+      ],
+      "voice": "Đây mới là đề xuất, chưa có hiệu lực. Điều trần từ hai mươi lăm tháng một. Quyết định cuối cùng muộn nhất ngày mười một tháng ba năm sau."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
