@@ -1,0 +1,87 @@
+{
+  "title": "Thủ tướng: Thuế Mỹ sẽ thấp hơn nhiều mức 35%",
+  "caption": "Sáng 27/11, tại lễ kỷ niệm 30 năm ngành chứng khoán, Thủ tướng Lê Minh Hưng cho biết Việt Nam đã cơ bản kết thúc đàm phán Hiệp định thương mại đối ứng với Mỹ; hai bên đang hoàn tất vấn đề kỹ thuật để ký và mức thuế áp dụng sẽ thấp hơn nhiều so với mức tối đa phía Mỹ vừa công bố. Theo đề xuất ngày 25/11 của USTR, thuế bổ sung tối đa với hàng Việt là 35%, có thể giảm còn 20% nếu đạt hiệp định. Đây mới là đề xuất, chưa có hiệu lực; quyết định cuối cùng sớm nhất tháng 2/2027. Mỹ là thị trường xuất khẩu lớn nhất, 10 tháng đạt 159,4 tỷ USD. Bạn nghĩ sao? 👇\nNguồn: VnExpress, Báo Chính phủ, Tuổi Trẻ. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#xuatkhau",
+    "#thuequan",
+    "#thuongmai",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Thủ tướng: Thuế Mỹ áp với Việt Nam sẽ thấp hơn nhiều mức 35%",
+      "url": "https://vnexpress.net/thu-tuong-thue-my-ap-voi-viet-nam-se-thap-hon-nhieu-muc-35-5149602.html",
+      "date": "27/11/2026"
+    },
+    {
+      "name": "Báo Chính phủ",
+      "title": "Thủ tướng: Mức thuế áp dụng sẽ thấp hơn nhiều so với mức tối đa dự kiến mà phía Hoa Kỳ công bố",
+      "url": "https://baochinhphu.vn/thu-tuong-muc-thue-ap-dung-se-thap-hon-nhieu-so-voi-muc-toi-da-du-kien-ma-phia-hoa-ky-cong-bo-10226112710532972.htm",
+      "date": "27/11/2026"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Thủ tướng báo tin vui về thuế quan Mỹ tại lễ kỷ niệm 30 năm ngành chứng khoán",
+      "url": "https://tuoitre.vn/thu-tuong-bao-tin-vui-ve-thue-quan-my-tai-le-ky-niem-30-nam-nganh-chung-khoan-100261127101734588.htm",
+      "date": "27/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Thuế Mỹ với hàng Việt sẽ dưới 35%?",
+      "voice": "Thủ tướng vừa cho biết: thuế Mỹ áp với hàng Việt sẽ thấp hơn nhiều mức ba mươi lăm phần trăm."
+    },
+    {
+      "type": "stat",
+      "label": "Xuất khẩu sang Mỹ 10 tháng",
+      "value": "159,4",
+      "unit": "tỷ USD",
+      "note": "Thị trường xuất khẩu lớn nhất",
+      "voice": "Mỹ là thị trường xuất khẩu lớn nhất của Việt Nam. Mười tháng đầu năm, hàng Việt sang Mỹ đạt một trăm năm mươi chín phẩy bốn tỷ đô la."
+    },
+    {
+      "type": "points",
+      "heading": "Thủ tướng nói gì?",
+      "items": [
+        "Cơ bản kết thúc đàm phán",
+        "Đang hoàn tất kỹ thuật để ký",
+        "Thuế thấp hơn nhiều mức tối đa"
+      ],
+      "voice": "Sáng nay, Thủ tướng Lê Minh Hưng cho biết Việt Nam đã cơ bản kết thúc đàm phán hiệp định thương mại đối ứng với Mỹ, đang hoàn tất kỹ thuật để ký."
+    },
+    {
+      "type": "chart",
+      "heading": "Đề xuất của Mỹ ngày 25/11 (%)",
+      "bars": [
+        {
+          "label": "Tối đa",
+          "value": 35
+        },
+        {
+          "label": "Nếu có hiệp định",
+          "value": 20
+        }
+      ],
+      "unit": "%",
+      "voice": "Theo đề xuất của phía Mỹ, thuế bổ sung tối đa là ba mươi lăm phần trăm, có thể giảm còn hai mươi phần trăm nếu hai nước đạt hiệp định."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "35% mới là đề xuất",
+        "Chưa có con số chính thức",
+        "Quyết định sớm nhất tháng 2/2027"
+      ],
+      "voice": "Mức ba mươi lăm phần trăm mới là đề xuất, chưa có con số chính thức. Quyết định cuối cùng sớm nhất vào tháng hai năm sau."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

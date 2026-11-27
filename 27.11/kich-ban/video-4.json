@@ -1,0 +1,16 @@
+{
+  "title": "Măng cụt trái vụ 180.000 đồng/kg tại vườn",
+  "caption": "Theo Dân trí, sáng 27/11 măng cụt trái vụ ở Tiên Phước (Đà Nẵng, tỉnh Quảng Nam cũ) được thương lái mua tại vườn 180.000 đồng/kg, tăng từ 150.000 đồng/kg ngày 25/11; hàng đẹp tới 190.000 đồng/kg – gấp khoảng ba lần giá chính vụ tháng 7–8 (60.000–70.000 đồng/kg). Lý do: sản lượng ít, vườn ra trái không đều, thiếu hàng từ Tây Nguyên và Đông Nam Bộ, nhà vườn bán online bớt trung gian. Bán lẻ tại TP.HCM 220.000–250.000 đồng/kg. Bạn đã ăn măng cụt trái vụ chưa? 👇\nNguồn: Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#nongsan", "#mangcut", "#giaca", "#tintuc"],
+  "sources": [
+    { "name": "Dân trí", "title": "Măng cụt trái vụ đắt gấp ba, giá tại vườn 180.000 đồng/kg", "url": "https://dantri.com.vn/kinh-doanh/mang-cut-trai-vu-dat-gap-ba-gia-tai-vuon-180000-dongkg-20261127121629601.htm", "date": "27/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Măng cụt trái vụ đắt gấp ba?", "voice": "Măng cụt trái vụ đang đắt gấp khoảng ba lần chính vụ." },
+    { "type": "stat", "label": "Măng cụt tại vườn", "value": "180.000", "unit": "đồng/kg", "change": "+30.000", "note": "Tiên Phước (Đà Nẵng) – sáng 27/11", "voice": "Sáng hai mươi bảy tháng mười một, măng cụt ở Tiên Phước, Đà Nẵng được mua tại vườn một trăm tám mươi nghìn đồng một ký, tăng ba mươi nghìn đồng chỉ sau hai ngày." },
+    { "type": "chart", "heading": "Giá tại vườn (nghìn đồng/kg)", "bars": [ { "label": "Chính vụ", "value": 70 }, { "label": "25/11", "value": 150 }, { "label": "27/11", "value": 180 } ], "unit": "nghìn đồng/kg", "voice": "Vào chính vụ tháng bảy, tháng tám, giá chỉ khoảng sáu mươi đến bảy mươi nghìn đồng. Hàng đẹp lúc này có thể lên một trăm chín mươi nghìn đồng một ký." },
+    { "type": "points", "heading": "Vì sao đắt?", "items": ["Sản lượng ít, ra trái không đều", "Thiếu hàng Tây Nguyên, Đông Nam Bộ", "Bán online, bớt trung gian"], "voice": "Sản lượng ít, vườn ra trái không đều. Thời điểm này thiếu hàng từ Tây Nguyên và Đông Nam Bộ. Nhà vườn bán trực tiếp qua mạng nên bớt khâu trung gian." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Bán lẻ TP.HCM 220.000–250.000đ/kg", "Còn một đợt thu hoạch dịp Tết", "Giá thay đổi theo ngày"], "voice": "Tại Thành phố Hồ Chí Minh, giá bán lẻ khoảng hai trăm hai mươi đến hai trăm năm mươi nghìn đồng một ký. Sau đợt này, vườn còn một đợt thu hoạch phục vụ dịp Tết." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
