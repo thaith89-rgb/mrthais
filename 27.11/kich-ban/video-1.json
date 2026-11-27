@@ -1,0 +1,90 @@
+{
+  "title": "Vàng SJC tăng 1 triệu, lên 135,5 triệu/lượng",
+  "caption": "Sáng 27/11, vàng miếng SJC tăng 1 triệu đồng/lượng, lên 130,5 – 135,5 triệu đồng/lượng (mua – bán). Vàng nhẫn SJC 129,3 – 135,3 triệu. Giá thế giới tăng lên quanh 3.632 USD/ounce; giá trong nước cao hơn thế giới khoảng 21,5 triệu đồng/lượng, chênh lệch mua – bán vàng miếng 5 triệu đồng. Giá có thể thay đổi nhiều lần trong ngày. Bạn đang giữ vàng hay tiền? 👇\nNguồn: Dân trí, Nhân Dân. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#giavang",
+    "#vangSJC",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Dân trí",
+      "title": "Vàng trong nước, thế giới đồng loạt tăng giá",
+      "url": "https://dantri.com.vn/kinh-doanh/vang-trong-nuoc-the-gioi-dong-loat-tang-gia-20261127102222391.htm",
+      "date": "27/11/2026"
+    },
+    {
+      "name": "Nhân Dân",
+      "title": "Giá vàng hôm nay, 27/11: Vàng miếng SJC tăng 1 triệu đồng/lượng",
+      "url": "https://nhandan.vn/gia-vang-ngay-2711-vang-mieng-vang-nhan-dong-loat-tang-post1005803.html",
+      "date": "27/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Vàng SJC lại tăng 1 triệu đồng?",
+      "voice": "Sáng nay, mỗi lượng vàng miếng SJC đắt thêm một triệu đồng."
+    },
+    {
+      "type": "stat",
+      "label": "Vàng miếng SJC (bán ra)",
+      "value": "135,5",
+      "unit": "triệu đồng/lượng",
+      "change": "+1",
+      "note": "Mua vào 130,5 – sáng 27/11",
+      "voice": "Vàng miếng SJC bán ra một trăm ba mươi lăm phẩy năm triệu đồng một lượng, tăng một triệu so với hôm qua."
+    },
+    {
+      "type": "chart",
+      "heading": "Vàng nhẫn bán ra (triệu đồng/lượng)",
+      "bars": [
+        {
+          "label": "SJC",
+          "value": 135.3
+        },
+        {
+          "label": "BTMC",
+          "value": 134
+        },
+        {
+          "label": "DOJI",
+          "value": 133.5
+        },
+        {
+          "label": "PNJ",
+          "value": 132.5
+        }
+      ],
+      "unit": "triệu đồng/lượng",
+      "voice": "Vàng nhẫn cũng ở vùng cao, từ một trăm ba mươi hai phẩy năm đến một trăm ba mươi lăm phẩy ba triệu đồng."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao tăng?",
+      "items": [
+        "Thế giới tăng khoảng 70 USD/ounce",
+        "Lên quanh 3.632 USD/ounce",
+        "Tâm lý né rủi ro"
+      ],
+      "voice": "Giá thế giới tăng khoảng bảy mươi đô la, lên quanh ba nghìn sáu trăm ba mươi hai đô la một ounce, do tâm lý né rủi ro."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Mua – bán chênh 5 triệu/lượng",
+        "Cao hơn thế giới ~21,5 triệu",
+        "Giá đổi nhiều lần trong ngày"
+      ],
+      "voice": "Vàng miếng chênh mua bán năm triệu đồng, cao hơn thế giới khoảng hai mươi mốt triệu rưỡi. Giá có thể đổi nhiều lần trong ngày."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

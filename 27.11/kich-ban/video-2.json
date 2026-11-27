@@ -1,0 +1,88 @@
+{
+  "title": "VN-Index mất gần 58 điểm trong một phiên",
+  "caption": "Phiên 26/11, VN-Index giảm 57,77 điểm (-3,42%), đóng cửa ở 1.629,68 điểm, sau khi Mỹ đề xuất thuế bổ sung tối đa 35% với hàng Việt Nam. Khối ngoại bán ròng mạnh. Theo VnExpress, từ đầu năm VN-Index giảm 5,4%, khối ngoại bán ròng hơn 130.000 tỷ đồng; thanh khoản 3 tháng gần đây khoảng 12.300 tỷ đồng/phiên. Sáng 27/11, chỉ số có lúc hồi phục hơn 30 điểm. Lưu ý: mức thuế 35% mới là đề xuất, chưa có hiệu lực. Bạn theo dõi chứng khoán không? 👇\nNguồn: Tuổi Trẻ, VietnamPlus, VnExpress, Dân trí. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#chungkhoan",
+    "#vnindex",
+    "#taichinh",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "Tuổi Trẻ",
+      "title": "Áp lực bán dồn dập phiên chiều, VN-Index giảm gần 60 điểm",
+      "url": "https://tuoitre.vn/ap-luc-ban-don-dap-phien-chieu-vn-index-giam-gan-60-diem-100261126152251911.htm",
+      "date": "26/11/2026"
+    },
+    {
+      "name": "VietnamPlus",
+      "title": "VN-Index mất gần 58 điểm sau đề xuất thuế 35% của Mỹ",
+      "url": "https://www.vietnamplus.vn/chung-khoan-giam-gan-60-diem-sau-de-xuat-thue-cua-my-voi-14-doi-tac-post1150731.vnp",
+      "date": "26/11/2026"
+    },
+    {
+      "name": "VnExpress",
+      "title": "Nhà đầu tư chứng khoán 'kiệt sức'",
+      "url": "https://vnexpress.net/nha-dau-tu-chung-khoan-kiet-suc-5149348.html",
+      "date": "27/11/2026"
+    },
+    {
+      "name": "Dân trí",
+      "title": "Vừa mở cửa, chứng khoán đảo chiều tăng hơn 30 điểm",
+      "url": "https://dantri.com.vn/kinh-doanh/vua-mo-cua-chung-khoan-dao-chieu-tang-hon-30-diem-20261127100111040.htm",
+      "date": "27/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "VN-Index mất gần 58 điểm một phiên?",
+      "voice": "Chỉ trong một phiên, VN-Index bốc hơi gần năm mươi tám điểm."
+    },
+    {
+      "type": "stat",
+      "label": "VN-Index phiên 26/11",
+      "value": "1.629,68",
+      "unit": "điểm",
+      "change": "-3,42%",
+      "note": "Giảm 57,77 điểm",
+      "voice": "Phiên hai mươi sáu tháng mười một, VN-Index giảm ba phẩy bốn hai phần trăm, còn một nghìn sáu trăm hai mươi chín điểm."
+    },
+    {
+      "type": "points",
+      "heading": "Vì sao giảm?",
+      "items": [
+        "Mỹ đề xuất thuế tới 35%",
+        "Khối ngoại bán ròng mạnh",
+        "Bán dồn dập phiên chiều"
+      ],
+      "voice": "Thị trường phản ứng với đề xuất thuế tới ba mươi lăm phần trăm của Mỹ. Khối ngoại bán ròng mạnh, lực bán dồn vào buổi chiều."
+    },
+    {
+      "type": "points",
+      "heading": "Từ đầu năm",
+      "items": [
+        "VN-Index giảm 5,4%",
+        "Khối ngoại bán ròng >130.000 tỷ",
+        "Thanh khoản ~12.300 tỷ/phiên"
+      ],
+      "voice": "Từ đầu năm, VN-Index giảm năm phẩy bốn phần trăm. Khối ngoại bán ròng hơn một trăm ba mươi nghìn tỷ. Thanh khoản gần đây chỉ khoảng mười hai nghìn tỷ mỗi phiên."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Thuế 35% mới là đề xuất",
+        "Sáng 27/11 hồi hơn 30 điểm",
+        "Theo dõi nguồn chính thống"
+      ],
+      "voice": "Mức thuế ba mươi lăm phần trăm mới là đề xuất. Sáng nay chỉ số có lúc hồi hơn ba mươi điểm. Hãy theo dõi nguồn tin chính thống."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}
