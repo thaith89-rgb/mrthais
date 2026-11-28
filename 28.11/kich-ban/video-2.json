@@ -1,0 +1,17 @@
+{
+  "title": "Vàng miếng lên 136 triệu, tăng 2,5 triệu trong tuần",
+  "caption": "Kết thúc tuần, vàng miếng ở các thương hiệu lớn quanh 131 – 136 triệu đồng/lượng (mua – bán), tăng khoảng 2,5 triệu đồng so với tuần trước. Vàng nhẫn khoảng 130,8 – 135,8 triệu. Giá thế giới quanh 3.655 USD/ounce, quy đổi khoảng 114,7 triệu đồng/lượng (chưa thuế phí) – thấp hơn trong nước khoảng 21 triệu. Chênh lệch mua – bán khoảng 5 triệu đồng/lượng. Giá có thể thay đổi trong ngày. Bạn đang giữ vàng hay tiền? 👇\nNguồn: Dân trí, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#giavang", "#vangSJC", "#tintuc"],
+  "sources": [
+    { "name": "Dân trí", "title": "Giá vàng miếng SJC, vàng nhẫn tăng trở lại", "url": "https://dantri.com.vn/kinh-doanh/gia-vang-mieng-sjc-vang-nhan-tang-tro-lai-20261128062230566.htm", "date": "28/11/2026" },
+    { "name": "VnExpress", "title": "Mỗi lượng vàng tăng 1,5 triệu đồng, lên cao nhất một tuần", "url": "https://vnexpress.net/moi-luong-vang-tang-1-5-trieu-dong-len-cao-nhat-mot-tuan-5149683.html", "date": "27/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Vàng tăng 2,5 triệu chỉ trong một tuần?", "voice": "Chỉ trong một tuần, mỗi lượng vàng miếng đắt thêm khoảng hai triệu rưỡi." },
+    { "type": "stat", "label": "Vàng miếng (bán ra)", "value": "136", "unit": "triệu đồng/lượng", "change": "+2,5", "note": "So với tuần trước – mua vào 131", "voice": "Kết thúc tuần, vàng miếng bán ra khoảng một trăm ba mươi sáu triệu đồng một lượng, tăng khoảng hai triệu rưỡi so với tuần trước." },
+    { "type": "chart", "heading": "Vàng nhẫn bán ra 27/11 (triệu/lượng)", "bars": [{ "label": "SJC", "value": 135.8 }, { "label": "DOJI", "value": 134 }, { "label": "PNJ", "value": 133 }], "unit": "triệu đồng/lượng", "voice": "Vàng nhẫn cũng ở vùng cao, từ một trăm ba mươi ba đến gần một trăm ba mươi sáu triệu đồng một lượng." },
+    { "type": "points", "heading": "Vì sao tăng?", "items": ["Thế giới tăng hơn 87 USD/ounce", "Lên quanh 3.655 USD/ounce", "Trong nước đi theo thế giới"], "voice": "Giá thế giới phiên cuối tuần tăng hơn tám mươi bảy đô la, lên quanh ba nghìn sáu trăm năm mươi lăm đô la một ounce, kéo giá trong nước đi lên." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Mua – bán chênh khoảng 5 triệu", "Cao hơn thế giới ~21 triệu", "Giá đổi nhiều lần trong ngày"], "voice": "Chênh lệch mua bán khoảng năm triệu đồng, giá trong nước cao hơn thế giới khoảng hai mươi mốt triệu. Giá có thể thay đổi nhiều lần trong ngày." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
