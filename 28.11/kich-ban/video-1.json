@@ -1,0 +1,76 @@
+{
+  "title": "Moody's nâng hạng tín nhiệm Việt Nam lên Ba1",
+  "caption": "Ngày 27/11, Moody's nâng xếp hạng tín nhiệm quốc gia của Việt Nam từ Ba2 lên Ba1, triển vọng \"Ổn định\" (theo Bộ Tài chính). Ba1 chỉ còn cách nhóm \"mức đầu tư\" một bậc. Moody's đánh giá cao cải cách thể chế, GDP 9 tháng tăng khoảng 9%, vốn FDI đăng ký 10 tháng tăng 74%, nợ Chính phủ thấp (khoảng 30% GDP). Bộ Tài chính kỳ vọng việc nâng hạng giúp tăng niềm tin nhà đầu tư và dễ huy động vốn dài hạn hơn. Bạn nghĩ tin này ảnh hưởng gì tới kinh tế? 👇\nNguồn: VnExpress, VTV. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": [
+    "#kinhte",
+    "#taichinh",
+    "#moodys",
+    "#xephangtinnhiem",
+    "#tintuc"
+  ],
+  "sources": [
+    {
+      "name": "VnExpress",
+      "title": "Moody's nâng xếp hạng tín nhiệm Việt Nam lên sát ngưỡng đầu tư",
+      "url": "https://vnexpress.net/moody-s-nang-xep-hang-tin-nhiem-viet-nam-len-sat-nguong-dau-tu-5149782.html",
+      "date": "27/11/2026"
+    },
+    {
+      "name": "VTV",
+      "title": "Moody's nâng xếp hạng tín nhiệm quốc gia của Việt Nam lên mức Ba1, triển vọng \"Ổn định\"",
+      "url": "https://vtv.vn/moodys-nang-xep-hang-tin-nhiem-quoc-gia-cua-viet-nam-len-muc-ba1-trien-vong-on-dinh-100261128063442919.htm",
+      "date": "28/11/2026"
+    }
+  ],
+  "scenes": [
+    {
+      "type": "hook",
+      "text": "Việt Nam vừa được Moody's nâng hạng?",
+      "voice": "Việt Nam vừa được Moody's nâng hạng tín nhiệm quốc gia."
+    },
+    {
+      "type": "stat",
+      "label": "Xếp hạng tín nhiệm quốc gia",
+      "value": "Ba1",
+      "unit": "triển vọng Ổn định",
+      "change": "+1 bậc",
+      "note": "Từ Ba2 – công bố ngày 27/11",
+      "voice": "Theo Bộ Tài chính, ngày hai mươi bảy tháng mười một, Moody's nâng hạng Việt Nam từ Ba hai lên Ba một, triển vọng ổn định."
+    },
+    {
+      "type": "points",
+      "heading": "Ba1 nghĩa là gì?",
+      "items": [
+        "Còn 1 bậc tới mức đầu tư",
+        "Trần ngoại tệ lên Baa3",
+        "Sau R&I nâng hạng hồi 8/10"
+      ],
+      "voice": "Ba một chỉ còn cách nhóm mức đầu tư một bậc. Trước đó, ngày tám tháng mười, tổ chức R and I của Nhật cũng đã nâng hạng Việt Nam."
+    },
+    {
+      "type": "points",
+      "heading": "Moody's dựa vào gì?",
+      "items": [
+        "GDP 9 tháng tăng khoảng 9%",
+        "FDI đăng ký 10 tháng +74%",
+        "Nợ Chính phủ ~30% GDP"
+      ],
+      "voice": "Moody's ghi nhận cải cách thể chế, GDP chín tháng tăng khoảng chín phần trăm, vốn FDI đăng ký tăng bảy mươi tư phần trăm, và nợ Chính phủ thấp, khoảng ba mươi phần trăm GDP."
+    },
+    {
+      "type": "points",
+      "heading": "Nên lưu ý",
+      "items": [
+        "Giúp huy động vốn dài hạn dễ hơn",
+        "Chưa phải mức đầu tư",
+        "Cần cải thiện minh bạch dữ liệu"
+      ],
+      "voice": "Bộ Tài chính kỳ vọng việc huy động vốn dài hạn sẽ dễ hơn. Nhưng Ba một vẫn chưa phải mức đầu tư, và Moody's lưu ý cần cải thiện minh bạch dữ liệu."
+    },
+    {
+      "type": "cta",
+      "text": "Theo dõi để cập nhật 17h mỗi ngày",
+      "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày."
+    }
+  ]
+}

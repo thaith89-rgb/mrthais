@@ -1,0 +1,16 @@
+{
+  "title": "Xà lách nhập khẩu tăng hơn 232% trong 9 tháng",
+  "caption": "Theo số liệu Hải quan được VnExpress dẫn, 9 tháng năm nay Việt Nam nhập khoảng 32,7 triệu USD súp lơ (tăng 188%) và 21,7 triệu USD xà lách (tăng 232%), hơn 90% từ Trung Quốc. Hàng nhập rẻ hơn, mẫu mã đồng đều, trong khi mưa bão làm rau Đà Lạt giảm nguồn cung. Tại một chợ ở TP.HCM, súp lơ xanh Đà Lạt khoảng 60.000 đồng/kg, hàng nhập khoảng 40.000 – 50.000 đồng/kg. Bạn chọn rau theo giá hay theo nguồn gốc? 👇\nNguồn: VnExpress (số liệu Hải quan). Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#giaca", "#nongsan", "#rauxanh", "#tintuc"],
+  "sources": [
+    { "name": "VnExpress", "title": "Vì sao súp lơ, xà lách Trung Quốc vào Việt Nam tăng đột biến?", "url": "https://vnexpress.net/vi-sao-sup-lo-xa-lach-trung-quoc-vao-viet-nam-tang-dot-bien-5149841.html", "date": "28/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Xà lách nhập khẩu tăng hơn 3 lần?", "voice": "Xà lách nhập khẩu vào Việt Nam tăng hơn ba lần chỉ trong chín tháng." },
+    { "type": "stat", "label": "Xà lách nhập khẩu 9 tháng", "value": "21,7", "unit": "triệu USD", "change": "+232%", "note": "Theo Hải quan, hơn 90% từ Trung Quốc", "voice": "Theo số liệu Hải quan được VnExpress dẫn, chín tháng năm nay, xà lách nhập khẩu đạt khoảng hai mươi mốt phẩy bảy triệu đô la, tăng hai trăm ba mươi hai phần trăm." },
+    { "type": "chart", "heading": "Mức tăng nhập khẩu 9 tháng (%)", "bars": [{ "label": "Súp lơ", "value": 188 }, { "label": "Xà lách", "value": 232 }], "unit": "%", "voice": "Súp lơ cũng tăng một trăm tám mươi tám phần trăm, đạt gần ba mươi ba triệu đô la. Hơn chín mươi phần trăm đến từ Trung Quốc." },
+    { "type": "points", "heading": "Vì sao tăng?", "items": ["Giá rẻ hơn, mẫu mã đồng đều", "Nguồn cung ổn định quanh năm", "Mưa bão làm rau trong nước giảm"], "voice": "Hàng nhập giá rẻ hơn, mẫu mã đồng đều và có quanh năm, trong khi mưa bão kéo dài làm nguồn rau Đà Lạt và nhiều nơi bị giảm." },
+    { "type": "points", "heading": "Giá ở chợ TP.HCM (27/11)", "items": ["Súp lơ Đà Lạt ~60.000đ/kg", "Súp lơ nhập ~40.000–50.000đ/kg", "Nông dân chịu áp lực chi phí"], "voice": "Tại một chợ ở Thành phố Hồ Chí Minh, súp lơ Đà Lạt khoảng sáu mươi nghìn đồng một ký, hàng nhập rẻ hơn mười đến hai mươi nghìn. Nông dân trong nước chịu áp lực chi phí." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}

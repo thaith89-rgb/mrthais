@@ -1,0 +1,17 @@
+{
+  "title": "Lãi suất tiết kiệm khuyến mãi cuối năm vượt 9%",
+  "caption": "Cuối năm, nhiều ngân hàng cộng thêm lãi suất ưu đãi để hút tiền gửi: có nơi cộng 2,2 – 2,5 điểm %, lãi thực nhận kỳ hạn 6 – 13 tháng có thể trên 9%/năm, cao nhất được nêu là 9,6%/năm kèm điều kiện. Trong khi đó, lãi niêm yết kỳ hạn 12 tháng phổ biến chỉ 4,8 – 7%/năm. Từ giữa tháng 10, Ngân hàng Nhà nước đã yêu cầu giảm lãi huy động. Lưu ý: lãi cao thường kèm điều kiện số tiền, kênh gửi, hạn chế rút trước hạn. Bạn đang gửi kỳ hạn bao lâu? 👇\nNguồn: Dân trí, VnExpress. Thông tin tham khảo, không phải lời khuyên đầu tư.",
+  "hashtags": ["#kinhte", "#taichinh", "#laisuat", "#guitietkiem", "#tintuc"],
+  "sources": [
+    { "name": "Dân trí", "title": "Ngân hàng tăng lãi suất ưu đãi, kéo khách gửi tiết kiệm cuối năm", "url": "https://dantri.com.vn/kinh-doanh/ngan-hang-tang-lai-suat-uu-dai-keo-khach-gui-tiet-kiem-cuoi-nam-20261128095649188.htm", "date": "28/11/2026" },
+    { "name": "VnExpress", "title": "Ngân hàng vẫn chào lãi suất tiết kiệm tới 9,6% một năm", "url": "https://vnexpress.net/ngan-hang-van-chao-lai-suat-tiet-kiem-toi-9-6-mot-nam-5148499.html", "date": "26/11/2026" }
+  ],
+  "scenes": [
+    { "type": "hook", "text": "Gửi tiết kiệm lãi trên 9% một năm?", "voice": "Cuối năm, gửi tiết kiệm có nơi chào lãi trên chín phần trăm một năm." },
+    { "type": "stat", "label": "Lãi suất khuyến mãi cao nhất được nêu", "value": "9,6", "unit": "%/năm", "change": "kèm điều kiện", "note": "Kỳ hạn 6–13 tháng, từ 200 triệu đồng", "voice": "Theo VnExpress, mức cao nhất được nêu là chín phẩy sáu phần trăm một năm, cho kỳ hạn sáu đến mười ba tháng, kèm nhiều điều kiện." },
+    { "type": "chart", "heading": "Lãi niêm yết cao nhất (%/năm)", "bars": [{ "label": "3 tháng", "value": 4.75 }, { "label": "6–9 tháng", "value": 6.9 }, { "label": "12 tháng", "value": 7 }, { "label": "18 tháng", "value": 7.1 }], "unit": "%/năm", "voice": "Trong khi đó, lãi niêm yết cao nhất chỉ khoảng bốn phẩy bảy lăm đến bảy phẩy một phần trăm, tuỳ kỳ hạn." },
+    { "type": "points", "heading": "Vì sao có lãi cao?", "items": ["Cộng thêm 2,2–2,5 điểm %", "Nhu cầu vốn cuối năm tăng", "NHNN từng yêu cầu giảm lãi"], "voice": "Một số ngân hàng cộng thêm hai phẩy hai đến hai phẩy năm điểm phần trăm, vì nhu cầu vốn cuối năm tăng, dù từ giữa tháng mười Ngân hàng Nhà nước đã yêu cầu giảm lãi huy động." },
+    { "type": "points", "heading": "Nên lưu ý", "items": ["Đọc kỹ điều kiện số tiền", "Rút trước hạn có thể mất lãi", "Khuyến mãi có thời hạn ngắn"], "voice": "Hãy đọc kỹ điều kiện về số tiền và kênh gửi. Rút trước hạn có thể chỉ được lãi không kỳ hạn. Ưu đãi thường chỉ kéo dài ngắn." },
+    { "type": "cta", "text": "Theo dõi để cập nhật 17h mỗi ngày", "voice": "Theo dõi kênh để cập nhật mười bảy giờ mỗi ngày." }
+  ]
+}
